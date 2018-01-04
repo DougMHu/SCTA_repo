@@ -1,0 +1,2 @@
+timestamp,Desired Frequency (Hz),BTC Power (dBm),AIM Power (dBm),AIM SNR (dB),AIM Demod Lock,AIM Demod Acq Time (sec),Bert Lock,Bert Total Bit Count,Bert Total Bit Error,Bit Error Rate
+2017-02-03T13:02:34.640857,1950000000,-76.1,-85.59457186038829,6.562768656790143,True,0.0,True,3455949496,0,0.0

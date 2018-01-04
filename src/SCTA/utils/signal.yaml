@@ -1,0 +1,33 @@
+%YAML 1.1
+---
+# Signal measurements and their types and units are standardized through the use of scope names. Scopes are dotted strings, specified from least-to-most specific.
+signal:
+  parameter:
+    transponder:
+      mode:
+        AMC:
+          constellation:
+            - "QPSK"
+            - "8PSK"
+          inner_code_rate:
+            - "1/2"
+            - "3/5"
+            - "2/3"
+            - "3/4"
+            - "4/5"
+            - "5/6"
+            - "6/7"
+            - "7/8"
+            - "8/9"
+            - "9/10"
+          broadcast_standard
+      center_frequency
+      alpha
+      polarity
+      pilots_enabled
+      scrambling_code
+      symbol_rate
+  measurement:
+    transponder:
+
+...

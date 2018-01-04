@@ -1,0 +1,1728 @@
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_loadDistortion ... SKIP: skipping distortion
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_loadFading ... SKIP: skipping fading
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setAlpha(20.0, 1) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setAlpha(35.0, 1) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setAlpha(20.0, 2) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setAlpha(35.0, 2) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setBroadcastStandard('DVBS', 1) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setBroadcastStandard('DVB-S2', 1) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setBroadcastStandard('DIRECTV', 1) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setBroadcastStandard('DVBS', 2) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setBroadcastStandard('DVB-S2', 2) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setBroadcastStandard('DIRECTV', 2) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setCW(True, 1) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setCW(False, 1) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setCW(True, 2) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setCW(False, 2) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setCodeRate ... SKIP: Skipping code rate
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setConstellation ... SKIP: skipping setConstellation
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setConstellationCodeRate('DVBS', '8PSK', '1/2', 1) ... FAIL
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setConstellationCodeRate('DVBS', '8PSK', '2/3', 1) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setConstellationCodeRate('DVBS', '8PSK', '3/4', 1) ... FAIL
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setConstellationCodeRate('DVBS', '8PSK', '5/6', 1) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setConstellationCodeRate('DVBS', '8PSK', '7/8', 1) ... FAIL
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setConstellationCodeRate('DVBS', 'QPSK', '1/2', 1) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setConstellationCodeRate('DVBS', 'QPSK', '2/3', 1) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setConstellationCodeRate('DVBS', 'QPSK', '3/4', 1) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setConstellationCodeRate('DVBS', 'QPSK', '5/6', 1) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setConstellationCodeRate('DVBS', 'QPSK', '7/8', 1) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setConstellationCodeRate('DVB-S2', '8PSK', '1/2', 1) ... FAIL
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setConstellationCodeRate('DVB-S2', '8PSK', '3/5', 1) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setConstellationCodeRate('DVB-S2', '8PSK', '2/3', 1) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setConstellationCodeRate('DVB-S2', '8PSK', '3/4', 1) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setConstellationCodeRate('DVB-S2', '8PSK', '4/5', 1) ... FAIL
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setConstellationCodeRate('DVB-S2', '8PSK', '5/6', 1) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setConstellationCodeRate('DVB-S2', '8PSK', '8/9', 1) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setConstellationCodeRate('DVB-S2', '8PSK', '9/10', 1) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setConstellationCodeRate('DVB-S2', 'QPSK', '1/2', 1) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setConstellationCodeRate('DVB-S2', 'QPSK', '3/5', 1) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setConstellationCodeRate('DVB-S2', 'QPSK', '2/3', 1) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setConstellationCodeRate('DVB-S2', 'QPSK', '3/4', 1) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setConstellationCodeRate('DVB-S2', 'QPSK', '4/5', 1) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setConstellationCodeRate('DVB-S2', 'QPSK', '5/6', 1) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setConstellationCodeRate('DVB-S2', 'QPSK', '8/9', 1) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setConstellationCodeRate('DVB-S2', 'QPSK', '9/10', 1) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setConstellationCodeRate('DIRECTV', '8PSK', '1/2', 1) ... FAIL
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setConstellationCodeRate('DIRECTV', '8PSK', '2/3', 1) ... FAIL
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setConstellationCodeRate('DIRECTV', '8PSK', '6/7', 1) ... FAIL
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setConstellationCodeRate('DIRECTV', 'QPSK', '1/2', 1) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setConstellationCodeRate('DIRECTV', 'QPSK', '2/3', 1) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setConstellationCodeRate('DIRECTV', 'QPSK', '6/7', 1) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setConstellationCodeRate('DVBS', '8PSK', '1/2', 2) ... FAIL
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setConstellationCodeRate('DVBS', '8PSK', '2/3', 2) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setConstellationCodeRate('DVBS', '8PSK', '3/4', 2) ... FAIL
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setConstellationCodeRate('DVBS', '8PSK', '5/6', 2) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setConstellationCodeRate('DVBS', '8PSK', '7/8', 2) ... FAIL
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setConstellationCodeRate('DVBS', 'QPSK', '1/2', 2) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setConstellationCodeRate('DVBS', 'QPSK', '2/3', 2) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setConstellationCodeRate('DVBS', 'QPSK', '3/4', 2) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setConstellationCodeRate('DVBS', 'QPSK', '5/6', 2) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setConstellationCodeRate('DVBS', 'QPSK', '7/8', 2) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setConstellationCodeRate('DVB-S2', '8PSK', '1/2', 2) ... FAIL
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setConstellationCodeRate('DVB-S2', '8PSK', '3/5', 2) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setConstellationCodeRate('DVB-S2', '8PSK', '2/3', 2) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setConstellationCodeRate('DVB-S2', '8PSK', '3/4', 2) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setConstellationCodeRate('DVB-S2', '8PSK', '4/5', 2) ... FAIL
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setConstellationCodeRate('DVB-S2', '8PSK', '5/6', 2) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setConstellationCodeRate('DVB-S2', '8PSK', '8/9', 2) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setConstellationCodeRate('DVB-S2', '8PSK', '9/10', 2) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setConstellationCodeRate('DVB-S2', 'QPSK', '1/2', 2) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setConstellationCodeRate('DVB-S2', 'QPSK', '3/5', 2) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setConstellationCodeRate('DVB-S2', 'QPSK', '2/3', 2) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setConstellationCodeRate('DVB-S2', 'QPSK', '3/4', 2) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setConstellationCodeRate('DVB-S2', 'QPSK', '4/5', 2) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setConstellationCodeRate('DVB-S2', 'QPSK', '5/6', 2) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setConstellationCodeRate('DVB-S2', 'QPSK', '8/9', 2) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setConstellationCodeRate('DVB-S2', 'QPSK', '9/10', 2) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setConstellationCodeRate('DIRECTV', '8PSK', '1/2', 2) ... FAIL
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setConstellationCodeRate('DIRECTV', '8PSK', '2/3', 2) ... FAIL
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setConstellationCodeRate('DIRECTV', '8PSK', '6/7', 2) ... FAIL
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setConstellationCodeRate('DIRECTV', 'QPSK', '1/2', 2) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setConstellationCodeRate('DIRECTV', 'QPSK', '2/3', 2) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setConstellationCodeRate('DIRECTV', 'QPSK', '6/7', 2) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setFrequency(250000000.0, 1) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setFrequency(350000000.0, 1) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setFrequency(450000000.0, 1) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setFrequency(550000000.0, 1) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setFrequency(650000000.0, 1) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setFrequency(750000000.0, 1) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setFrequency(850000000.0, 1) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setFrequency(950000000.0, 1) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setFrequency(1050000000.0, 1) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setFrequency(1150000000.0, 1) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setFrequency(1250000000.0, 1) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setFrequency(1350000000.0, 1) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setFrequency(1450000000.0, 1) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setFrequency(1550000000.0, 1) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setFrequency(1650000000.0, 1) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setFrequency(1750000000.0, 1) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setFrequency(1850000000.0, 1) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setFrequency(1950000000.0, 1) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setFrequency(2050000000.0, 1) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setFrequency(2150000000.0, 1) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setFrequency(250000000.0, 2) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setFrequency(350000000.0, 2) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setFrequency(450000000.0, 2) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setFrequency(550000000.0, 2) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setFrequency(650000000.0, 2) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setFrequency(750000000.0, 2) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setFrequency(850000000.0, 2) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setFrequency(950000000.0, 2) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setFrequency(1050000000.0, 2) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setFrequency(1150000000.0, 2) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setFrequency(1250000000.0, 2) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setFrequency(1350000000.0, 2) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setFrequency(1450000000.0, 2) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setFrequency(1550000000.0, 2) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setFrequency(1650000000.0, 2) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setFrequency(1750000000.0, 2) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setFrequency(1850000000.0, 2) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setFrequency(1950000000.0, 2) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setFrequency(2050000000.0, 2) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setFrequency(2150000000.0, 2) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setMode(3, 1) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setMode(4, 1) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setMode(5, 1) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setMode(6, 1) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setMode(7, 1) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setMode(8, 1) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setMode(9, 1) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setMode(10, 1) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setMode(11, 1) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setMode(12, 1) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setMode(13, 1) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setMode(14, 1) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setMode(15, 1) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setMode(16, 1) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setMode(19, 1) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setMode(20, 1) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setMode(21, 1) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setMode(22, 1) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setMode(23, 1) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setMode(3, 2) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setMode(4, 2) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setMode(5, 2) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setMode(6, 2) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setMode(7, 2) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setMode(8, 2) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setMode(9, 2) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setMode(10, 2) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setMode(11, 2) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setMode(12, 2) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setMode(13, 2) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setMode(14, 2) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setMode(15, 2) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setMode(16, 2) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setMode(19, 2) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setMode(20, 2) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setMode(21, 2) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setMode(22, 2) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setMode(23, 2) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setNoiseLevel(8, 1) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setNoiseLevel(10, 1) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setNoiseLevel(20, 1) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setNoiseLevel(8, 2) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setNoiseLevel(10, 2) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setNoiseLevel(20, 2) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setNoiseState('ADD', 1) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setNoiseState('OFF', 1) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setNoiseState('ONLY', 1) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setNoiseState('ADD', 2) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setNoiseState('OFF', 2) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setNoiseState('ONLY', 2) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setPilots(True, 1) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setPilots(False, 1) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setPilots(True, 2) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setPilots(False, 2) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setPower(-45.0, 1) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setPower(-40.0, 1) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setPower(-35.0, 1) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setPower(-30.0, 1) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setPower(-25.0, 1) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setPower(-20.0, 1) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setPower(-15.0, 1) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setPower(-10.0, 1) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setPower(-5.0, 1) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setPower(-45.0, 2) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setPower(-40.0, 2) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setPower(-35.0, 2) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setPower(-30.0, 2) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setPower(-25.0, 2) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setPower(-20.0, 2) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setPower(-15.0, 2) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setPower(-10.0, 2) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setPower(-5.0, 2) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setScramblingCode(0, 1) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setScramblingCode(1, 1) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setScramblingCode(2, 1) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setScramblingCode(3, 1) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setScramblingCode(4, 1) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setScramblingCode(5, 1) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setScramblingCode(6, 1) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setScramblingCode(7, 1) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setScramblingCode(8, 1) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setScramblingCode(9, 1) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setScramblingCode(10, 1) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setScramblingCode(0, 2) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setScramblingCode(1, 2) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setScramblingCode(2, 2) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setScramblingCode(3, 2) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setScramblingCode(4, 2) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setScramblingCode(5, 2) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setScramblingCode(6, 2) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setScramblingCode(7, 2) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setScramblingCode(8, 2) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setScramblingCode(9, 2) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setScramblingCode(10, 2) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setSignalNoiseLevel(9, 1) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setSignalNoiseLevel(11, 1) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setSignalNoiseLevel(19, 1) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setSignalNoiseLevel(9, 2) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setSignalNoiseLevel(11, 2) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setSignalNoiseLevel(19, 2) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setSignalNoiseState(True, 1) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setSignalNoiseState(False, 1) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setSignalNoiseState(True, 2) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setSignalNoiseState(False, 2) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setSymbolRate(20000000.0, 1) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setSymbolRate(30000000.0, 1) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setSymbolRate(20000000.0, 2) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setSymbolRate(30000000.0, 2) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setTransponder(Transponder({'mode': Mode({'fec': '1/2', 'bcstd': 'DVB-S2', 'mod': 'QPSK'}), 'scramb': 0, 'symb': 20000000.0, 'freq': 1200000000.0, 'id': 'txp', 'roll': 20.0, 'pilots': True}), 1) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setTransponder(Transponder({'mode': Mode({'fec': '3/5', 'bcstd': 'DVB-S2', 'mod': 'QPSK'}), 'scramb': 0, 'symb': 20000000.0, 'freq': 1200000000.0, 'id': 'txp', 'roll': 20.0, 'pilots': True}), 1) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setTransponder(Transponder({'mode': Mode({'fec': '2/3', 'bcstd': 'DVB-S2', 'mod': 'QPSK'}), 'scramb': 0, 'symb': 20000000.0, 'freq': 1200000000.0, 'id': 'txp', 'roll': 20.0, 'pilots': True}), 1) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setTransponder(Transponder({'mode': Mode({'fec': '3/4', 'bcstd': 'DVB-S2', 'mod': 'QPSK'}), 'scramb': 0, 'symb': 20000000.0, 'freq': 1200000000.0, 'id': 'txp', 'roll': 20.0, 'pilots': True}), 1) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setTransponder(Transponder({'mode': Mode({'fec': '4/5', 'bcstd': 'DVB-S2', 'mod': 'QPSK'}), 'scramb': 0, 'symb': 20000000.0, 'freq': 1200000000.0, 'id': 'txp', 'roll': 20.0, 'pilots': True}), 1) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setTransponder(Transponder({'mode': Mode({'fec': '5/6', 'bcstd': 'DVB-S2', 'mod': 'QPSK'}), 'scramb': 0, 'symb': 20000000.0, 'freq': 1200000000.0, 'id': 'txp', 'roll': 20.0, 'pilots': True}), 1) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setTransponder(Transponder({'mode': Mode({'fec': '8/9', 'bcstd': 'DVB-S2', 'mod': 'QPSK'}), 'scramb': 0, 'symb': 20000000.0, 'freq': 1200000000.0, 'id': 'txp', 'roll': 20.0, 'pilots': True}), 1) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setTransponder(Transponder({'mode': Mode({'fec': '9/10', 'bcstd': 'DVB-S2', 'mod': 'QPSK'}), 'scramb': 0, 'symb': 20000000.0, 'freq': 1200000000.0, 'id': 'txp', 'roll': 20.0, 'pilots': True}), 1) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setTransponder(Transponder({'mode': Mode({'fec': '3/5', 'bcstd': 'DVB-S2', 'mod': '8PSK'}), 'scramb': 0, 'symb': 20000000.0, 'freq': 1200000000.0, 'id': 'txp', 'roll': 20.0, 'pilots': True}), 1) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setTransponder(Transponder({'mode': Mode({'fec': '2/3', 'bcstd': 'DVB-S2', 'mod': '8PSK'}), 'scramb': 0, 'symb': 20000000.0, 'freq': 1200000000.0, 'id': 'txp', 'roll': 20.0, 'pilots': True}), 1) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setTransponder(Transponder({'mode': Mode({'fec': '3/4', 'bcstd': 'DVB-S2', 'mod': '8PSK'}), 'scramb': 0, 'symb': 20000000.0, 'freq': 1200000000.0, 'id': 'txp', 'roll': 20.0, 'pilots': True}), 1) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setTransponder(Transponder({'mode': Mode({'fec': '5/6', 'bcstd': 'DVB-S2', 'mod': '8PSK'}), 'scramb': 0, 'symb': 20000000.0, 'freq': 1200000000.0, 'id': 'txp', 'roll': 20.0, 'pilots': True}), 1) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setTransponder(Transponder({'mode': Mode({'fec': '8/9', 'bcstd': 'DVB-S2', 'mod': '8PSK'}), 'scramb': 0, 'symb': 20000000.0, 'freq': 1200000000.0, 'id': 'txp', 'roll': 20.0, 'pilots': True}), 1) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setTransponder(Transponder({'mode': Mode({'fec': '9/10', 'bcstd': 'DVB-S2', 'mod': '8PSK'}), 'scramb': 0, 'symb': 20000000.0, 'freq': 1200000000.0, 'id': 'txp', 'roll': 20.0, 'pilots': True}), 1) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setTransponder(Transponder({'mode': Mode({'fec': '1/2', 'bcstd': 'DVBS', 'mod': 'QPSK'}), 'scramb': 0, 'symb': 20000000.0, 'freq': 1200000000.0, 'id': 'txp', 'roll': 20.0, 'pilots': True}), 1) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setTransponder(Transponder({'mode': Mode({'fec': '2/3', 'bcstd': 'DVBS', 'mod': 'QPSK'}), 'scramb': 0, 'symb': 20000000.0, 'freq': 1200000000.0, 'id': 'txp', 'roll': 20.0, 'pilots': True}), 1) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setTransponder(Transponder({'mode': Mode({'fec': '3/4', 'bcstd': 'DVBS', 'mod': 'QPSK'}), 'scramb': 0, 'symb': 20000000.0, 'freq': 1200000000.0, 'id': 'txp', 'roll': 20.0, 'pilots': True}), 1) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setTransponder(Transponder({'mode': Mode({'fec': '5/6', 'bcstd': 'DVBS', 'mod': 'QPSK'}), 'scramb': 0, 'symb': 20000000.0, 'freq': 1200000000.0, 'id': 'txp', 'roll': 20.0, 'pilots': True}), 1) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setTransponder(Transponder({'mode': Mode({'fec': '7/8', 'bcstd': 'DVBS', 'mod': 'QPSK'}), 'scramb': 0, 'symb': 20000000.0, 'freq': 1200000000.0, 'id': 'txp', 'roll': 20.0, 'pilots': True}), 1) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setTransponder(Transponder({'mode': Mode({'fec': '1/2', 'bcstd': 'DVB-S2', 'mod': 'QPSK'}), 'scramb': 0, 'symb': 20000000.0, 'freq': 1200000000.0, 'id': 'txp', 'roll': 20.0, 'pilots': True}), 2) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setTransponder(Transponder({'mode': Mode({'fec': '3/5', 'bcstd': 'DVB-S2', 'mod': 'QPSK'}), 'scramb': 0, 'symb': 20000000.0, 'freq': 1200000000.0, 'id': 'txp', 'roll': 20.0, 'pilots': True}), 2) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setTransponder(Transponder({'mode': Mode({'fec': '2/3', 'bcstd': 'DVB-S2', 'mod': 'QPSK'}), 'scramb': 0, 'symb': 20000000.0, 'freq': 1200000000.0, 'id': 'txp', 'roll': 20.0, 'pilots': True}), 2) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setTransponder(Transponder({'mode': Mode({'fec': '3/4', 'bcstd': 'DVB-S2', 'mod': 'QPSK'}), 'scramb': 0, 'symb': 20000000.0, 'freq': 1200000000.0, 'id': 'txp', 'roll': 20.0, 'pilots': True}), 2) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setTransponder(Transponder({'mode': Mode({'fec': '4/5', 'bcstd': 'DVB-S2', 'mod': 'QPSK'}), 'scramb': 0, 'symb': 20000000.0, 'freq': 1200000000.0, 'id': 'txp', 'roll': 20.0, 'pilots': True}), 2) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setTransponder(Transponder({'mode': Mode({'fec': '5/6', 'bcstd': 'DVB-S2', 'mod': 'QPSK'}), 'scramb': 0, 'symb': 20000000.0, 'freq': 1200000000.0, 'id': 'txp', 'roll': 20.0, 'pilots': True}), 2) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setTransponder(Transponder({'mode': Mode({'fec': '8/9', 'bcstd': 'DVB-S2', 'mod': 'QPSK'}), 'scramb': 0, 'symb': 20000000.0, 'freq': 1200000000.0, 'id': 'txp', 'roll': 20.0, 'pilots': True}), 2) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setTransponder(Transponder({'mode': Mode({'fec': '9/10', 'bcstd': 'DVB-S2', 'mod': 'QPSK'}), 'scramb': 0, 'symb': 20000000.0, 'freq': 1200000000.0, 'id': 'txp', 'roll': 20.0, 'pilots': True}), 2) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setTransponder(Transponder({'mode': Mode({'fec': '3/5', 'bcstd': 'DVB-S2', 'mod': '8PSK'}), 'scramb': 0, 'symb': 20000000.0, 'freq': 1200000000.0, 'id': 'txp', 'roll': 20.0, 'pilots': True}), 2) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setTransponder(Transponder({'mode': Mode({'fec': '2/3', 'bcstd': 'DVB-S2', 'mod': '8PSK'}), 'scramb': 0, 'symb': 20000000.0, 'freq': 1200000000.0, 'id': 'txp', 'roll': 20.0, 'pilots': True}), 2) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setTransponder(Transponder({'mode': Mode({'fec': '3/4', 'bcstd': 'DVB-S2', 'mod': '8PSK'}), 'scramb': 0, 'symb': 20000000.0, 'freq': 1200000000.0, 'id': 'txp', 'roll': 20.0, 'pilots': True}), 2) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setTransponder(Transponder({'mode': Mode({'fec': '5/6', 'bcstd': 'DVB-S2', 'mod': '8PSK'}), 'scramb': 0, 'symb': 20000000.0, 'freq': 1200000000.0, 'id': 'txp', 'roll': 20.0, 'pilots': True}), 2) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setTransponder(Transponder({'mode': Mode({'fec': '8/9', 'bcstd': 'DVB-S2', 'mod': '8PSK'}), 'scramb': 0, 'symb': 20000000.0, 'freq': 1200000000.0, 'id': 'txp', 'roll': 20.0, 'pilots': True}), 2) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setTransponder(Transponder({'mode': Mode({'fec': '9/10', 'bcstd': 'DVB-S2', 'mod': '8PSK'}), 'scramb': 0, 'symb': 20000000.0, 'freq': 1200000000.0, 'id': 'txp', 'roll': 20.0, 'pilots': True}), 2) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setTransponder(Transponder({'mode': Mode({'fec': '1/2', 'bcstd': 'DVBS', 'mod': 'QPSK'}), 'scramb': 0, 'symb': 20000000.0, 'freq': 1200000000.0, 'id': 'txp', 'roll': 20.0, 'pilots': True}), 2) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setTransponder(Transponder({'mode': Mode({'fec': '2/3', 'bcstd': 'DVBS', 'mod': 'QPSK'}), 'scramb': 0, 'symb': 20000000.0, 'freq': 1200000000.0, 'id': 'txp', 'roll': 20.0, 'pilots': True}), 2) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setTransponder(Transponder({'mode': Mode({'fec': '3/4', 'bcstd': 'DVBS', 'mod': 'QPSK'}), 'scramb': 0, 'symb': 20000000.0, 'freq': 1200000000.0, 'id': 'txp', 'roll': 20.0, 'pilots': True}), 2) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setTransponder(Transponder({'mode': Mode({'fec': '5/6', 'bcstd': 'DVBS', 'mod': 'QPSK'}), 'scramb': 0, 'symb': 20000000.0, 'freq': 1200000000.0, 'id': 'txp', 'roll': 20.0, 'pilots': True}), 2) ... ok
+SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setTransponder(Transponder({'mode': Mode({'fec': '7/8', 'bcstd': 'DVBS', 'mod': 'QPSK'}), 'scramb': 0, 'symb': 20000000.0, 'freq': 1200000000.0, 'id': 'txp', 'roll': 20.0, 'pilots': True}), 2) ... ok
+
+======================================================================
+FAIL: SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setConstellationCodeRate('DVBS', '8PSK', '1/2', 1)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\labuser\Anaconda3\envs\scta-dev\lib\site-packages\nose\case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "C:\Users\labuser\Documents\SCTA_repo\src\unittests\BTC_Test.py", line 120, in check_setConstellationCodeRate
+    assert (test_fec== actual_fec)
+AssertionError: 
+-------------------- >> begin captured logging << --------------------
+SCTA_repo.src.unittests.BTC_Test: DEBUG: Bcstds set is: DVBS
+pyvisa: DEBUG: viWrite(2, b'SOUR1:DM:TRAN:STAN DVBS\r\n', 25, 'c_ulong(25)') -> 0
+SCTA.Instrumentation.Comm: INFO: Wrote 'SOUR1:DM:TRAN:STAN DVBS'
+pyvisa: DEBUG: viWrite(2, b'*OPC?\r\n', 7, 'c_ulong(7)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x000000000402BB48>, 20480, 'c_ulong(0)') -> -1073807339
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - exception while reading: VI_ERROR_TMO (-1073807339): Timeout expired before operation completed.
+SCTA.Instrumentation.Comm: DEBUG: pyvisa.errors.VisaIOError: Timeout expired before operation completed.
+pyvisa: DEBUG: viWrite(2, b'*OPC?\r\n', 7, 'c_ulong(7)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x000000000402B6C8>, 20480, 'c_ulong(2)') -> 0
+SCTA.Instrumentation.Comm: DEBUG: Write operation complete
+SCTA.Instrumentation.BTC: INFO: Set broadcast standard: DVBS
+pyvisa: DEBUG: viWrite(2, b'SOUR1:DM:TRAN:STAN?\r\n', 21, 'c_ulong(21)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x000000000402BB48>, 20480, 'c_ulong(5)') -> 0
+SCTA.Instrumentation.Comm: INFO: Queried 'SOUR1:DM:TRAN:STAN?'
+SCTA.Instrumentation.Comm: DEBUG: query result = DVBS
+
+SCTA.Instrumentation.BTC: INFO: Got broadcast standard: DVBS
+SCTA_repo.src.unittests.BTC_Test: DEBUG: the BCSTDS is: DVBS
+pyvisa: DEBUG: viWrite(2, b'SOUR1:DM:TRAN:STAN?\r\n', 21, 'c_ulong(21)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x000000000402BAC8>, 20480, 'c_ulong(5)') -> 0
+SCTA.Instrumentation.Comm: INFO: Queried 'SOUR1:DM:TRAN:STAN?'
+SCTA.Instrumentation.Comm: DEBUG: query result = DVBS
+
+SCTA.Instrumentation.BTC: INFO: Got broadcast standard: DVBS
+pyvisa: DEBUG: viWrite(2, b'SOUR1:DM:TRAN:STAN?\r\n', 21, 'c_ulong(21)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000003ED2E48>, 20480, 'c_ulong(5)') -> 0
+SCTA.Instrumentation.Comm: INFO: Queried 'SOUR1:DM:TRAN:STAN?'
+SCTA.Instrumentation.Comm: DEBUG: query result = DVBS
+
+SCTA.Instrumentation.BTC: INFO: Got broadcast standard: DVBS
+pyvisa: DEBUG: viWrite(2, b'SOUR1:IQC:DVBS1:CONS S8\r\n', 25, 'c_ulong(25)') -> 0
+SCTA.Instrumentation.Comm: INFO: Wrote 'SOUR1:IQC:DVBS1:CONS S8'
+pyvisa: DEBUG: viWrite(2, b'*OPC?\r\n', 7, 'c_ulong(7)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000003ED2E48>, 20480, 'c_ulong(2)') -> 0
+SCTA.Instrumentation.Comm: DEBUG: Write operation complete
+pyvisa: DEBUG: viWrite(2, b'SOUR1:IQC:DVBS1:RATE R1_2\r\n', 27, 'c_ulong(27)') -> 0
+SCTA.Instrumentation.Comm: INFO: Wrote 'SOUR1:IQC:DVBS1:RATE R1_2'
+pyvisa: DEBUG: viWrite(2, b'*OPC?\r\n', 7, 'c_ulong(7)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000003ED2E48>, 20480, 'c_ulong(2)') -> 0
+SCTA.Instrumentation.Comm: DEBUG: Write operation complete
+pyvisa: DEBUG: viWrite(2, b'SOUR1:DM:TRAN:STAN?\r\n', 21, 'c_ulong(21)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000003ED2E48>, 20480, 'c_ulong(5)') -> 0
+SCTA.Instrumentation.Comm: INFO: Queried 'SOUR1:DM:TRAN:STAN?'
+SCTA.Instrumentation.Comm: DEBUG: query result = DVBS
+
+SCTA.Instrumentation.BTC: INFO: Got broadcast standard: DVBS
+pyvisa: DEBUG: viWrite(2, b'SOUR1:DM:TRAN:STAN?\r\n', 21, 'c_ulong(21)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000003ED2E48>, 20480, 'c_ulong(5)') -> 0
+SCTA.Instrumentation.Comm: INFO: Queried 'SOUR1:DM:TRAN:STAN?'
+SCTA.Instrumentation.Comm: DEBUG: query result = DVBS
+
+SCTA.Instrumentation.BTC: INFO: Got broadcast standard: DVBS
+pyvisa: DEBUG: viWrite(2, b'SOUR1:DM:TRAN:STAN?\r\n', 21, 'c_ulong(21)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000003ED2E48>, 20480, 'c_ulong(5)') -> 0
+SCTA.Instrumentation.Comm: INFO: Queried 'SOUR1:DM:TRAN:STAN?'
+SCTA.Instrumentation.Comm: DEBUG: query result = DVBS
+
+SCTA.Instrumentation.BTC: INFO: Got broadcast standard: DVBS
+pyvisa: DEBUG: viWrite(2, b'SOUR1:DM:TRAN:STAN?\r\n', 21, 'c_ulong(21)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000003ED2E48>, 20480, 'c_ulong(5)') -> 0
+SCTA.Instrumentation.Comm: INFO: Queried 'SOUR1:DM:TRAN:STAN?'
+SCTA.Instrumentation.Comm: DEBUG: query result = DVBS
+
+SCTA.Instrumentation.BTC: INFO: Got broadcast standard: DVBS
+pyvisa: DEBUG: viWrite(2, b'SOUR1:IQC:DVBS1:CONS?\r\n', 23, 'c_ulong(23)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000003ED2E48>, 20480, 'c_ulong(3)') -> 0
+SCTA.Instrumentation.Comm: INFO: Queried 'SOUR1:IQC:DVBS1:CONS?'
+SCTA.Instrumentation.Comm: DEBUG: query result = S8
+
+pyvisa: DEBUG: viWrite(2, b'SOUR1:IQC:DVBS1:RATE?\r\n', 23, 'c_ulong(23)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000003ED2E48>, 20480, 'c_ulong(5)') -> 0
+SCTA.Instrumentation.Comm: INFO: Queried 'SOUR1:IQC:DVBS1:RATE?'
+SCTA.Instrumentation.Comm: DEBUG: query result = R2_3
+
+SCTA.Instrumentation.BTC: DEBUG: checking DVBS1 the fec after query is: R2_3
+SCTA_repo.src.unittests.BTC_Test: DEBUG: the actual_mod is: '8PSK'
+SCTA_repo.src.unittests.BTC_Test: DEBUG: the test mod is: '8PSK'
+SCTA_repo.src.unittests.BTC_Test: DEBUG: the actual_fec is: 2/3
+SCTA_repo.src.unittests.BTC_Test: DEBUG: the test fec is: 1/2
+--------------------- >> end captured logging << ---------------------
+
+======================================================================
+FAIL: SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setConstellationCodeRate('DVBS', '8PSK', '3/4', 1)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\labuser\Anaconda3\envs\scta-dev\lib\site-packages\nose\case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "C:\Users\labuser\Documents\SCTA_repo\src\unittests\BTC_Test.py", line 120, in check_setConstellationCodeRate
+    assert (test_fec== actual_fec)
+AssertionError: 
+-------------------- >> begin captured logging << --------------------
+pyvisa: DEBUG: viWrite(2, b'SOUR1:DM:TRAN:STAN?\r\n', 21, 'c_ulong(21)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006C66C48>, 20480, 'c_ulong(5)') -> 0
+SCTA.Instrumentation.Comm: INFO: Queried 'SOUR1:DM:TRAN:STAN?'
+SCTA.Instrumentation.Comm: DEBUG: query result = DVBS
+
+SCTA.Instrumentation.BTC: INFO: Got broadcast standard: DVBS
+SCTA_repo.src.unittests.BTC_Test: DEBUG: the BCSTDS is: DVBS
+pyvisa: DEBUG: viWrite(2, b'SOUR1:DM:TRAN:STAN?\r\n', 21, 'c_ulong(21)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006C66CC8>, 20480, 'c_ulong(5)') -> 0
+SCTA.Instrumentation.Comm: INFO: Queried 'SOUR1:DM:TRAN:STAN?'
+SCTA.Instrumentation.Comm: DEBUG: query result = DVBS
+
+SCTA.Instrumentation.BTC: INFO: Got broadcast standard: DVBS
+pyvisa: DEBUG: viWrite(2, b'SOUR1:DM:TRAN:STAN?\r\n', 21, 'c_ulong(21)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006C66D48>, 20480, 'c_ulong(5)') -> 0
+SCTA.Instrumentation.Comm: INFO: Queried 'SOUR1:DM:TRAN:STAN?'
+SCTA.Instrumentation.Comm: DEBUG: query result = DVBS
+
+SCTA.Instrumentation.BTC: INFO: Got broadcast standard: DVBS
+pyvisa: DEBUG: viWrite(2, b'SOUR1:IQC:DVBS1:CONS S8\r\n', 25, 'c_ulong(25)') -> 0
+SCTA.Instrumentation.Comm: INFO: Wrote 'SOUR1:IQC:DVBS1:CONS S8'
+pyvisa: DEBUG: viWrite(2, b'*OPC?\r\n', 7, 'c_ulong(7)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006C66DC8>, 20480, 'c_ulong(2)') -> 0
+SCTA.Instrumentation.Comm: DEBUG: Write operation complete
+pyvisa: DEBUG: viWrite(2, b'SOUR1:IQC:DVBS1:RATE R3_4\r\n', 27, 'c_ulong(27)') -> 0
+SCTA.Instrumentation.Comm: INFO: Wrote 'SOUR1:IQC:DVBS1:RATE R3_4'
+pyvisa: DEBUG: viWrite(2, b'*OPC?\r\n', 7, 'c_ulong(7)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006C66D48>, 20480, 'c_ulong(2)') -> 0
+SCTA.Instrumentation.Comm: DEBUG: Write operation complete
+pyvisa: DEBUG: viWrite(2, b'SOUR1:DM:TRAN:STAN?\r\n', 21, 'c_ulong(21)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006C66DC8>, 20480, 'c_ulong(5)') -> 0
+SCTA.Instrumentation.Comm: INFO: Queried 'SOUR1:DM:TRAN:STAN?'
+SCTA.Instrumentation.Comm: DEBUG: query result = DVBS
+
+SCTA.Instrumentation.BTC: INFO: Got broadcast standard: DVBS
+pyvisa: DEBUG: viWrite(2, b'SOUR1:DM:TRAN:STAN?\r\n', 21, 'c_ulong(21)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006C66E48>, 20480, 'c_ulong(5)') -> 0
+SCTA.Instrumentation.Comm: INFO: Queried 'SOUR1:DM:TRAN:STAN?'
+SCTA.Instrumentation.Comm: DEBUG: query result = DVBS
+
+SCTA.Instrumentation.BTC: INFO: Got broadcast standard: DVBS
+pyvisa: DEBUG: viWrite(2, b'SOUR1:DM:TRAN:STAN?\r\n', 21, 'c_ulong(21)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006C66EC8>, 20480, 'c_ulong(5)') -> 0
+SCTA.Instrumentation.Comm: INFO: Queried 'SOUR1:DM:TRAN:STAN?'
+SCTA.Instrumentation.Comm: DEBUG: query result = DVBS
+
+SCTA.Instrumentation.BTC: INFO: Got broadcast standard: DVBS
+pyvisa: DEBUG: viWrite(2, b'SOUR1:DM:TRAN:STAN?\r\n', 21, 'c_ulong(21)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006C66F48>, 20480, 'c_ulong(5)') -> 0
+SCTA.Instrumentation.Comm: INFO: Queried 'SOUR1:DM:TRAN:STAN?'
+SCTA.Instrumentation.Comm: DEBUG: query result = DVBS
+
+SCTA.Instrumentation.BTC: INFO: Got broadcast standard: DVBS
+pyvisa: DEBUG: viWrite(2, b'SOUR1:IQC:DVBS1:CONS?\r\n', 23, 'c_ulong(23)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006C66F48>, 20480, 'c_ulong(3)') -> 0
+SCTA.Instrumentation.Comm: INFO: Queried 'SOUR1:IQC:DVBS1:CONS?'
+SCTA.Instrumentation.Comm: DEBUG: query result = S8
+
+pyvisa: DEBUG: viWrite(2, b'SOUR1:IQC:DVBS1:RATE?\r\n', 23, 'c_ulong(23)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006C66F48>, 20480, 'c_ulong(5)') -> 0
+SCTA.Instrumentation.Comm: INFO: Queried 'SOUR1:IQC:DVBS1:RATE?'
+SCTA.Instrumentation.Comm: DEBUG: query result = R2_3
+
+SCTA.Instrumentation.BTC: DEBUG: checking DVBS1 the fec after query is: R2_3
+SCTA_repo.src.unittests.BTC_Test: DEBUG: the actual_mod is: '8PSK'
+SCTA_repo.src.unittests.BTC_Test: DEBUG: the test mod is: '8PSK'
+SCTA_repo.src.unittests.BTC_Test: DEBUG: the actual_fec is: 2/3
+SCTA_repo.src.unittests.BTC_Test: DEBUG: the test fec is: 3/4
+--------------------- >> end captured logging << ---------------------
+
+======================================================================
+FAIL: SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setConstellationCodeRate('DVBS', '8PSK', '7/8', 1)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\labuser\Anaconda3\envs\scta-dev\lib\site-packages\nose\case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "C:\Users\labuser\Documents\SCTA_repo\src\unittests\BTC_Test.py", line 120, in check_setConstellationCodeRate
+    assert (test_fec== actual_fec)
+AssertionError: 
+-------------------- >> begin captured logging << --------------------
+pyvisa: DEBUG: viWrite(2, b'SOUR1:DM:TRAN:STAN?\r\n', 21, 'c_ulong(21)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CC31C8>, 20480, 'c_ulong(5)') -> 0
+SCTA.Instrumentation.Comm: INFO: Queried 'SOUR1:DM:TRAN:STAN?'
+SCTA.Instrumentation.Comm: DEBUG: query result = DVBS
+
+SCTA.Instrumentation.BTC: INFO: Got broadcast standard: DVBS
+SCTA_repo.src.unittests.BTC_Test: DEBUG: the BCSTDS is: DVBS
+pyvisa: DEBUG: viWrite(2, b'SOUR1:DM:TRAN:STAN?\r\n', 21, 'c_ulong(21)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CC3248>, 20480, 'c_ulong(5)') -> 0
+SCTA.Instrumentation.Comm: INFO: Queried 'SOUR1:DM:TRAN:STAN?'
+SCTA.Instrumentation.Comm: DEBUG: query result = DVBS
+
+SCTA.Instrumentation.BTC: INFO: Got broadcast standard: DVBS
+pyvisa: DEBUG: viWrite(2, b'SOUR1:DM:TRAN:STAN?\r\n', 21, 'c_ulong(21)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CC32C8>, 20480, 'c_ulong(5)') -> 0
+SCTA.Instrumentation.Comm: INFO: Queried 'SOUR1:DM:TRAN:STAN?'
+SCTA.Instrumentation.Comm: DEBUG: query result = DVBS
+
+SCTA.Instrumentation.BTC: INFO: Got broadcast standard: DVBS
+pyvisa: DEBUG: viWrite(2, b'SOUR1:IQC:DVBS1:CONS S8\r\n', 25, 'c_ulong(25)') -> 0
+SCTA.Instrumentation.Comm: INFO: Wrote 'SOUR1:IQC:DVBS1:CONS S8'
+pyvisa: DEBUG: viWrite(2, b'*OPC?\r\n', 7, 'c_ulong(7)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CC3348>, 20480, 'c_ulong(2)') -> 0
+SCTA.Instrumentation.Comm: DEBUG: Write operation complete
+pyvisa: DEBUG: viWrite(2, b'SOUR1:IQC:DVBS1:RATE R7_8\r\n', 27, 'c_ulong(27)') -> 0
+SCTA.Instrumentation.Comm: INFO: Wrote 'SOUR1:IQC:DVBS1:RATE R7_8'
+pyvisa: DEBUG: viWrite(2, b'*OPC?\r\n', 7, 'c_ulong(7)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CC32C8>, 20480, 'c_ulong(2)') -> 0
+SCTA.Instrumentation.Comm: DEBUG: Write operation complete
+pyvisa: DEBUG: viWrite(2, b'SOUR1:DM:TRAN:STAN?\r\n', 21, 'c_ulong(21)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CC3348>, 20480, 'c_ulong(5)') -> 0
+SCTA.Instrumentation.Comm: INFO: Queried 'SOUR1:DM:TRAN:STAN?'
+SCTA.Instrumentation.Comm: DEBUG: query result = DVBS
+
+SCTA.Instrumentation.BTC: INFO: Got broadcast standard: DVBS
+pyvisa: DEBUG: viWrite(2, b'SOUR1:DM:TRAN:STAN?\r\n', 21, 'c_ulong(21)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CC33C8>, 20480, 'c_ulong(5)') -> 0
+SCTA.Instrumentation.Comm: INFO: Queried 'SOUR1:DM:TRAN:STAN?'
+SCTA.Instrumentation.Comm: DEBUG: query result = DVBS
+
+SCTA.Instrumentation.BTC: INFO: Got broadcast standard: DVBS
+pyvisa: DEBUG: viWrite(2, b'SOUR1:DM:TRAN:STAN?\r\n', 21, 'c_ulong(21)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CC3448>, 20480, 'c_ulong(5)') -> 0
+SCTA.Instrumentation.Comm: INFO: Queried 'SOUR1:DM:TRAN:STAN?'
+SCTA.Instrumentation.Comm: DEBUG: query result = DVBS
+
+SCTA.Instrumentation.BTC: INFO: Got broadcast standard: DVBS
+pyvisa: DEBUG: viWrite(2, b'SOUR1:DM:TRAN:STAN?\r\n', 21, 'c_ulong(21)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CC34C8>, 20480, 'c_ulong(5)') -> 0
+SCTA.Instrumentation.Comm: INFO: Queried 'SOUR1:DM:TRAN:STAN?'
+SCTA.Instrumentation.Comm: DEBUG: query result = DVBS
+
+SCTA.Instrumentation.BTC: INFO: Got broadcast standard: DVBS
+pyvisa: DEBUG: viWrite(2, b'SOUR1:IQC:DVBS1:CONS?\r\n', 23, 'c_ulong(23)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CC3548>, 20480, 'c_ulong(3)') -> 0
+SCTA.Instrumentation.Comm: INFO: Queried 'SOUR1:IQC:DVBS1:CONS?'
+SCTA.Instrumentation.Comm: DEBUG: query result = S8
+
+pyvisa: DEBUG: viWrite(2, b'SOUR1:IQC:DVBS1:RATE?\r\n', 23, 'c_ulong(23)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CC3648>, 20480, 'c_ulong(5)') -> 0
+SCTA.Instrumentation.Comm: INFO: Queried 'SOUR1:IQC:DVBS1:RATE?'
+SCTA.Instrumentation.Comm: DEBUG: query result = R5_6
+
+SCTA.Instrumentation.BTC: DEBUG: checking DVBS1 the fec after query is: R5_6
+SCTA_repo.src.unittests.BTC_Test: DEBUG: the actual_mod is: '8PSK'
+SCTA_repo.src.unittests.BTC_Test: DEBUG: the test mod is: '8PSK'
+SCTA_repo.src.unittests.BTC_Test: DEBUG: the actual_fec is: 5/6
+SCTA_repo.src.unittests.BTC_Test: DEBUG: the test fec is: 7/8
+--------------------- >> end captured logging << ---------------------
+
+======================================================================
+FAIL: SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setConstellationCodeRate('DVB-S2', '8PSK', '1/2', 1)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\labuser\Anaconda3\envs\scta-dev\lib\site-packages\nose\case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "C:\Users\labuser\Documents\SCTA_repo\src\unittests\BTC_Test.py", line 120, in check_setConstellationCodeRate
+    assert (test_fec== actual_fec)
+AssertionError: 
+-------------------- >> begin captured stdout << ---------------------
+Combination not available for DVB-S2
+
+--------------------- >> end captured stdout << ----------------------
+-------------------- >> begin captured logging << --------------------
+SCTA_repo.src.unittests.BTC_Test: DEBUG: Bcstds set is: DVB-S2
+pyvisa: DEBUG: viWrite(2, b'SOUR1:DM:TRAN:STAN DVS2\r\n', 25, 'c_ulong(25)') -> 0
+SCTA.Instrumentation.Comm: INFO: Wrote 'SOUR1:DM:TRAN:STAN DVS2'
+pyvisa: DEBUG: viWrite(2, b'*OPC?\r\n', 7, 'c_ulong(7)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CC36C8>, 20480, 'c_ulong(0)') -> -1073807339
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - exception while reading: VI_ERROR_TMO (-1073807339): Timeout expired before operation completed.
+SCTA.Instrumentation.Comm: DEBUG: pyvisa.errors.VisaIOError: Timeout expired before operation completed.
+pyvisa: DEBUG: viWrite(2, b'*OPC?\r\n', 7, 'c_ulong(7)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CC3648>, 20480, 'c_ulong(2)') -> 0
+SCTA.Instrumentation.Comm: DEBUG: Write operation complete
+SCTA.Instrumentation.BTC: INFO: Set broadcast standard: DVB-S2
+pyvisa: DEBUG: viWrite(2, b'SOUR1:DM:TRAN:STAN?\r\n', 21, 'c_ulong(21)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CC36C8>, 20480, 'c_ulong(5)') -> 0
+SCTA.Instrumentation.Comm: INFO: Queried 'SOUR1:DM:TRAN:STAN?'
+SCTA.Instrumentation.Comm: DEBUG: query result = DVS2
+
+SCTA.Instrumentation.BTC: INFO: Got broadcast standard: DVB-S2
+SCTA_repo.src.unittests.BTC_Test: DEBUG: the BCSTDS is: DVB-S2
+pyvisa: DEBUG: viWrite(2, b'SOUR1:DM:TRAN:STAN?\r\n', 21, 'c_ulong(21)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CC3748>, 20480, 'c_ulong(5)') -> 0
+SCTA.Instrumentation.Comm: INFO: Queried 'SOUR1:DM:TRAN:STAN?'
+SCTA.Instrumentation.Comm: DEBUG: query result = DVS2
+
+SCTA.Instrumentation.BTC: INFO: Got broadcast standard: DVB-S2
+pyvisa: DEBUG: viWrite(2, b'SOUR1:DM:TRAN:STAN?\r\n', 21, 'c_ulong(21)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CC37C8>, 20480, 'c_ulong(5)') -> 0
+SCTA.Instrumentation.Comm: INFO: Queried 'SOUR1:DM:TRAN:STAN?'
+SCTA.Instrumentation.Comm: DEBUG: query result = DVS2
+
+SCTA.Instrumentation.BTC: INFO: Got broadcast standard: DVB-S2
+pyvisa: DEBUG: viWrite(2, b'SOUR1:DM:TRAN:STAN?\r\n', 21, 'c_ulong(21)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CC3848>, 20480, 'c_ulong(5)') -> 0
+SCTA.Instrumentation.Comm: INFO: Queried 'SOUR1:DM:TRAN:STAN?'
+SCTA.Instrumentation.Comm: DEBUG: query result = DVS2
+
+SCTA.Instrumentation.BTC: INFO: Got broadcast standard: DVB-S2
+pyvisa: DEBUG: viWrite(2, b'SOUR1:DM:TRAN:STAN?\r\n', 21, 'c_ulong(21)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CC38C8>, 20480, 'c_ulong(5)') -> 0
+SCTA.Instrumentation.Comm: INFO: Queried 'SOUR1:DM:TRAN:STAN?'
+SCTA.Instrumentation.Comm: DEBUG: query result = DVS2
+
+SCTA.Instrumentation.BTC: INFO: Got broadcast standard: DVB-S2
+pyvisa: DEBUG: viWrite(2, b'SOUR1:IQC:DVBS2:TSL1:MODCOD?\r\n', 30, 'c_ulong(30)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CC3948>, 20480, 'c_ulong(3)') -> 0
+SCTA.Instrumentation.Comm: INFO: Queried 'SOUR1:IQC:DVBS2:TSL1:MODCOD?'
+SCTA.Instrumentation.Comm: DEBUG: query result = 17
+
+SCTA.Instrumentation.BTC: DEBUG: the modcod is: 17
+SCTA.Instrumentation.BTC: DEBUG: the DVB-S2 mod is: 8PSK
+SCTA.Instrumentation.BTC: DEBUG: The DVB-S2 fec is: 9/10
+SCTA_repo.src.unittests.BTC_Test: DEBUG: the actual_mod is: '8PSK'
+SCTA_repo.src.unittests.BTC_Test: DEBUG: the test mod is: '8PSK'
+SCTA_repo.src.unittests.BTC_Test: DEBUG: the actual_fec is: 9/10
+SCTA_repo.src.unittests.BTC_Test: DEBUG: the test fec is: 1/2
+--------------------- >> end captured logging << ---------------------
+
+======================================================================
+FAIL: SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setConstellationCodeRate('DVB-S2', '8PSK', '4/5', 1)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\labuser\Anaconda3\envs\scta-dev\lib\site-packages\nose\case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "C:\Users\labuser\Documents\SCTA_repo\src\unittests\BTC_Test.py", line 120, in check_setConstellationCodeRate
+    assert (test_fec== actual_fec)
+AssertionError: 
+-------------------- >> begin captured stdout << ---------------------
+Combination not available for DVB-S2
+
+--------------------- >> end captured stdout << ----------------------
+-------------------- >> begin captured logging << --------------------
+pyvisa: DEBUG: viWrite(2, b'SOUR1:DM:TRAN:STAN?\r\n', 21, 'c_ulong(21)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CC3948>, 20480, 'c_ulong(5)') -> 0
+SCTA.Instrumentation.Comm: INFO: Queried 'SOUR1:DM:TRAN:STAN?'
+SCTA.Instrumentation.Comm: DEBUG: query result = DVS2
+
+SCTA.Instrumentation.BTC: INFO: Got broadcast standard: DVB-S2
+SCTA_repo.src.unittests.BTC_Test: DEBUG: the BCSTDS is: DVB-S2
+pyvisa: DEBUG: viWrite(2, b'SOUR1:DM:TRAN:STAN?\r\n', 21, 'c_ulong(21)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CC3A48>, 20480, 'c_ulong(5)') -> 0
+SCTA.Instrumentation.Comm: INFO: Queried 'SOUR1:DM:TRAN:STAN?'
+SCTA.Instrumentation.Comm: DEBUG: query result = DVS2
+
+SCTA.Instrumentation.BTC: INFO: Got broadcast standard: DVB-S2
+pyvisa: DEBUG: viWrite(2, b'SOUR1:DM:TRAN:STAN?\r\n', 21, 'c_ulong(21)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CC39C8>, 20480, 'c_ulong(5)') -> 0
+SCTA.Instrumentation.Comm: INFO: Queried 'SOUR1:DM:TRAN:STAN?'
+SCTA.Instrumentation.Comm: DEBUG: query result = DVS2
+
+SCTA.Instrumentation.BTC: INFO: Got broadcast standard: DVB-S2
+pyvisa: DEBUG: viWrite(2, b'SOUR1:DM:TRAN:STAN?\r\n', 21, 'c_ulong(21)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CC3B48>, 20480, 'c_ulong(5)') -> 0
+SCTA.Instrumentation.Comm: INFO: Queried 'SOUR1:DM:TRAN:STAN?'
+SCTA.Instrumentation.Comm: DEBUG: query result = DVS2
+
+SCTA.Instrumentation.BTC: INFO: Got broadcast standard: DVB-S2
+pyvisa: DEBUG: viWrite(2, b'SOUR1:DM:TRAN:STAN?\r\n', 21, 'c_ulong(21)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CC3AC8>, 20480, 'c_ulong(5)') -> 0
+SCTA.Instrumentation.Comm: INFO: Queried 'SOUR1:DM:TRAN:STAN?'
+SCTA.Instrumentation.Comm: DEBUG: query result = DVS2
+
+SCTA.Instrumentation.BTC: INFO: Got broadcast standard: DVB-S2
+pyvisa: DEBUG: viWrite(2, b'SOUR1:IQC:DVBS2:TSL1:MODCOD?\r\n', 30, 'c_ulong(30)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CC3BC8>, 20480, 'c_ulong(3)') -> 0
+SCTA.Instrumentation.Comm: INFO: Queried 'SOUR1:IQC:DVBS2:TSL1:MODCOD?'
+SCTA.Instrumentation.Comm: DEBUG: query result = 14
+
+SCTA.Instrumentation.BTC: DEBUG: the modcod is: 14
+SCTA.Instrumentation.BTC: DEBUG: the DVB-S2 mod is: 8PSK
+SCTA.Instrumentation.BTC: DEBUG: The DVB-S2 fec is: 3/4
+SCTA_repo.src.unittests.BTC_Test: DEBUG: the actual_mod is: '8PSK'
+SCTA_repo.src.unittests.BTC_Test: DEBUG: the test mod is: '8PSK'
+SCTA_repo.src.unittests.BTC_Test: DEBUG: the actual_fec is: 3/4
+SCTA_repo.src.unittests.BTC_Test: DEBUG: the test fec is: 4/5
+--------------------- >> end captured logging << ---------------------
+
+======================================================================
+FAIL: SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setConstellationCodeRate('DIRECTV', '8PSK', '1/2', 1)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\labuser\Anaconda3\envs\scta-dev\lib\site-packages\nose\case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "C:\Users\labuser\Documents\SCTA_repo\src\unittests\BTC_Test.py", line 119, in check_setConstellationCodeRate
+    assert (test_mod == actual_mod)
+AssertionError: 
+-------------------- >> begin captured logging << --------------------
+SCTA_repo.src.unittests.BTC_Test: DEBUG: Bcstds set is: DIRECTV
+pyvisa: DEBUG: viWrite(2, b'SOUR1:DM:TRAN:STAN DIR\r\n', 24, 'c_ulong(24)') -> 0
+SCTA.Instrumentation.Comm: INFO: Wrote 'SOUR1:DM:TRAN:STAN DIR'
+pyvisa: DEBUG: viWrite(2, b'*OPC?\r\n', 7, 'c_ulong(7)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CC3BC8>, 20480, 'c_ulong(0)') -> -1073807339
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - exception while reading: VI_ERROR_TMO (-1073807339): Timeout expired before operation completed.
+SCTA.Instrumentation.Comm: DEBUG: pyvisa.errors.VisaIOError: Timeout expired before operation completed.
+pyvisa: DEBUG: viWrite(2, b'*OPC?\r\n', 7, 'c_ulong(7)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CC3AC8>, 20480, 'c_ulong(2)') -> 0
+SCTA.Instrumentation.Comm: DEBUG: Write operation complete
+SCTA.Instrumentation.BTC: INFO: Set broadcast standard: DIRECTV
+pyvisa: DEBUG: viWrite(2, b'SOUR1:DM:TRAN:STAN?\r\n', 21, 'c_ulong(21)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CC3BC8>, 20480, 'c_ulong(4)') -> 0
+SCTA.Instrumentation.Comm: INFO: Queried 'SOUR1:DM:TRAN:STAN?'
+SCTA.Instrumentation.Comm: DEBUG: query result = DIR
+
+SCTA.Instrumentation.BTC: INFO: Got broadcast standard: DIRECTV
+SCTA_repo.src.unittests.BTC_Test: DEBUG: the BCSTDS is: DIRECTV
+pyvisa: DEBUG: viWrite(2, b'SOUR1:DM:TRAN:STAN?\r\n', 21, 'c_ulong(21)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CC3CC8>, 20480, 'c_ulong(4)') -> 0
+SCTA.Instrumentation.Comm: INFO: Queried 'SOUR1:DM:TRAN:STAN?'
+SCTA.Instrumentation.Comm: DEBUG: query result = DIR
+
+SCTA.Instrumentation.BTC: INFO: Got broadcast standard: DIRECTV
+pyvisa: DEBUG: viWrite(2, b'SOUR1:DM:TRAN:STAN?\r\n', 21, 'c_ulong(21)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CC3C48>, 20480, 'c_ulong(4)') -> 0
+SCTA.Instrumentation.Comm: INFO: Queried 'SOUR1:DM:TRAN:STAN?'
+SCTA.Instrumentation.Comm: DEBUG: query result = DIR
+
+SCTA.Instrumentation.BTC: INFO: Got broadcast standard: DIRECTV
+pyvisa: DEBUG: viWrite(2, b'SOUR1:DM:TRAN:STAN?\r\n', 21, 'c_ulong(21)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CC3D48>, 20480, 'c_ulong(4)') -> 0
+SCTA.Instrumentation.Comm: INFO: Queried 'SOUR1:DM:TRAN:STAN?'
+SCTA.Instrumentation.Comm: DEBUG: query result = DIR
+
+SCTA.Instrumentation.BTC: INFO: Got broadcast standard: DIRECTV
+pyvisa: DEBUG: viWrite(2, b'SOUR1:IQC:DIR:CONS 8PSK\r\n', 25, 'c_ulong(25)') -> 0
+SCTA.Instrumentation.Comm: INFO: Wrote 'SOUR1:IQC:DIR:CONS 8PSK'
+pyvisa: DEBUG: viWrite(2, b'*OPC?\r\n', 7, 'c_ulong(7)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CC3DC8>, 20480, 'c_ulong(2)') -> 0
+SCTA.Instrumentation.Comm: DEBUG: Write operation complete
+pyvisa: DEBUG: viWrite(2, b'SOUR1:IQC:DIR:RATE R1_2\r\n', 25, 'c_ulong(25)') -> 0
+SCTA.Instrumentation.Comm: INFO: Wrote 'SOUR1:IQC:DIR:RATE R1_2'
+pyvisa: DEBUG: viWrite(2, b'*OPC?\r\n', 7, 'c_ulong(7)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CC3D48>, 20480, 'c_ulong(2)') -> 0
+SCTA.Instrumentation.Comm: DEBUG: Write operation complete
+pyvisa: DEBUG: viWrite(2, b'SOUR1:DM:TRAN:STAN?\r\n', 21, 'c_ulong(21)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CC3DC8>, 20480, 'c_ulong(4)') -> 0
+SCTA.Instrumentation.Comm: INFO: Queried 'SOUR1:DM:TRAN:STAN?'
+SCTA.Instrumentation.Comm: DEBUG: query result = DIR
+
+SCTA.Instrumentation.BTC: INFO: Got broadcast standard: DIRECTV
+pyvisa: DEBUG: viWrite(2, b'SOUR1:DM:TRAN:STAN?\r\n', 21, 'c_ulong(21)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CC3E48>, 20480, 'c_ulong(4)') -> 0
+SCTA.Instrumentation.Comm: INFO: Queried 'SOUR1:DM:TRAN:STAN?'
+SCTA.Instrumentation.Comm: DEBUG: query result = DIR
+
+SCTA.Instrumentation.BTC: INFO: Got broadcast standard: DIRECTV
+pyvisa: DEBUG: viWrite(2, b'SOUR1:DM:TRAN:STAN?\r\n', 21, 'c_ulong(21)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CC3EC8>, 20480, 'c_ulong(4)') -> 0
+SCTA.Instrumentation.Comm: INFO: Queried 'SOUR1:DM:TRAN:STAN?'
+SCTA.Instrumentation.Comm: DEBUG: query result = DIR
+
+SCTA.Instrumentation.BTC: INFO: Got broadcast standard: DIRECTV
+pyvisa: DEBUG: viWrite(2, b'SOUR1:IQC:DIR:CONS?\r\n', 21, 'c_ulong(21)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CC3F48>, 20480, 'c_ulong(3)') -> 0
+SCTA.Instrumentation.Comm: INFO: Queried 'SOUR1:IQC:DIR:CONS?'
+SCTA.Instrumentation.Comm: DEBUG: query result = S4
+
+pyvisa: DEBUG: viWrite(2, b'SOUR1:IQC:DIR:RATE?\r\n', 21, 'c_ulong(21)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CC3F48>, 20480, 'c_ulong(5)') -> 0
+SCTA.Instrumentation.Comm: INFO: Queried 'SOUR1:IQC:DIR:RATE?'
+SCTA.Instrumentation.Comm: DEBUG: query result = R1_2
+
+SCTA.Instrumentation.BTC: DEBUG: checking DIR the fec after query is: R1_2
+SCTA_repo.src.unittests.BTC_Test: DEBUG: the actual_mod is: 'QPSK'
+SCTA_repo.src.unittests.BTC_Test: DEBUG: the test mod is: '8PSK'
+SCTA_repo.src.unittests.BTC_Test: DEBUG: the actual_fec is: 1/2
+SCTA_repo.src.unittests.BTC_Test: DEBUG: the test fec is: 1/2
+--------------------- >> end captured logging << ---------------------
+
+======================================================================
+FAIL: SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setConstellationCodeRate('DIRECTV', '8PSK', '2/3', 1)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\labuser\Anaconda3\envs\scta-dev\lib\site-packages\nose\case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "C:\Users\labuser\Documents\SCTA_repo\src\unittests\BTC_Test.py", line 119, in check_setConstellationCodeRate
+    assert (test_mod == actual_mod)
+AssertionError: 
+-------------------- >> begin captured logging << --------------------
+pyvisa: DEBUG: viWrite(2, b'SOUR1:DM:TRAN:STAN?\r\n', 21, 'c_ulong(21)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CCF0C8>, 20480, 'c_ulong(4)') -> 0
+SCTA.Instrumentation.Comm: INFO: Queried 'SOUR1:DM:TRAN:STAN?'
+SCTA.Instrumentation.Comm: DEBUG: query result = DIR
+
+SCTA.Instrumentation.BTC: INFO: Got broadcast standard: DIRECTV
+SCTA_repo.src.unittests.BTC_Test: DEBUG: the BCSTDS is: DIRECTV
+pyvisa: DEBUG: viWrite(2, b'SOUR1:DM:TRAN:STAN?\r\n', 21, 'c_ulong(21)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CCF1C8>, 20480, 'c_ulong(4)') -> 0
+SCTA.Instrumentation.Comm: INFO: Queried 'SOUR1:DM:TRAN:STAN?'
+SCTA.Instrumentation.Comm: DEBUG: query result = DIR
+
+SCTA.Instrumentation.BTC: INFO: Got broadcast standard: DIRECTV
+pyvisa: DEBUG: viWrite(2, b'SOUR1:DM:TRAN:STAN?\r\n', 21, 'c_ulong(21)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CCF248>, 20480, 'c_ulong(4)') -> 0
+SCTA.Instrumentation.Comm: INFO: Queried 'SOUR1:DM:TRAN:STAN?'
+SCTA.Instrumentation.Comm: DEBUG: query result = DIR
+
+SCTA.Instrumentation.BTC: INFO: Got broadcast standard: DIRECTV
+pyvisa: DEBUG: viWrite(2, b'SOUR1:DM:TRAN:STAN?\r\n', 21, 'c_ulong(21)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CCF2C8>, 20480, 'c_ulong(4)') -> 0
+SCTA.Instrumentation.Comm: INFO: Queried 'SOUR1:DM:TRAN:STAN?'
+SCTA.Instrumentation.Comm: DEBUG: query result = DIR
+
+SCTA.Instrumentation.BTC: INFO: Got broadcast standard: DIRECTV
+pyvisa: DEBUG: viWrite(2, b'SOUR1:IQC:DIR:CONS 8PSK\r\n', 25, 'c_ulong(25)') -> 0
+SCTA.Instrumentation.Comm: INFO: Wrote 'SOUR1:IQC:DIR:CONS 8PSK'
+pyvisa: DEBUG: viWrite(2, b'*OPC?\r\n', 7, 'c_ulong(7)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CCF348>, 20480, 'c_ulong(2)') -> 0
+SCTA.Instrumentation.Comm: DEBUG: Write operation complete
+pyvisa: DEBUG: viWrite(2, b'SOUR1:IQC:DIR:RATE R2_3\r\n', 25, 'c_ulong(25)') -> 0
+SCTA.Instrumentation.Comm: INFO: Wrote 'SOUR1:IQC:DIR:RATE R2_3'
+pyvisa: DEBUG: viWrite(2, b'*OPC?\r\n', 7, 'c_ulong(7)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CCF2C8>, 20480, 'c_ulong(2)') -> 0
+SCTA.Instrumentation.Comm: DEBUG: Write operation complete
+pyvisa: DEBUG: viWrite(2, b'SOUR1:DM:TRAN:STAN?\r\n', 21, 'c_ulong(21)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CCF348>, 20480, 'c_ulong(4)') -> 0
+SCTA.Instrumentation.Comm: INFO: Queried 'SOUR1:DM:TRAN:STAN?'
+SCTA.Instrumentation.Comm: DEBUG: query result = DIR
+
+SCTA.Instrumentation.BTC: INFO: Got broadcast standard: DIRECTV
+pyvisa: DEBUG: viWrite(2, b'SOUR1:DM:TRAN:STAN?\r\n', 21, 'c_ulong(21)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CCF3C8>, 20480, 'c_ulong(4)') -> 0
+SCTA.Instrumentation.Comm: INFO: Queried 'SOUR1:DM:TRAN:STAN?'
+SCTA.Instrumentation.Comm: DEBUG: query result = DIR
+
+SCTA.Instrumentation.BTC: INFO: Got broadcast standard: DIRECTV
+pyvisa: DEBUG: viWrite(2, b'SOUR1:DM:TRAN:STAN?\r\n', 21, 'c_ulong(21)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CCF448>, 20480, 'c_ulong(4)') -> 0
+SCTA.Instrumentation.Comm: INFO: Queried 'SOUR1:DM:TRAN:STAN?'
+SCTA.Instrumentation.Comm: DEBUG: query result = DIR
+
+SCTA.Instrumentation.BTC: INFO: Got broadcast standard: DIRECTV
+pyvisa: DEBUG: viWrite(2, b'SOUR1:IQC:DIR:CONS?\r\n', 21, 'c_ulong(21)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CCF4C8>, 20480, 'c_ulong(3)') -> 0
+SCTA.Instrumentation.Comm: INFO: Queried 'SOUR1:IQC:DIR:CONS?'
+SCTA.Instrumentation.Comm: DEBUG: query result = S4
+
+pyvisa: DEBUG: viWrite(2, b'SOUR1:IQC:DIR:RATE?\r\n', 21, 'c_ulong(21)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CCF548>, 20480, 'c_ulong(5)') -> 0
+SCTA.Instrumentation.Comm: INFO: Queried 'SOUR1:IQC:DIR:RATE?'
+SCTA.Instrumentation.Comm: DEBUG: query result = R2_3
+
+SCTA.Instrumentation.BTC: DEBUG: checking DIR the fec after query is: R2_3
+SCTA_repo.src.unittests.BTC_Test: DEBUG: the actual_mod is: 'QPSK'
+SCTA_repo.src.unittests.BTC_Test: DEBUG: the test mod is: '8PSK'
+SCTA_repo.src.unittests.BTC_Test: DEBUG: the actual_fec is: 2/3
+SCTA_repo.src.unittests.BTC_Test: DEBUG: the test fec is: 2/3
+--------------------- >> end captured logging << ---------------------
+
+======================================================================
+FAIL: SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setConstellationCodeRate('DIRECTV', '8PSK', '6/7', 1)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\labuser\Anaconda3\envs\scta-dev\lib\site-packages\nose\case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "C:\Users\labuser\Documents\SCTA_repo\src\unittests\BTC_Test.py", line 119, in check_setConstellationCodeRate
+    assert (test_mod == actual_mod)
+AssertionError: 
+-------------------- >> begin captured logging << --------------------
+pyvisa: DEBUG: viWrite(2, b'SOUR1:DM:TRAN:STAN?\r\n', 21, 'c_ulong(21)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CCF548>, 20480, 'c_ulong(4)') -> 0
+SCTA.Instrumentation.Comm: INFO: Queried 'SOUR1:DM:TRAN:STAN?'
+SCTA.Instrumentation.Comm: DEBUG: query result = DIR
+
+SCTA.Instrumentation.BTC: INFO: Got broadcast standard: DIRECTV
+SCTA_repo.src.unittests.BTC_Test: DEBUG: the BCSTDS is: DIRECTV
+pyvisa: DEBUG: viWrite(2, b'SOUR1:DM:TRAN:STAN?\r\n', 21, 'c_ulong(21)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CCF6C8>, 20480, 'c_ulong(4)') -> 0
+SCTA.Instrumentation.Comm: INFO: Queried 'SOUR1:DM:TRAN:STAN?'
+SCTA.Instrumentation.Comm: DEBUG: query result = DIR
+
+SCTA.Instrumentation.BTC: INFO: Got broadcast standard: DIRECTV
+pyvisa: DEBUG: viWrite(2, b'SOUR1:DM:TRAN:STAN?\r\n', 21, 'c_ulong(21)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CCF748>, 20480, 'c_ulong(4)') -> 0
+SCTA.Instrumentation.Comm: INFO: Queried 'SOUR1:DM:TRAN:STAN?'
+SCTA.Instrumentation.Comm: DEBUG: query result = DIR
+
+SCTA.Instrumentation.BTC: INFO: Got broadcast standard: DIRECTV
+pyvisa: DEBUG: viWrite(2, b'SOUR1:DM:TRAN:STAN?\r\n', 21, 'c_ulong(21)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CCF7C8>, 20480, 'c_ulong(4)') -> 0
+SCTA.Instrumentation.Comm: INFO: Queried 'SOUR1:DM:TRAN:STAN?'
+SCTA.Instrumentation.Comm: DEBUG: query result = DIR
+
+SCTA.Instrumentation.BTC: INFO: Got broadcast standard: DIRECTV
+pyvisa: DEBUG: viWrite(2, b'SOUR1:IQC:DIR:CONS 8PSK\r\n', 25, 'c_ulong(25)') -> 0
+SCTA.Instrumentation.Comm: INFO: Wrote 'SOUR1:IQC:DIR:CONS 8PSK'
+pyvisa: DEBUG: viWrite(2, b'*OPC?\r\n', 7, 'c_ulong(7)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CCF848>, 20480, 'c_ulong(2)') -> 0
+SCTA.Instrumentation.Comm: DEBUG: Write operation complete
+pyvisa: DEBUG: viWrite(2, b'SOUR1:IQC:DIR:RATE R6_7\r\n', 25, 'c_ulong(25)') -> 0
+SCTA.Instrumentation.Comm: INFO: Wrote 'SOUR1:IQC:DIR:RATE R6_7'
+pyvisa: DEBUG: viWrite(2, b'*OPC?\r\n', 7, 'c_ulong(7)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CCF7C8>, 20480, 'c_ulong(2)') -> 0
+SCTA.Instrumentation.Comm: DEBUG: Write operation complete
+pyvisa: DEBUG: viWrite(2, b'SOUR1:DM:TRAN:STAN?\r\n', 21, 'c_ulong(21)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CCF848>, 20480, 'c_ulong(4)') -> 0
+SCTA.Instrumentation.Comm: INFO: Queried 'SOUR1:DM:TRAN:STAN?'
+SCTA.Instrumentation.Comm: DEBUG: query result = DIR
+
+SCTA.Instrumentation.BTC: INFO: Got broadcast standard: DIRECTV
+pyvisa: DEBUG: viWrite(2, b'SOUR1:DM:TRAN:STAN?\r\n', 21, 'c_ulong(21)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CCF8C8>, 20480, 'c_ulong(4)') -> 0
+SCTA.Instrumentation.Comm: INFO: Queried 'SOUR1:DM:TRAN:STAN?'
+SCTA.Instrumentation.Comm: DEBUG: query result = DIR
+
+SCTA.Instrumentation.BTC: INFO: Got broadcast standard: DIRECTV
+pyvisa: DEBUG: viWrite(2, b'SOUR1:DM:TRAN:STAN?\r\n', 21, 'c_ulong(21)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CCF948>, 20480, 'c_ulong(4)') -> 0
+SCTA.Instrumentation.Comm: INFO: Queried 'SOUR1:DM:TRAN:STAN?'
+SCTA.Instrumentation.Comm: DEBUG: query result = DIR
+
+SCTA.Instrumentation.BTC: INFO: Got broadcast standard: DIRECTV
+pyvisa: DEBUG: viWrite(2, b'SOUR1:IQC:DIR:CONS?\r\n', 21, 'c_ulong(21)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CCF9C8>, 20480, 'c_ulong(3)') -> 0
+SCTA.Instrumentation.Comm: INFO: Queried 'SOUR1:IQC:DIR:CONS?'
+SCTA.Instrumentation.Comm: DEBUG: query result = S4
+
+pyvisa: DEBUG: viWrite(2, b'SOUR1:IQC:DIR:RATE?\r\n', 21, 'c_ulong(21)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CCFA48>, 20480, 'c_ulong(5)') -> 0
+SCTA.Instrumentation.Comm: INFO: Queried 'SOUR1:IQC:DIR:RATE?'
+SCTA.Instrumentation.Comm: DEBUG: query result = R6_7
+
+SCTA.Instrumentation.BTC: DEBUG: checking DIR the fec after query is: R6_7
+SCTA_repo.src.unittests.BTC_Test: DEBUG: the actual_mod is: 'QPSK'
+SCTA_repo.src.unittests.BTC_Test: DEBUG: the test mod is: '8PSK'
+SCTA_repo.src.unittests.BTC_Test: DEBUG: the actual_fec is: 6/7
+SCTA_repo.src.unittests.BTC_Test: DEBUG: the test fec is: 6/7
+--------------------- >> end captured logging << ---------------------
+
+======================================================================
+FAIL: SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setConstellationCodeRate('DVBS', '8PSK', '1/2', 2)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\labuser\Anaconda3\envs\scta-dev\lib\site-packages\nose\case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "C:\Users\labuser\Documents\SCTA_repo\src\unittests\BTC_Test.py", line 120, in check_setConstellationCodeRate
+    assert (test_fec== actual_fec)
+AssertionError: 
+-------------------- >> begin captured logging << --------------------
+SCTA_repo.src.unittests.BTC_Test: DEBUG: Bcstds set is: DVBS
+pyvisa: DEBUG: viWrite(2, b'SOUR2:DM:TRAN:STAN DVBS\r\n', 25, 'c_ulong(25)') -> 0
+SCTA.Instrumentation.Comm: INFO: Wrote 'SOUR2:DM:TRAN:STAN DVBS'
+pyvisa: DEBUG: viWrite(2, b'*OPC?\r\n', 7, 'c_ulong(7)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CCFB48>, 20480, 'c_ulong(0)') -> -1073807339
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - exception while reading: VI_ERROR_TMO (-1073807339): Timeout expired before operation completed.
+SCTA.Instrumentation.Comm: DEBUG: pyvisa.errors.VisaIOError: Timeout expired before operation completed.
+pyvisa: DEBUG: viWrite(2, b'*OPC?\r\n', 7, 'c_ulong(7)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CCFA48>, 20480, 'c_ulong(2)') -> 0
+SCTA.Instrumentation.Comm: DEBUG: Write operation complete
+SCTA.Instrumentation.BTC: INFO: Set broadcast standard: DVBS
+pyvisa: DEBUG: viWrite(2, b'SOUR2:DM:TRAN:STAN?\r\n', 21, 'c_ulong(21)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CCFB48>, 20480, 'c_ulong(5)') -> 0
+SCTA.Instrumentation.Comm: INFO: Queried 'SOUR2:DM:TRAN:STAN?'
+SCTA.Instrumentation.Comm: DEBUG: query result = DVBS
+
+SCTA.Instrumentation.BTC: INFO: Got broadcast standard: DVBS
+SCTA_repo.src.unittests.BTC_Test: DEBUG: the BCSTDS is: DVBS
+pyvisa: DEBUG: viWrite(2, b'SOUR2:DM:TRAN:STAN?\r\n', 21, 'c_ulong(21)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CCFBC8>, 20480, 'c_ulong(5)') -> 0
+SCTA.Instrumentation.Comm: INFO: Queried 'SOUR2:DM:TRAN:STAN?'
+SCTA.Instrumentation.Comm: DEBUG: query result = DVBS
+
+SCTA.Instrumentation.BTC: INFO: Got broadcast standard: DVBS
+pyvisa: DEBUG: viWrite(2, b'SOUR2:DM:TRAN:STAN?\r\n', 21, 'c_ulong(21)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CCFC48>, 20480, 'c_ulong(5)') -> 0
+SCTA.Instrumentation.Comm: INFO: Queried 'SOUR2:DM:TRAN:STAN?'
+SCTA.Instrumentation.Comm: DEBUG: query result = DVBS
+
+SCTA.Instrumentation.BTC: INFO: Got broadcast standard: DVBS
+pyvisa: DEBUG: viWrite(2, b'SOUR2:IQC:DVBS1:CONS S8\r\n', 25, 'c_ulong(25)') -> 0
+SCTA.Instrumentation.Comm: INFO: Wrote 'SOUR2:IQC:DVBS1:CONS S8'
+pyvisa: DEBUG: viWrite(2, b'*OPC?\r\n', 7, 'c_ulong(7)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CCFCC8>, 20480, 'c_ulong(2)') -> 0
+SCTA.Instrumentation.Comm: DEBUG: Write operation complete
+pyvisa: DEBUG: viWrite(2, b'SOUR2:IQC:DVBS1:RATE R1_2\r\n', 27, 'c_ulong(27)') -> 0
+SCTA.Instrumentation.Comm: INFO: Wrote 'SOUR2:IQC:DVBS1:RATE R1_2'
+pyvisa: DEBUG: viWrite(2, b'*OPC?\r\n', 7, 'c_ulong(7)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CCFC48>, 20480, 'c_ulong(2)') -> 0
+SCTA.Instrumentation.Comm: DEBUG: Write operation complete
+pyvisa: DEBUG: viWrite(2, b'SOUR2:DM:TRAN:STAN?\r\n', 21, 'c_ulong(21)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CCFCC8>, 20480, 'c_ulong(5)') -> 0
+SCTA.Instrumentation.Comm: INFO: Queried 'SOUR2:DM:TRAN:STAN?'
+SCTA.Instrumentation.Comm: DEBUG: query result = DVBS
+
+SCTA.Instrumentation.BTC: INFO: Got broadcast standard: DVBS
+pyvisa: DEBUG: viWrite(2, b'SOUR2:DM:TRAN:STAN?\r\n', 21, 'c_ulong(21)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CCFDC8>, 20480, 'c_ulong(5)') -> 0
+SCTA.Instrumentation.Comm: INFO: Queried 'SOUR2:DM:TRAN:STAN?'
+SCTA.Instrumentation.Comm: DEBUG: query result = DVBS
+
+SCTA.Instrumentation.BTC: INFO: Got broadcast standard: DVBS
+pyvisa: DEBUG: viWrite(2, b'SOUR2:DM:TRAN:STAN?\r\n', 21, 'c_ulong(21)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CCFD48>, 20480, 'c_ulong(5)') -> 0
+SCTA.Instrumentation.Comm: INFO: Queried 'SOUR2:DM:TRAN:STAN?'
+SCTA.Instrumentation.Comm: DEBUG: query result = DVBS
+
+SCTA.Instrumentation.BTC: INFO: Got broadcast standard: DVBS
+pyvisa: DEBUG: viWrite(2, b'SOUR2:DM:TRAN:STAN?\r\n', 21, 'c_ulong(21)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CCFE48>, 20480, 'c_ulong(5)') -> 0
+SCTA.Instrumentation.Comm: INFO: Queried 'SOUR2:DM:TRAN:STAN?'
+SCTA.Instrumentation.Comm: DEBUG: query result = DVBS
+
+SCTA.Instrumentation.BTC: INFO: Got broadcast standard: DVBS
+pyvisa: DEBUG: viWrite(2, b'SOUR2:IQC:DVBS1:CONS?\r\n', 23, 'c_ulong(23)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CCFEC8>, 20480, 'c_ulong(3)') -> 0
+SCTA.Instrumentation.Comm: INFO: Queried 'SOUR2:IQC:DVBS1:CONS?'
+SCTA.Instrumentation.Comm: DEBUG: query result = S8
+
+pyvisa: DEBUG: viWrite(2, b'SOUR2:IQC:DVBS1:RATE?\r\n', 23, 'c_ulong(23)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CCFF48>, 20480, 'c_ulong(5)') -> 0
+SCTA.Instrumentation.Comm: INFO: Queried 'SOUR2:IQC:DVBS1:RATE?'
+SCTA.Instrumentation.Comm: DEBUG: query result = R2_3
+
+SCTA.Instrumentation.BTC: DEBUG: checking DVBS1 the fec after query is: R2_3
+SCTA_repo.src.unittests.BTC_Test: DEBUG: the actual_mod is: '8PSK'
+SCTA_repo.src.unittests.BTC_Test: DEBUG: the test mod is: '8PSK'
+SCTA_repo.src.unittests.BTC_Test: DEBUG: the actual_fec is: 2/3
+SCTA_repo.src.unittests.BTC_Test: DEBUG: the test fec is: 1/2
+--------------------- >> end captured logging << ---------------------
+
+======================================================================
+FAIL: SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setConstellationCodeRate('DVBS', '8PSK', '3/4', 2)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\labuser\Anaconda3\envs\scta-dev\lib\site-packages\nose\case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "C:\Users\labuser\Documents\SCTA_repo\src\unittests\BTC_Test.py", line 120, in check_setConstellationCodeRate
+    assert (test_fec== actual_fec)
+AssertionError: 
+-------------------- >> begin captured logging << --------------------
+pyvisa: DEBUG: viWrite(2, b'SOUR2:DM:TRAN:STAN?\r\n', 21, 'c_ulong(21)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CD90C8>, 20480, 'c_ulong(5)') -> 0
+SCTA.Instrumentation.Comm: INFO: Queried 'SOUR2:DM:TRAN:STAN?'
+SCTA.Instrumentation.Comm: DEBUG: query result = DVBS
+
+SCTA.Instrumentation.BTC: INFO: Got broadcast standard: DVBS
+SCTA_repo.src.unittests.BTC_Test: DEBUG: the BCSTDS is: DVBS
+pyvisa: DEBUG: viWrite(2, b'SOUR2:DM:TRAN:STAN?\r\n', 21, 'c_ulong(21)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CD9148>, 20480, 'c_ulong(5)') -> 0
+SCTA.Instrumentation.Comm: INFO: Queried 'SOUR2:DM:TRAN:STAN?'
+SCTA.Instrumentation.Comm: DEBUG: query result = DVBS
+
+SCTA.Instrumentation.BTC: INFO: Got broadcast standard: DVBS
+pyvisa: DEBUG: viWrite(2, b'SOUR2:DM:TRAN:STAN?\r\n', 21, 'c_ulong(21)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CD91C8>, 20480, 'c_ulong(5)') -> 0
+SCTA.Instrumentation.Comm: INFO: Queried 'SOUR2:DM:TRAN:STAN?'
+SCTA.Instrumentation.Comm: DEBUG: query result = DVBS
+
+SCTA.Instrumentation.BTC: INFO: Got broadcast standard: DVBS
+pyvisa: DEBUG: viWrite(2, b'SOUR2:IQC:DVBS1:CONS S8\r\n', 25, 'c_ulong(25)') -> 0
+SCTA.Instrumentation.Comm: INFO: Wrote 'SOUR2:IQC:DVBS1:CONS S8'
+pyvisa: DEBUG: viWrite(2, b'*OPC?\r\n', 7, 'c_ulong(7)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CD9248>, 20480, 'c_ulong(2)') -> 0
+SCTA.Instrumentation.Comm: DEBUG: Write operation complete
+pyvisa: DEBUG: viWrite(2, b'SOUR2:IQC:DVBS1:RATE R3_4\r\n', 27, 'c_ulong(27)') -> 0
+SCTA.Instrumentation.Comm: INFO: Wrote 'SOUR2:IQC:DVBS1:RATE R3_4'
+pyvisa: DEBUG: viWrite(2, b'*OPC?\r\n', 7, 'c_ulong(7)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CD91C8>, 20480, 'c_ulong(2)') -> 0
+SCTA.Instrumentation.Comm: DEBUG: Write operation complete
+pyvisa: DEBUG: viWrite(2, b'SOUR2:DM:TRAN:STAN?\r\n', 21, 'c_ulong(21)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CD9248>, 20480, 'c_ulong(5)') -> 0
+SCTA.Instrumentation.Comm: INFO: Queried 'SOUR2:DM:TRAN:STAN?'
+SCTA.Instrumentation.Comm: DEBUG: query result = DVBS
+
+SCTA.Instrumentation.BTC: INFO: Got broadcast standard: DVBS
+pyvisa: DEBUG: viWrite(2, b'SOUR2:DM:TRAN:STAN?\r\n', 21, 'c_ulong(21)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CD92C8>, 20480, 'c_ulong(5)') -> 0
+SCTA.Instrumentation.Comm: INFO: Queried 'SOUR2:DM:TRAN:STAN?'
+SCTA.Instrumentation.Comm: DEBUG: query result = DVBS
+
+SCTA.Instrumentation.BTC: INFO: Got broadcast standard: DVBS
+pyvisa: DEBUG: viWrite(2, b'SOUR2:DM:TRAN:STAN?\r\n', 21, 'c_ulong(21)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CD9348>, 20480, 'c_ulong(5)') -> 0
+SCTA.Instrumentation.Comm: INFO: Queried 'SOUR2:DM:TRAN:STAN?'
+SCTA.Instrumentation.Comm: DEBUG: query result = DVBS
+
+SCTA.Instrumentation.BTC: INFO: Got broadcast standard: DVBS
+pyvisa: DEBUG: viWrite(2, b'SOUR2:DM:TRAN:STAN?\r\n', 21, 'c_ulong(21)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CD93C8>, 20480, 'c_ulong(5)') -> 0
+SCTA.Instrumentation.Comm: INFO: Queried 'SOUR2:DM:TRAN:STAN?'
+SCTA.Instrumentation.Comm: DEBUG: query result = DVBS
+
+SCTA.Instrumentation.BTC: INFO: Got broadcast standard: DVBS
+pyvisa: DEBUG: viWrite(2, b'SOUR2:IQC:DVBS1:CONS?\r\n', 23, 'c_ulong(23)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CD9448>, 20480, 'c_ulong(3)') -> 0
+SCTA.Instrumentation.Comm: INFO: Queried 'SOUR2:IQC:DVBS1:CONS?'
+SCTA.Instrumentation.Comm: DEBUG: query result = S8
+
+pyvisa: DEBUG: viWrite(2, b'SOUR2:IQC:DVBS1:RATE?\r\n', 23, 'c_ulong(23)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CD9548>, 20480, 'c_ulong(5)') -> 0
+SCTA.Instrumentation.Comm: INFO: Queried 'SOUR2:IQC:DVBS1:RATE?'
+SCTA.Instrumentation.Comm: DEBUG: query result = R2_3
+
+SCTA.Instrumentation.BTC: DEBUG: checking DVBS1 the fec after query is: R2_3
+SCTA_repo.src.unittests.BTC_Test: DEBUG: the actual_mod is: '8PSK'
+SCTA_repo.src.unittests.BTC_Test: DEBUG: the test mod is: '8PSK'
+SCTA_repo.src.unittests.BTC_Test: DEBUG: the actual_fec is: 2/3
+SCTA_repo.src.unittests.BTC_Test: DEBUG: the test fec is: 3/4
+--------------------- >> end captured logging << ---------------------
+
+======================================================================
+FAIL: SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setConstellationCodeRate('DVBS', '8PSK', '7/8', 2)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\labuser\Anaconda3\envs\scta-dev\lib\site-packages\nose\case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "C:\Users\labuser\Documents\SCTA_repo\src\unittests\BTC_Test.py", line 120, in check_setConstellationCodeRate
+    assert (test_fec== actual_fec)
+AssertionError: 
+-------------------- >> begin captured logging << --------------------
+pyvisa: DEBUG: viWrite(2, b'SOUR2:DM:TRAN:STAN?\r\n', 21, 'c_ulong(21)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CD95C8>, 20480, 'c_ulong(5)') -> 0
+SCTA.Instrumentation.Comm: INFO: Queried 'SOUR2:DM:TRAN:STAN?'
+SCTA.Instrumentation.Comm: DEBUG: query result = DVBS
+
+SCTA.Instrumentation.BTC: INFO: Got broadcast standard: DVBS
+SCTA_repo.src.unittests.BTC_Test: DEBUG: the BCSTDS is: DVBS
+pyvisa: DEBUG: viWrite(2, b'SOUR2:DM:TRAN:STAN?\r\n', 21, 'c_ulong(21)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CD9648>, 20480, 'c_ulong(5)') -> 0
+SCTA.Instrumentation.Comm: INFO: Queried 'SOUR2:DM:TRAN:STAN?'
+SCTA.Instrumentation.Comm: DEBUG: query result = DVBS
+
+SCTA.Instrumentation.BTC: INFO: Got broadcast standard: DVBS
+pyvisa: DEBUG: viWrite(2, b'SOUR2:DM:TRAN:STAN?\r\n', 21, 'c_ulong(21)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CD96C8>, 20480, 'c_ulong(5)') -> 0
+SCTA.Instrumentation.Comm: INFO: Queried 'SOUR2:DM:TRAN:STAN?'
+SCTA.Instrumentation.Comm: DEBUG: query result = DVBS
+
+SCTA.Instrumentation.BTC: INFO: Got broadcast standard: DVBS
+pyvisa: DEBUG: viWrite(2, b'SOUR2:IQC:DVBS1:CONS S8\r\n', 25, 'c_ulong(25)') -> 0
+SCTA.Instrumentation.Comm: INFO: Wrote 'SOUR2:IQC:DVBS1:CONS S8'
+pyvisa: DEBUG: viWrite(2, b'*OPC?\r\n', 7, 'c_ulong(7)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CD9748>, 20480, 'c_ulong(2)') -> 0
+SCTA.Instrumentation.Comm: DEBUG: Write operation complete
+pyvisa: DEBUG: viWrite(2, b'SOUR2:IQC:DVBS1:RATE R7_8\r\n', 27, 'c_ulong(27)') -> 0
+SCTA.Instrumentation.Comm: INFO: Wrote 'SOUR2:IQC:DVBS1:RATE R7_8'
+pyvisa: DEBUG: viWrite(2, b'*OPC?\r\n', 7, 'c_ulong(7)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CD96C8>, 20480, 'c_ulong(2)') -> 0
+SCTA.Instrumentation.Comm: DEBUG: Write operation complete
+pyvisa: DEBUG: viWrite(2, b'SOUR2:DM:TRAN:STAN?\r\n', 21, 'c_ulong(21)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CD9748>, 20480, 'c_ulong(5)') -> 0
+SCTA.Instrumentation.Comm: INFO: Queried 'SOUR2:DM:TRAN:STAN?'
+SCTA.Instrumentation.Comm: DEBUG: query result = DVBS
+
+SCTA.Instrumentation.BTC: INFO: Got broadcast standard: DVBS
+pyvisa: DEBUG: viWrite(2, b'SOUR2:DM:TRAN:STAN?\r\n', 21, 'c_ulong(21)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CD97C8>, 20480, 'c_ulong(5)') -> 0
+SCTA.Instrumentation.Comm: INFO: Queried 'SOUR2:DM:TRAN:STAN?'
+SCTA.Instrumentation.Comm: DEBUG: query result = DVBS
+
+SCTA.Instrumentation.BTC: INFO: Got broadcast standard: DVBS
+pyvisa: DEBUG: viWrite(2, b'SOUR2:DM:TRAN:STAN?\r\n', 21, 'c_ulong(21)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CD9848>, 20480, 'c_ulong(5)') -> 0
+SCTA.Instrumentation.Comm: INFO: Queried 'SOUR2:DM:TRAN:STAN?'
+SCTA.Instrumentation.Comm: DEBUG: query result = DVBS
+
+SCTA.Instrumentation.BTC: INFO: Got broadcast standard: DVBS
+pyvisa: DEBUG: viWrite(2, b'SOUR2:DM:TRAN:STAN?\r\n', 21, 'c_ulong(21)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CD98C8>, 20480, 'c_ulong(5)') -> 0
+SCTA.Instrumentation.Comm: INFO: Queried 'SOUR2:DM:TRAN:STAN?'
+SCTA.Instrumentation.Comm: DEBUG: query result = DVBS
+
+SCTA.Instrumentation.BTC: INFO: Got broadcast standard: DVBS
+pyvisa: DEBUG: viWrite(2, b'SOUR2:IQC:DVBS1:CONS?\r\n', 23, 'c_ulong(23)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CD9948>, 20480, 'c_ulong(3)') -> 0
+SCTA.Instrumentation.Comm: INFO: Queried 'SOUR2:IQC:DVBS1:CONS?'
+SCTA.Instrumentation.Comm: DEBUG: query result = S8
+
+pyvisa: DEBUG: viWrite(2, b'SOUR2:IQC:DVBS1:RATE?\r\n', 23, 'c_ulong(23)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CD9A48>, 20480, 'c_ulong(5)') -> 0
+SCTA.Instrumentation.Comm: INFO: Queried 'SOUR2:IQC:DVBS1:RATE?'
+SCTA.Instrumentation.Comm: DEBUG: query result = R5_6
+
+SCTA.Instrumentation.BTC: DEBUG: checking DVBS1 the fec after query is: R5_6
+SCTA_repo.src.unittests.BTC_Test: DEBUG: the actual_mod is: '8PSK'
+SCTA_repo.src.unittests.BTC_Test: DEBUG: the test mod is: '8PSK'
+SCTA_repo.src.unittests.BTC_Test: DEBUG: the actual_fec is: 5/6
+SCTA_repo.src.unittests.BTC_Test: DEBUG: the test fec is: 7/8
+--------------------- >> end captured logging << ---------------------
+
+======================================================================
+FAIL: SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setConstellationCodeRate('DVB-S2', '8PSK', '1/2', 2)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\labuser\Anaconda3\envs\scta-dev\lib\site-packages\nose\case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "C:\Users\labuser\Documents\SCTA_repo\src\unittests\BTC_Test.py", line 120, in check_setConstellationCodeRate
+    assert (test_fec== actual_fec)
+AssertionError: 
+-------------------- >> begin captured stdout << ---------------------
+Combination not available for DVB-S2
+
+--------------------- >> end captured stdout << ----------------------
+-------------------- >> begin captured logging << --------------------
+SCTA_repo.src.unittests.BTC_Test: DEBUG: Bcstds set is: DVB-S2
+pyvisa: DEBUG: viWrite(2, b'SOUR2:DM:TRAN:STAN DVS2\r\n', 25, 'c_ulong(25)') -> 0
+SCTA.Instrumentation.Comm: INFO: Wrote 'SOUR2:DM:TRAN:STAN DVS2'
+pyvisa: DEBUG: viWrite(2, b'*OPC?\r\n', 7, 'c_ulong(7)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CD9AC8>, 20480, 'c_ulong(0)') -> -1073807339
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - exception while reading: VI_ERROR_TMO (-1073807339): Timeout expired before operation completed.
+SCTA.Instrumentation.Comm: DEBUG: pyvisa.errors.VisaIOError: Timeout expired before operation completed.
+pyvisa: DEBUG: viWrite(2, b'*OPC?\r\n', 7, 'c_ulong(0)') -> -1073807339
+SCTA.Instrumentation.Comm: DEBUG: pyvisa.errors.VisaIOError: Timeout expired before operation completed.
+pyvisa: DEBUG: viWrite(2, b'*OPC?\r\n', 7, 'c_ulong(7)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CD9A48>, 20480, 'c_ulong(2)') -> 0
+SCTA.Instrumentation.Comm: DEBUG: Write operation complete
+SCTA.Instrumentation.BTC: INFO: Set broadcast standard: DVB-S2
+pyvisa: DEBUG: viWrite(2, b'SOUR2:DM:TRAN:STAN?\r\n', 21, 'c_ulong(21)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CD9AC8>, 20480, 'c_ulong(5)') -> 0
+SCTA.Instrumentation.Comm: INFO: Queried 'SOUR2:DM:TRAN:STAN?'
+SCTA.Instrumentation.Comm: DEBUG: query result = DVS2
+
+SCTA.Instrumentation.BTC: INFO: Got broadcast standard: DVB-S2
+SCTA_repo.src.unittests.BTC_Test: DEBUG: the BCSTDS is: DVB-S2
+pyvisa: DEBUG: viWrite(2, b'SOUR2:DM:TRAN:STAN?\r\n', 21, 'c_ulong(21)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CD9B48>, 20480, 'c_ulong(5)') -> 0
+SCTA.Instrumentation.Comm: INFO: Queried 'SOUR2:DM:TRAN:STAN?'
+SCTA.Instrumentation.Comm: DEBUG: query result = DVS2
+
+SCTA.Instrumentation.BTC: INFO: Got broadcast standard: DVB-S2
+pyvisa: DEBUG: viWrite(2, b'SOUR2:DM:TRAN:STAN?\r\n', 21, 'c_ulong(21)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CD9BC8>, 20480, 'c_ulong(5)') -> 0
+SCTA.Instrumentation.Comm: INFO: Queried 'SOUR2:DM:TRAN:STAN?'
+SCTA.Instrumentation.Comm: DEBUG: query result = DVS2
+
+SCTA.Instrumentation.BTC: INFO: Got broadcast standard: DVB-S2
+pyvisa: DEBUG: viWrite(2, b'SOUR2:DM:TRAN:STAN?\r\n', 21, 'c_ulong(21)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CD9C48>, 20480, 'c_ulong(5)') -> 0
+SCTA.Instrumentation.Comm: INFO: Queried 'SOUR2:DM:TRAN:STAN?'
+SCTA.Instrumentation.Comm: DEBUG: query result = DVS2
+
+SCTA.Instrumentation.BTC: INFO: Got broadcast standard: DVB-S2
+pyvisa: DEBUG: viWrite(2, b'SOUR2:DM:TRAN:STAN?\r\n', 21, 'c_ulong(21)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CD9CC8>, 20480, 'c_ulong(5)') -> 0
+SCTA.Instrumentation.Comm: INFO: Queried 'SOUR2:DM:TRAN:STAN?'
+SCTA.Instrumentation.Comm: DEBUG: query result = DVS2
+
+SCTA.Instrumentation.BTC: INFO: Got broadcast standard: DVB-S2
+pyvisa: DEBUG: viWrite(2, b'SOUR2:IQC:DVBS2:TSL1:MODCOD?\r\n', 30, 'c_ulong(30)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CD9D48>, 20480, 'c_ulong(3)') -> 0
+SCTA.Instrumentation.Comm: INFO: Queried 'SOUR2:IQC:DVBS2:TSL1:MODCOD?'
+SCTA.Instrumentation.Comm: DEBUG: query result = 17
+
+SCTA.Instrumentation.BTC: DEBUG: the modcod is: 17
+SCTA.Instrumentation.BTC: DEBUG: the DVB-S2 mod is: 8PSK
+SCTA.Instrumentation.BTC: DEBUG: The DVB-S2 fec is: 9/10
+SCTA_repo.src.unittests.BTC_Test: DEBUG: the actual_mod is: '8PSK'
+SCTA_repo.src.unittests.BTC_Test: DEBUG: the test mod is: '8PSK'
+SCTA_repo.src.unittests.BTC_Test: DEBUG: the actual_fec is: 9/10
+SCTA_repo.src.unittests.BTC_Test: DEBUG: the test fec is: 1/2
+--------------------- >> end captured logging << ---------------------
+
+======================================================================
+FAIL: SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setConstellationCodeRate('DVB-S2', '8PSK', '4/5', 2)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\labuser\Anaconda3\envs\scta-dev\lib\site-packages\nose\case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "C:\Users\labuser\Documents\SCTA_repo\src\unittests\BTC_Test.py", line 120, in check_setConstellationCodeRate
+    assert (test_fec== actual_fec)
+AssertionError: 
+-------------------- >> begin captured stdout << ---------------------
+Combination not available for DVB-S2
+
+--------------------- >> end captured stdout << ----------------------
+-------------------- >> begin captured logging << --------------------
+pyvisa: DEBUG: viWrite(2, b'SOUR2:DM:TRAN:STAN?\r\n', 21, 'c_ulong(21)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CD9D48>, 20480, 'c_ulong(5)') -> 0
+SCTA.Instrumentation.Comm: INFO: Queried 'SOUR2:DM:TRAN:STAN?'
+SCTA.Instrumentation.Comm: DEBUG: query result = DVS2
+
+SCTA.Instrumentation.BTC: INFO: Got broadcast standard: DVB-S2
+SCTA_repo.src.unittests.BTC_Test: DEBUG: the BCSTDS is: DVB-S2
+pyvisa: DEBUG: viWrite(2, b'SOUR2:DM:TRAN:STAN?\r\n', 21, 'c_ulong(21)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CD9E48>, 20480, 'c_ulong(5)') -> 0
+SCTA.Instrumentation.Comm: INFO: Queried 'SOUR2:DM:TRAN:STAN?'
+SCTA.Instrumentation.Comm: DEBUG: query result = DVS2
+
+SCTA.Instrumentation.BTC: INFO: Got broadcast standard: DVB-S2
+pyvisa: DEBUG: viWrite(2, b'SOUR2:DM:TRAN:STAN?\r\n', 21, 'c_ulong(21)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CD9DC8>, 20480, 'c_ulong(5)') -> 0
+SCTA.Instrumentation.Comm: INFO: Queried 'SOUR2:DM:TRAN:STAN?'
+SCTA.Instrumentation.Comm: DEBUG: query result = DVS2
+
+SCTA.Instrumentation.BTC: INFO: Got broadcast standard: DVB-S2
+pyvisa: DEBUG: viWrite(2, b'SOUR2:DM:TRAN:STAN?\r\n', 21, 'c_ulong(21)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CD9F48>, 20480, 'c_ulong(5)') -> 0
+SCTA.Instrumentation.Comm: INFO: Queried 'SOUR2:DM:TRAN:STAN?'
+SCTA.Instrumentation.Comm: DEBUG: query result = DVS2
+
+SCTA.Instrumentation.BTC: INFO: Got broadcast standard: DVB-S2
+pyvisa: DEBUG: viWrite(2, b'SOUR2:DM:TRAN:STAN?\r\n', 21, 'c_ulong(21)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CD9EC8>, 20480, 'c_ulong(5)') -> 0
+SCTA.Instrumentation.Comm: INFO: Queried 'SOUR2:DM:TRAN:STAN?'
+SCTA.Instrumentation.Comm: DEBUG: query result = DVS2
+
+SCTA.Instrumentation.BTC: INFO: Got broadcast standard: DVB-S2
+pyvisa: DEBUG: viWrite(2, b'SOUR2:IQC:DVBS2:TSL1:MODCOD?\r\n', 30, 'c_ulong(30)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CD9EC8>, 20480, 'c_ulong(3)') -> 0
+SCTA.Instrumentation.Comm: INFO: Queried 'SOUR2:IQC:DVBS2:TSL1:MODCOD?'
+SCTA.Instrumentation.Comm: DEBUG: query result = 14
+
+SCTA.Instrumentation.BTC: DEBUG: the modcod is: 14
+SCTA.Instrumentation.BTC: DEBUG: the DVB-S2 mod is: 8PSK
+SCTA.Instrumentation.BTC: DEBUG: The DVB-S2 fec is: 3/4
+SCTA_repo.src.unittests.BTC_Test: DEBUG: the actual_mod is: '8PSK'
+SCTA_repo.src.unittests.BTC_Test: DEBUG: the test mod is: '8PSK'
+SCTA_repo.src.unittests.BTC_Test: DEBUG: the actual_fec is: 3/4
+SCTA_repo.src.unittests.BTC_Test: DEBUG: the test fec is: 4/5
+--------------------- >> end captured logging << ---------------------
+
+======================================================================
+FAIL: SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setConstellationCodeRate('DIRECTV', '8PSK', '1/2', 2)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\labuser\Anaconda3\envs\scta-dev\lib\site-packages\nose\case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "C:\Users\labuser\Documents\SCTA_repo\src\unittests\BTC_Test.py", line 119, in check_setConstellationCodeRate
+    assert (test_mod == actual_mod)
+AssertionError: 
+-------------------- >> begin captured logging << --------------------
+SCTA_repo.src.unittests.BTC_Test: DEBUG: Bcstds set is: DIRECTV
+pyvisa: DEBUG: viWrite(2, b'SOUR2:DM:TRAN:STAN DIR\r\n', 24, 'c_ulong(24)') -> 0
+SCTA.Instrumentation.Comm: INFO: Wrote 'SOUR2:DM:TRAN:STAN DIR'
+pyvisa: DEBUG: viWrite(2, b'*OPC?\r\n', 7, 'c_ulong(7)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CD9EC8>, 20480, 'c_ulong(0)') -> -1073807339
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - exception while reading: VI_ERROR_TMO (-1073807339): Timeout expired before operation completed.
+SCTA.Instrumentation.Comm: DEBUG: pyvisa.errors.VisaIOError: Timeout expired before operation completed.
+pyvisa: DEBUG: viWrite(2, b'*OPC?\r\n', 7, 'c_ulong(0)') -> -1073807339
+SCTA.Instrumentation.Comm: DEBUG: pyvisa.errors.VisaIOError: Timeout expired before operation completed.
+pyvisa: DEBUG: viWrite(2, b'*OPC?\r\n', 7, 'c_ulong(7)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CD9EC8>, 20480, 'c_ulong(2)') -> 0
+SCTA.Instrumentation.Comm: DEBUG: Write operation complete
+SCTA.Instrumentation.BTC: INFO: Set broadcast standard: DIRECTV
+pyvisa: DEBUG: viWrite(2, b'SOUR2:DM:TRAN:STAN?\r\n', 21, 'c_ulong(21)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CD9EC8>, 20480, 'c_ulong(4)') -> 0
+SCTA.Instrumentation.Comm: INFO: Queried 'SOUR2:DM:TRAN:STAN?'
+SCTA.Instrumentation.Comm: DEBUG: query result = DIR
+
+SCTA.Instrumentation.BTC: INFO: Got broadcast standard: DIRECTV
+SCTA_repo.src.unittests.BTC_Test: DEBUG: the BCSTDS is: DIRECTV
+pyvisa: DEBUG: viWrite(2, b'SOUR2:DM:TRAN:STAN?\r\n', 21, 'c_ulong(21)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CD9EC8>, 20480, 'c_ulong(4)') -> 0
+SCTA.Instrumentation.Comm: INFO: Queried 'SOUR2:DM:TRAN:STAN?'
+SCTA.Instrumentation.Comm: DEBUG: query result = DIR
+
+SCTA.Instrumentation.BTC: INFO: Got broadcast standard: DIRECTV
+pyvisa: DEBUG: viWrite(2, b'SOUR2:DM:TRAN:STAN?\r\n', 21, 'c_ulong(21)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CD9EC8>, 20480, 'c_ulong(4)') -> 0
+SCTA.Instrumentation.Comm: INFO: Queried 'SOUR2:DM:TRAN:STAN?'
+SCTA.Instrumentation.Comm: DEBUG: query result = DIR
+
+SCTA.Instrumentation.BTC: INFO: Got broadcast standard: DIRECTV
+pyvisa: DEBUG: viWrite(2, b'SOUR2:DM:TRAN:STAN?\r\n', 21, 'c_ulong(21)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CD9EC8>, 20480, 'c_ulong(4)') -> 0
+SCTA.Instrumentation.Comm: INFO: Queried 'SOUR2:DM:TRAN:STAN?'
+SCTA.Instrumentation.Comm: DEBUG: query result = DIR
+
+SCTA.Instrumentation.BTC: INFO: Got broadcast standard: DIRECTV
+pyvisa: DEBUG: viWrite(2, b'SOUR2:IQC:DIR:CONS 8PSK\r\n', 25, 'c_ulong(25)') -> 0
+SCTA.Instrumentation.Comm: INFO: Wrote 'SOUR2:IQC:DIR:CONS 8PSK'
+pyvisa: DEBUG: viWrite(2, b'*OPC?\r\n', 7, 'c_ulong(7)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CD9EC8>, 20480, 'c_ulong(2)') -> 0
+SCTA.Instrumentation.Comm: DEBUG: Write operation complete
+pyvisa: DEBUG: viWrite(2, b'SOUR2:IQC:DIR:RATE R1_2\r\n', 25, 'c_ulong(25)') -> 0
+SCTA.Instrumentation.Comm: INFO: Wrote 'SOUR2:IQC:DIR:RATE R1_2'
+pyvisa: DEBUG: viWrite(2, b'*OPC?\r\n', 7, 'c_ulong(7)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CD9EC8>, 20480, 'c_ulong(2)') -> 0
+SCTA.Instrumentation.Comm: DEBUG: Write operation complete
+pyvisa: DEBUG: viWrite(2, b'SOUR2:DM:TRAN:STAN?\r\n', 21, 'c_ulong(21)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CD9EC8>, 20480, 'c_ulong(4)') -> 0
+SCTA.Instrumentation.Comm: INFO: Queried 'SOUR2:DM:TRAN:STAN?'
+SCTA.Instrumentation.Comm: DEBUG: query result = DIR
+
+SCTA.Instrumentation.BTC: INFO: Got broadcast standard: DIRECTV
+pyvisa: DEBUG: viWrite(2, b'SOUR2:DM:TRAN:STAN?\r\n', 21, 'c_ulong(21)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CD9EC8>, 20480, 'c_ulong(4)') -> 0
+SCTA.Instrumentation.Comm: INFO: Queried 'SOUR2:DM:TRAN:STAN?'
+SCTA.Instrumentation.Comm: DEBUG: query result = DIR
+
+SCTA.Instrumentation.BTC: INFO: Got broadcast standard: DIRECTV
+pyvisa: DEBUG: viWrite(2, b'SOUR2:DM:TRAN:STAN?\r\n', 21, 'c_ulong(21)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CD9EC8>, 20480, 'c_ulong(4)') -> 0
+SCTA.Instrumentation.Comm: INFO: Queried 'SOUR2:DM:TRAN:STAN?'
+SCTA.Instrumentation.Comm: DEBUG: query result = DIR
+
+SCTA.Instrumentation.BTC: INFO: Got broadcast standard: DIRECTV
+pyvisa: DEBUG: viWrite(2, b'SOUR2:IQC:DIR:CONS?\r\n', 21, 'c_ulong(21)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CD9EC8>, 20480, 'c_ulong(3)') -> 0
+SCTA.Instrumentation.Comm: INFO: Queried 'SOUR2:IQC:DIR:CONS?'
+SCTA.Instrumentation.Comm: DEBUG: query result = S4
+
+pyvisa: DEBUG: viWrite(2, b'SOUR2:IQC:DIR:RATE?\r\n', 21, 'c_ulong(21)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CD9EC8>, 20480, 'c_ulong(5)') -> 0
+SCTA.Instrumentation.Comm: INFO: Queried 'SOUR2:IQC:DIR:RATE?'
+SCTA.Instrumentation.Comm: DEBUG: query result = R1_2
+
+SCTA.Instrumentation.BTC: DEBUG: checking DIR the fec after query is: R1_2
+SCTA_repo.src.unittests.BTC_Test: DEBUG: the actual_mod is: 'QPSK'
+SCTA_repo.src.unittests.BTC_Test: DEBUG: the test mod is: '8PSK'
+SCTA_repo.src.unittests.BTC_Test: DEBUG: the actual_fec is: 1/2
+SCTA_repo.src.unittests.BTC_Test: DEBUG: the test fec is: 1/2
+--------------------- >> end captured logging << ---------------------
+
+======================================================================
+FAIL: SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setConstellationCodeRate('DIRECTV', '8PSK', '2/3', 2)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\labuser\Anaconda3\envs\scta-dev\lib\site-packages\nose\case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "C:\Users\labuser\Documents\SCTA_repo\src\unittests\BTC_Test.py", line 119, in check_setConstellationCodeRate
+    assert (test_mod == actual_mod)
+AssertionError: 
+-------------------- >> begin captured logging << --------------------
+pyvisa: DEBUG: viWrite(2, b'SOUR2:DM:TRAN:STAN?\r\n', 21, 'c_ulong(21)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CE34C8>, 20480, 'c_ulong(4)') -> 0
+SCTA.Instrumentation.Comm: INFO: Queried 'SOUR2:DM:TRAN:STAN?'
+SCTA.Instrumentation.Comm: DEBUG: query result = DIR
+
+SCTA.Instrumentation.BTC: INFO: Got broadcast standard: DIRECTV
+SCTA_repo.src.unittests.BTC_Test: DEBUG: the BCSTDS is: DIRECTV
+pyvisa: DEBUG: viWrite(2, b'SOUR2:DM:TRAN:STAN?\r\n', 21, 'c_ulong(21)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CE35C8>, 20480, 'c_ulong(4)') -> 0
+SCTA.Instrumentation.Comm: INFO: Queried 'SOUR2:DM:TRAN:STAN?'
+SCTA.Instrumentation.Comm: DEBUG: query result = DIR
+
+SCTA.Instrumentation.BTC: INFO: Got broadcast standard: DIRECTV
+pyvisa: DEBUG: viWrite(2, b'SOUR2:DM:TRAN:STAN?\r\n', 21, 'c_ulong(21)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CE3648>, 20480, 'c_ulong(4)') -> 0
+SCTA.Instrumentation.Comm: INFO: Queried 'SOUR2:DM:TRAN:STAN?'
+SCTA.Instrumentation.Comm: DEBUG: query result = DIR
+
+SCTA.Instrumentation.BTC: INFO: Got broadcast standard: DIRECTV
+pyvisa: DEBUG: viWrite(2, b'SOUR2:DM:TRAN:STAN?\r\n', 21, 'c_ulong(21)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CE36C8>, 20480, 'c_ulong(4)') -> 0
+SCTA.Instrumentation.Comm: INFO: Queried 'SOUR2:DM:TRAN:STAN?'
+SCTA.Instrumentation.Comm: DEBUG: query result = DIR
+
+SCTA.Instrumentation.BTC: INFO: Got broadcast standard: DIRECTV
+pyvisa: DEBUG: viWrite(2, b'SOUR2:IQC:DIR:CONS 8PSK\r\n', 25, 'c_ulong(25)') -> 0
+SCTA.Instrumentation.Comm: INFO: Wrote 'SOUR2:IQC:DIR:CONS 8PSK'
+pyvisa: DEBUG: viWrite(2, b'*OPC?\r\n', 7, 'c_ulong(7)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CE3748>, 20480, 'c_ulong(2)') -> 0
+SCTA.Instrumentation.Comm: DEBUG: Write operation complete
+pyvisa: DEBUG: viWrite(2, b'SOUR2:IQC:DIR:RATE R2_3\r\n', 25, 'c_ulong(25)') -> 0
+SCTA.Instrumentation.Comm: INFO: Wrote 'SOUR2:IQC:DIR:RATE R2_3'
+pyvisa: DEBUG: viWrite(2, b'*OPC?\r\n', 7, 'c_ulong(7)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CE36C8>, 20480, 'c_ulong(2)') -> 0
+SCTA.Instrumentation.Comm: DEBUG: Write operation complete
+pyvisa: DEBUG: viWrite(2, b'SOUR2:DM:TRAN:STAN?\r\n', 21, 'c_ulong(21)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CE3748>, 20480, 'c_ulong(4)') -> 0
+SCTA.Instrumentation.Comm: INFO: Queried 'SOUR2:DM:TRAN:STAN?'
+SCTA.Instrumentation.Comm: DEBUG: query result = DIR
+
+SCTA.Instrumentation.BTC: INFO: Got broadcast standard: DIRECTV
+pyvisa: DEBUG: viWrite(2, b'SOUR2:DM:TRAN:STAN?\r\n', 21, 'c_ulong(21)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CE37C8>, 20480, 'c_ulong(4)') -> 0
+SCTA.Instrumentation.Comm: INFO: Queried 'SOUR2:DM:TRAN:STAN?'
+SCTA.Instrumentation.Comm: DEBUG: query result = DIR
+
+SCTA.Instrumentation.BTC: INFO: Got broadcast standard: DIRECTV
+pyvisa: DEBUG: viWrite(2, b'SOUR2:DM:TRAN:STAN?\r\n', 21, 'c_ulong(21)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CE3848>, 20480, 'c_ulong(4)') -> 0
+SCTA.Instrumentation.Comm: INFO: Queried 'SOUR2:DM:TRAN:STAN?'
+SCTA.Instrumentation.Comm: DEBUG: query result = DIR
+
+SCTA.Instrumentation.BTC: INFO: Got broadcast standard: DIRECTV
+pyvisa: DEBUG: viWrite(2, b'SOUR2:IQC:DIR:CONS?\r\n', 21, 'c_ulong(21)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CE38C8>, 20480, 'c_ulong(3)') -> 0
+SCTA.Instrumentation.Comm: INFO: Queried 'SOUR2:IQC:DIR:CONS?'
+SCTA.Instrumentation.Comm: DEBUG: query result = S4
+
+pyvisa: DEBUG: viWrite(2, b'SOUR2:IQC:DIR:RATE?\r\n', 21, 'c_ulong(21)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CE3948>, 20480, 'c_ulong(5)') -> 0
+SCTA.Instrumentation.Comm: INFO: Queried 'SOUR2:IQC:DIR:RATE?'
+SCTA.Instrumentation.Comm: DEBUG: query result = R2_3
+
+SCTA.Instrumentation.BTC: DEBUG: checking DIR the fec after query is: R2_3
+SCTA_repo.src.unittests.BTC_Test: DEBUG: the actual_mod is: 'QPSK'
+SCTA_repo.src.unittests.BTC_Test: DEBUG: the test mod is: '8PSK'
+SCTA_repo.src.unittests.BTC_Test: DEBUG: the actual_fec is: 2/3
+SCTA_repo.src.unittests.BTC_Test: DEBUG: the test fec is: 2/3
+--------------------- >> end captured logging << ---------------------
+
+======================================================================
+FAIL: SCTA_repo.src.unittests.BTC_Test.BTC_Test.test_setConstellationCodeRate('DIRECTV', '8PSK', '6/7', 2)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\labuser\Anaconda3\envs\scta-dev\lib\site-packages\nose\case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "C:\Users\labuser\Documents\SCTA_repo\src\unittests\BTC_Test.py", line 119, in check_setConstellationCodeRate
+    assert (test_mod == actual_mod)
+AssertionError: 
+-------------------- >> begin captured logging << --------------------
+pyvisa: DEBUG: viWrite(2, b'SOUR2:DM:TRAN:STAN?\r\n', 21, 'c_ulong(21)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CE3948>, 20480, 'c_ulong(4)') -> 0
+SCTA.Instrumentation.Comm: INFO: Queried 'SOUR2:DM:TRAN:STAN?'
+SCTA.Instrumentation.Comm: DEBUG: query result = DIR
+
+SCTA.Instrumentation.BTC: INFO: Got broadcast standard: DIRECTV
+SCTA_repo.src.unittests.BTC_Test: DEBUG: the BCSTDS is: DIRECTV
+pyvisa: DEBUG: viWrite(2, b'SOUR2:DM:TRAN:STAN?\r\n', 21, 'c_ulong(21)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CE3AC8>, 20480, 'c_ulong(4)') -> 0
+SCTA.Instrumentation.Comm: INFO: Queried 'SOUR2:DM:TRAN:STAN?'
+SCTA.Instrumentation.Comm: DEBUG: query result = DIR
+
+SCTA.Instrumentation.BTC: INFO: Got broadcast standard: DIRECTV
+pyvisa: DEBUG: viWrite(2, b'SOUR2:DM:TRAN:STAN?\r\n', 21, 'c_ulong(21)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CE3B48>, 20480, 'c_ulong(4)') -> 0
+SCTA.Instrumentation.Comm: INFO: Queried 'SOUR2:DM:TRAN:STAN?'
+SCTA.Instrumentation.Comm: DEBUG: query result = DIR
+
+SCTA.Instrumentation.BTC: INFO: Got broadcast standard: DIRECTV
+pyvisa: DEBUG: viWrite(2, b'SOUR2:DM:TRAN:STAN?\r\n', 21, 'c_ulong(21)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CE3BC8>, 20480, 'c_ulong(4)') -> 0
+SCTA.Instrumentation.Comm: INFO: Queried 'SOUR2:DM:TRAN:STAN?'
+SCTA.Instrumentation.Comm: DEBUG: query result = DIR
+
+SCTA.Instrumentation.BTC: INFO: Got broadcast standard: DIRECTV
+pyvisa: DEBUG: viWrite(2, b'SOUR2:IQC:DIR:CONS 8PSK\r\n', 25, 'c_ulong(25)') -> 0
+SCTA.Instrumentation.Comm: INFO: Wrote 'SOUR2:IQC:DIR:CONS 8PSK'
+pyvisa: DEBUG: viWrite(2, b'*OPC?\r\n', 7, 'c_ulong(7)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CE3C48>, 20480, 'c_ulong(2)') -> 0
+SCTA.Instrumentation.Comm: DEBUG: Write operation complete
+pyvisa: DEBUG: viWrite(2, b'SOUR2:IQC:DIR:RATE R6_7\r\n', 25, 'c_ulong(25)') -> 0
+SCTA.Instrumentation.Comm: INFO: Wrote 'SOUR2:IQC:DIR:RATE R6_7'
+pyvisa: DEBUG: viWrite(2, b'*OPC?\r\n', 7, 'c_ulong(7)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CE3BC8>, 20480, 'c_ulong(2)') -> 0
+SCTA.Instrumentation.Comm: DEBUG: Write operation complete
+pyvisa: DEBUG: viWrite(2, b'SOUR2:DM:TRAN:STAN?\r\n', 21, 'c_ulong(21)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CE3C48>, 20480, 'c_ulong(4)') -> 0
+SCTA.Instrumentation.Comm: INFO: Queried 'SOUR2:DM:TRAN:STAN?'
+SCTA.Instrumentation.Comm: DEBUG: query result = DIR
+
+SCTA.Instrumentation.BTC: INFO: Got broadcast standard: DIRECTV
+pyvisa: DEBUG: viWrite(2, b'SOUR2:DM:TRAN:STAN?\r\n', 21, 'c_ulong(21)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CE3CC8>, 20480, 'c_ulong(4)') -> 0
+SCTA.Instrumentation.Comm: INFO: Queried 'SOUR2:DM:TRAN:STAN?'
+SCTA.Instrumentation.Comm: DEBUG: query result = DIR
+
+SCTA.Instrumentation.BTC: INFO: Got broadcast standard: DIRECTV
+pyvisa: DEBUG: viWrite(2, b'SOUR2:DM:TRAN:STAN?\r\n', 21, 'c_ulong(21)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CE3D48>, 20480, 'c_ulong(4)') -> 0
+SCTA.Instrumentation.Comm: INFO: Queried 'SOUR2:DM:TRAN:STAN?'
+SCTA.Instrumentation.Comm: DEBUG: query result = DIR
+
+SCTA.Instrumentation.BTC: INFO: Got broadcast standard: DIRECTV
+pyvisa: DEBUG: viWrite(2, b'SOUR2:IQC:DIR:CONS?\r\n', 21, 'c_ulong(21)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CE3DC8>, 20480, 'c_ulong(3)') -> 0
+SCTA.Instrumentation.Comm: INFO: Queried 'SOUR2:IQC:DIR:CONS?'
+SCTA.Instrumentation.Comm: DEBUG: query result = S4
+
+pyvisa: DEBUG: viWrite(2, b'SOUR2:IQC:DIR:RATE?\r\n', 21, 'c_ulong(21)') -> 0
+pyvisa: DEBUG: TCPIP0::192.168.10.11::INSTR - reading 20480 bytes (last status <StatusCode.success_max_count_read: 1073676294>)
+pyvisa: DEBUG: viRead(2, <ctypes.c_char_Array_20480 object at 0x0000000006CE3E48>, 20480, 'c_ulong(5)') -> 0
+SCTA.Instrumentation.Comm: INFO: Queried 'SOUR2:IQC:DIR:RATE?'
+SCTA.Instrumentation.Comm: DEBUG: query result = R6_7
+
+SCTA.Instrumentation.BTC: DEBUG: checking DIR the fec after query is: R6_7
+SCTA_repo.src.unittests.BTC_Test: DEBUG: the actual_mod is: 'QPSK'
+SCTA_repo.src.unittests.BTC_Test: DEBUG: the test mod is: '8PSK'
+SCTA_repo.src.unittests.BTC_Test: DEBUG: the actual_fec is: 6/7
+SCTA_repo.src.unittests.BTC_Test: DEBUG: the test fec is: 6/7
+--------------------- >> end captured logging << ---------------------
+
+----------------------------------------------------------------------
+Ran 268 tests in 94.953s
+
+FAILED (SKIP=4, failures=16)
+Exception ignored in: <bound method BTC.__del__ of BTC({'comm': <SCTA.Instrumentation.Comm.Comm object at 0x0000000006C43550>, 'numMods': 2, 'power': -5.0, 'cnr': 19.0})>
+Traceback (most recent call last):
+  File "C:\Users\labuser\Documents\SCTA_repo\src\SCTA\Instrumentation\BTC.py", line 65, in __del__
+  File "C:\Users\labuser\Documents\SCTA_repo\src\SCTA\Instrumentation\BTC.py", line 78, in close
+  File "C:\Users\labuser\Anaconda3\envs\scta-dev\lib\site-packages\pyvisa\resources\resource.py", line 237, in close
+  File "C:\Users\labuser\Anaconda3\envs\scta-dev\lib\site-packages\pyvisa\resources\resource.py", line 229, in before_close
+  File "C:\Users\labuser\Anaconda3\envs\scta-dev\lib\site-packages\pyvisa\resources\resource.py", line 246, in __switch_events_off
+  File "C:\Users\labuser\Anaconda3\envs\scta-dev\lib\site-packages\pyvisa\resources\resource.py", line 301, in disable_event
+  File "C:\Users\labuser\Anaconda3\envs\scta-dev\lib\site-packages\pyvisa\ctwrapper\functions.py", line 408, in disable_event
+  File "C:\Users\labuser\Anaconda3\envs\scta-dev\lib\site-packages\pyvisa\ctwrapper\highlevel.py", line 188, in _return_handler
+pyvisa.errors.VisaIOError: VI_ERROR_INV_OBJECT (-1073807346): The given session or object reference is invalid.
+Exception ignored in: <object repr() failed>
+Traceback (most recent call last):
+  File "C:\Users\labuser\Anaconda3\envs\scta-dev\lib\site-packages\pyvisa\resources\resource.py", line 108, in __del__
+  File "C:\Users\labuser\Anaconda3\envs\scta-dev\lib\site-packages\pyvisa\resources\resource.py", line 237, in close
+  File "C:\Users\labuser\Anaconda3\envs\scta-dev\lib\site-packages\pyvisa\resources\resource.py", line 229, in before_close
+  File "C:\Users\labuser\Anaconda3\envs\scta-dev\lib\site-packages\pyvisa\resources\resource.py", line 246, in __switch_events_off
+  File "C:\Users\labuser\Anaconda3\envs\scta-dev\lib\site-packages\pyvisa\resources\resource.py", line 301, in disable_event
+  File "C:\Users\labuser\Anaconda3\envs\scta-dev\lib\site-packages\pyvisa\ctwrapper\functions.py", line 408, in disable_event
+  File "C:\Users\labuser\Anaconda3\envs\scta-dev\lib\site-packages\pyvisa\ctwrapper\highlevel.py", line 188, in _return_handler
+pyvisa.errors.VisaIOError: VI_ERROR_INV_OBJECT (-1073807346): The given session or object reference is invalid.

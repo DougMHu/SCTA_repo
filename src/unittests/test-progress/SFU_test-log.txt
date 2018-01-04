@@ -1,0 +1,104 @@
+ERROR:SCTA.Instrumentation.SFU:DVB-S2 needs to be enabled
+unittests.SFU_test.SFU_Test.test_setAlpha(20.0,) ... ok
+unittests.SFU_test.SFU_Test.test_setAlpha(35.0,) ... ok
+unittests.SFU_test.SFU_Test.test_setBroadcastStandard('DIRECTV',) ... ok
+unittests.SFU_test.SFU_Test.test_setBroadcastStandard('DVBS',) ... ok
+unittests.SFU_test.SFU_Test.test_setBroadcastStandard('DVB-S2',) ... ok
+unittests.SFU_test.SFU_Test.test_setCW(True,) ... ok
+unittests.SFU_test.SFU_Test.test_setCW(False,) ... ok
+unittests.SFU_test.SFU_Test.test_setCodeRate('1/2',) ... ok
+unittests.SFU_test.SFU_Test.test_setCodeRate('3/5',) ... ok
+unittests.SFU_test.SFU_Test.test_setCodeRate('2/3',) ... ok
+unittests.SFU_test.SFU_Test.test_setCodeRate('3/4',) ... ok
+unittests.SFU_test.SFU_Test.test_setCodeRate('4/5',) ... ok
+unittests.SFU_test.SFU_Test.test_setCodeRate('5/6',) ... ok
+unittests.SFU_test.SFU_Test.test_setCodeRate('6/7',) ... FAIL
+unittests.SFU_test.SFU_Test.test_setCodeRate('7/8',) ... FAIL
+unittests.SFU_test.SFU_Test.test_setCodeRate('8/9',) ... ok
+unittests.SFU_test.SFU_Test.test_setCodeRate('9/10',) ... ok
+unittests.SFU_test.SFU_Test.test_setConstellation('8PSK',) ... ok
+unittests.SFU_test.SFU_Test.test_setConstellation('QPSK',) ... ok
+unittests.SFU_test.SFU_Test.test_setFrequency(250000000.0,) ... ok
+unittests.SFU_test.SFU_Test.test_setFrequency(350000000.0,) ... ok
+unittests.SFU_test.SFU_Test.test_setFrequency(450000000.0,) ... ok
+unittests.SFU_test.SFU_Test.test_setFrequency(550000000.0,) ... ok
+unittests.SFU_test.SFU_Test.test_setFrequency(650000000.0,) ... ok
+unittests.SFU_test.SFU_Test.test_setFrequency(750000000.0,) ... ok
+unittests.SFU_test.SFU_Test.test_setFrequency(850000000.0,) ... ok
+unittests.SFU_test.SFU_Test.test_setFrequency(950000000.0,) ... ok
+unittests.SFU_test.SFU_Test.test_setFrequency(1050000000.0,) ... ok
+unittests.SFU_test.SFU_Test.test_setFrequency(1150000000.0,) ... ok
+unittests.SFU_test.SFU_Test.test_setFrequency(1250000000.0,) ... ok
+unittests.SFU_test.SFU_Test.test_setFrequency(1350000000.0,) ... ok
+unittests.SFU_test.SFU_Test.test_setFrequency(1450000000.0,) ... ok
+unittests.SFU_test.SFU_Test.test_setFrequency(1550000000.0,) ... ok
+unittests.SFU_test.SFU_Test.test_setFrequency(1650000000.0,) ... ok
+unittests.SFU_test.SFU_Test.test_setFrequency(1750000000.0,) ... ok
+unittests.SFU_test.SFU_Test.test_setFrequency(1850000000.0,) ... ok
+unittests.SFU_test.SFU_Test.test_setFrequency(1950000000.0,) ... ok
+unittests.SFU_test.SFU_Test.test_setFrequency(2050000000.0,) ... ok
+unittests.SFU_test.SFU_Test.test_setFrequency(2150000000.0,) ... ok
+unittests.SFU_test.SFU_Test.test_setNoiseLevel(0.0,) ... ok
+unittests.SFU_test.SFU_Test.test_setNoiseLevel(2.0,) ... ok
+unittests.SFU_test.SFU_Test.test_setNoiseLevel(4.0,) ... ok
+unittests.SFU_test.SFU_Test.test_setNoiseLevel(6.0,) ... ok
+unittests.SFU_test.SFU_Test.test_setNoiseLevel(8.0,) ... ok
+unittests.SFU_test.SFU_Test.test_setNoiseLevel(10.0,) ... ok
+unittests.SFU_test.SFU_Test.test_setNoiseLevel(12.0,) ... ok
+unittests.SFU_test.SFU_Test.test_setNoiseLevel(14.0,) ... ok
+unittests.SFU_test.SFU_Test.test_setNoiseLevel(16.0,) ... ok
+unittests.SFU_test.SFU_Test.test_setNoiseLevel(18.0,) ... ok
+unittests.SFU_test.SFU_Test.test_setNoiseLevel(20.0,) ... ok
+unittests.SFU_test.SFU_Test.test_setPhaseNoise(True,) ... ok
+unittests.SFU_test.SFU_Test.test_setPhaseNoise(False,) ... ok
+unittests.SFU_test.SFU_Test.test_setPilots(True,) ... ok
+unittests.SFU_test.SFU_Test.test_setPilots(False,) ... ok
+unittests.SFU_test.SFU_Test.test_setPower(-70.0,) ... ok
+unittests.SFU_test.SFU_Test.test_setPower(-65.0,) ... ok
+unittests.SFU_test.SFU_Test.test_setPower(-60.0,) ... ok
+unittests.SFU_test.SFU_Test.test_setPower(-55.0,) ... ok
+unittests.SFU_test.SFU_Test.test_setPower(-50.0,) ... ok
+unittests.SFU_test.SFU_Test.test_setPower(-45.0,) ... ok
+unittests.SFU_test.SFU_Test.test_setPower(-40.0,) ... ok
+unittests.SFU_test.SFU_Test.test_setPower(-35.0,) ... ok
+unittests.SFU_test.SFU_Test.test_setPower(-30.0,) ... ok
+unittests.SFU_test.SFU_Test.test_setScramblingCode(0,) ... ok
+unittests.SFU_test.SFU_Test.test_setScramblingCode(1,) ... ok
+unittests.SFU_test.SFU_Test.test_setScramblingCode(2,) ... ok
+unittests.SFU_test.SFU_Test.test_setScramblingCode(3,) ... ok
+unittests.SFU_test.SFU_Test.test_setScramblingCode(4,) ... ok
+unittests.SFU_test.SFU_Test.test_setScramblingCode(5,) ... ok
+unittests.SFU_test.SFU_Test.test_setScramblingCode(6,) ... ok
+unittests.SFU_test.SFU_Test.test_setScramblingCode(7,) ... ok
+unittests.SFU_test.SFU_Test.test_setScramblingCode(8,) ... ok
+unittests.SFU_test.SFU_Test.test_setScramblingCode(9,) ... ok
+unittests.SFU_test.SFU_Test.test_setScramblingCode(10,) ... ok
+unittests.SFU_test.SFU_Test.test_setSymbolRate(20000000.0,) ... ok
+unittests.SFU_test.SFU_Test.test_setSymbolRate(30000000.0,) ... ok
+unittests.SFU_test.SFU_Test.test_setTransponder(Transponder({'scramb': 0, 'mode': Mode({'mod': 'QPSK', 'fec': '2/3', 'bcstd': 'DIRECTV'}), 'pilots': True, 'id': 'txp', 'freq': 1074000000.0, 'roll': 20.0, 'symb': 20000000.0}),) ... ok
+unittests.SFU_test.SFU_Test.test_setTransponder(Transponder({'scramb': 0, 'mode': Mode({'mod': 'QPSK', 'fec': '6/7', 'bcstd': 'DIRECTV'}), 'pilots': True, 'id': 'txp', 'freq': 1074000000.0, 'roll': 20.0, 'symb': 20000000.0}),) ... ok
+unittests.SFU_test.SFU_Test.test_setTransponder(Transponder({'scramb': 0, 'mode': Mode({'mod': 'QPSK', 'fec': '1/2', 'bcstd': 'DVB-S2'}), 'pilots': True, 'id': 'txp', 'freq': 1074000000.0, 'roll': 20.0, 'symb': 20000000.0}),) ... ok
+unittests.SFU_test.SFU_Test.test_setTransponder(Transponder({'scramb': 0, 'mode': Mode({'mod': 'QPSK', 'fec': '3/5', 'bcstd': 'DVB-S2'}), 'pilots': True, 'id': 'txp', 'freq': 1074000000.0, 'roll': 20.0, 'symb': 20000000.0}),) ... ok
+unittests.SFU_test.SFU_Test.test_setTransponder(Transponder({'scramb': 0, 'mode': Mode({'mod': 'QPSK', 'fec': '2/3', 'bcstd': 'DVB-S2'}), 'pilots': True, 'id': 'txp', 'freq': 1074000000.0, 'roll': 20.0, 'symb': 20000000.0}),) ... ok
+unittests.SFU_test.SFU_Test.test_setTransponder(Transponder({'scramb': 0, 'mode': Mode({'mod': 'QPSK', 'fec': '3/4', 'bcstd': 'DVB-S2'}), 'pilots': True, 'id': 'txp', 'freq': 1074000000.0, 'roll': 20.0, 'symb': 20000000.0}),) ... ok
+unittests.SFU_test.SFU_Test.test_setTransponder(Transponder({'scramb': 0, 'mode': Mode({'mod': 'QPSK', 'fec': '4/5', 'bcstd': 'DVB-S2'}), 'pilots': True, 'id': 'txp', 'freq': 1074000000.0, 'roll': 20.0, 'symb': 20000000.0}),) ... ok
+unittests.SFU_test.SFU_Test.test_setTransponder(Transponder({'scramb': 0, 'mode': Mode({'mod': 'QPSK', 'fec': '5/6', 'bcstd': 'DVB-S2'}), 'pilots': True, 'id': 'txp', 'freq': 1074000000.0, 'roll': 20.0, 'symb': 20000000.0}),) ... ok
+unittests.SFU_test.SFU_Test.test_setTransponder(Transponder({'scramb': 0, 'mode': Mode({'mod': 'QPSK', 'fec': '8/9', 'bcstd': 'DVB-S2'}), 'pilots': True, 'id': 'txp', 'freq': 1074000000.0, 'roll': 20.0, 'symb': 20000000.0}),) ... ok
+unittests.SFU_test.SFU_Test.test_setTransponder(Transponder({'scramb': 0, 'mode': Mode({'mod': 'QPSK', 'fec': '9/10', 'bcstd': 'DVB-S2'}), 'pilots': True, 'id': 'txp', 'freq': 1074000000.0, 'roll': 20.0, 'symb': 20000000.0}),) ... ok
+unittests.SFU_test.SFU_Test.test_setTransponder(Transponder({'scramb': 0, 'mode': Mode({'mod': '8PSK', 'fec': '3/5', 'bcstd': 'DVB-S2'}), 'pilots': True, 'id': 'txp', 'freq': 1074000000.0, 'roll': 20.0, 'symb': 20000000.0}),) ... ok
+unittests.SFU_test.SFU_Test.test_setTransponder(Transponder({'scramb': 0, 'mode': Mode({'mod': '8PSK', 'fec': '2/3', 'bcstd': 'DVB-S2'}), 'pilots': True, 'id': 'txp', 'freq': 1074000000.0, 'roll': 20.0, 'symb': 20000000.0}),) ... ok
+unittests.SFU_test.SFU_Test.test_setTransponder(Transponder({'scramb': 0, 'mode': Mode({'mod': '8PSK', 'fec': '3/4', 'bcstd': 'DVB-S2'}), 'pilots': True, 'id': 'txp', 'freq': 1074000000.0, 'roll': 20.0, 'symb': 20000000.0}),) ... ok
+unittests.SFU_test.SFU_Test.test_setTransponder(Transponder({'scramb': 0, 'mode': Mode({'mod': '8PSK', 'fec': '5/6', 'bcstd': 'DVB-S2'}), 'pilots': True, 'id': 'txp', 'freq': 1074000000.0, 'roll': 20.0, 'symb': 20000000.0}),) ... ok
+unittests.SFU_test.SFU_Test.test_setTransponder(Transponder({'scramb': 0, 'mode': Mode({'mod': '8PSK', 'fec': '8/9', 'bcstd': 'DVB-S2'}), 'pilots': True, 'id': 'txp', 'freq': 1074000000.0, 'roll': 20.0, 'symb': 20000000.0}),) ... ok
+unittests.SFU_test.SFU_Test.test_setTransponder(Transponder({'scramb': 0, 'mode': Mode({'mod': '8PSK', 'fec': '9/10', 'bcstd': 'DVB-S2'}), 'pilots': True, 'id': 'txp', 'freq': 1074000000.0, 'roll': 20.0, 'symb': 20000000.0}),) ... ok
+unittests.SFU_test.SFU_Test.test_setTransponder(Transponder({'scramb': 0, 'mode': Mode({'mod': 'QPSK', 'fec': '1/2', 'bcstd': 'DVBS'}), 'pilots': True, 'id': 'txp', 'freq': 1074000000.0, 'roll': 20.0, 'symb': 20000000.0}),) ... ok
+unittests.SFU_test.SFU_Test.test_setTransponder(Transponder({'scramb': 0, 'mode': Mode({'mod': 'QPSK', 'fec': '2/3', 'bcstd': 'DVBS'}), 'pilots': True, 'id': 'txp', 'freq': 1074000000.0, 'roll': 20.0, 'symb': 20000000.0}),) ... ok
+unittests.SFU_test.SFU_Test.test_setTransponder(Transponder({'scramb': 0, 'mode': Mode({'mod': 'QPSK', 'fec': '3/4', 'bcstd': 'DVBS'}), 'pilots': True, 'id': 'txp', 'freq': 1074000000.0, 'roll': 20.0, 'symb': 20000000.0}),) ... ok
+unittests.SFU_test.SFU_Test.test_setTransponder(Transponder({'scramb': 0, 'mode': Mode({'mod': 'QPSK', 'fec': '5/6', 'bcstd': 'DVBS'}), 'pilots': True, 'id': 'txp', 'freq': 1074000000.0, 'roll': 20.0, 'symb': 20000000.0}),) ... ok
+unittests.SFU_test.SFU_Test.test_setTransponder(Transponder({'scramb': 0, 'mode': Mode({'mod': 'QPSK', 'fec': '7/8', 'bcstd': 'DVBS'}), 'pilots': True, 'id': 'txp', 'freq': 1074000000.0, 'roll': 20.0, 'symb': 20000000.0}),) ... ok
+unittests.SFU_test.SFU_Test.test_setTransponder(Transponder({'scramb': 0, 'mode': Mode({'mod': 'QPSK', 'fec': '1/2', 'bcstd': 'DIRECTV'}), 'pilots': True, 'id': 'txp', 'freq': 1074000000.0, 'roll': 20.0, 'symb': 20000000.0}),) ... ok
+
+----------------------------------------------------------------------
+Ran 98 tests in 178.480s
+
+FAILED (failures=2)

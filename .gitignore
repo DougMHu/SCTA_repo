@@ -1,0 +1,8 @@
+docs/_build
+__pycache__
+*.sublime-project
+*.sublime-workspace
+user_scripts
+*.pyc
+*.db
+*.ipynb_checkpoints

@@ -1,0 +1,190 @@
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_config ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_sweepAverage(10,) ... DEBUG
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_sweepAverage(100,) ... DEBUG
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_sweepAverage(1000,) ... DEBUG
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_getSpectrumChannelPower ... DEBUG
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_getAllMeasurements ... DEBUG
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_getCarrierFrequencyError ... DEBUG
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_getMER ... DEBUG
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_getPhaseError ... DEBUG
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_getVSAChannelPower ... DEBUG
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setAlpha(20.0,) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setAlpha(35.0,) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setBroadcastStandard('DIRECTV',) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setBroadcastStandard('DVBS',) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setBroadcastStandard('DVB-S2',) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setCodeRate('1/2',) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setCodeRate('3/5',) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setCodeRate('2/3',) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setCodeRate('3/4',) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setCodeRate('4/5',) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setCodeRate('5/6',) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setCodeRate('6/7',) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setCodeRate('7/8',) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setCodeRate('8/9',) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setCodeRate('9/10',) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setConstellation('8PSK',) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setConstellation('QPSK',) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setFrequency(250000000.0,) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setFrequency(350000000.0,) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setFrequency(450000000.0,) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setFrequency(550000000.0,) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setFrequency(650000000.0,) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setFrequency(750000000.0,) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setFrequency(850000000.0,) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setFrequency(950000000.0,) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setFrequency(1050000000.0,) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setFrequency(1150000000.0,) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setFrequency(1250000000.0,) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setFrequency(1350000000.0,) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setFrequency(1450000000.0,) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setFrequency(1550000000.0,) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setFrequency(1650000000.0,) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setFrequency(1750000000.0,) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setFrequency(1850000000.0,) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setFrequency(1950000000.0,) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setFrequency(2050000000.0,) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setFrequency(2150000000.0,) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setPilots(True,) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setPilots(False,) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setScramblingCode(0,) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setScramblingCode(1,) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setScramblingCode(2,) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setScramblingCode(3,) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setScramblingCode(4,) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setScramblingCode(5,) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setScramblingCode(6,) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setScramblingCode(7,) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setScramblingCode(8,) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setScramblingCode(9,) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setScramblingCode(10,) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setSpan ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setSweepTime ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setSymbolRate(20000000.0,) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setSymbolRate(30000000.0,) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setTransponder(Transponder({'mode': Mode({'fec': '2/3', 'mod': 'QPSK', 'bcstd': 'DIRECTV'}), 'id': 'txp', 'freq': 1074000000.0, 'scramb': 0, 'pilots': True, 'symb': 20000000.0, 'roll': 20.0}),) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setTransponder(Transponder({'mode': Mode({'fec': '6/7', 'mod': 'QPSK', 'bcstd': 'DIRECTV'}), 'id': 'txp', 'freq': 1074000000.0, 'scramb': 0, 'pilots': True, 'symb': 20000000.0, 'roll': 20.0}),) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setTransponder(Transponder({'mode': Mode({'fec': '1/2', 'mod': 'QPSK', 'bcstd': 'DVB-S2'}), 'id': 'txp', 'freq': 1074000000.0, 'scramb': 0, 'pilots': True, 'symb': 20000000.0, 'roll': 20.0}),) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setTransponder(Transponder({'mode': Mode({'fec': '3/5', 'mod': 'QPSK', 'bcstd': 'DVB-S2'}), 'id': 'txp', 'freq': 1074000000.0, 'scramb': 0, 'pilots': True, 'symb': 20000000.0, 'roll': 20.0}),) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setTransponder(Transponder({'mode': Mode({'fec': '2/3', 'mod': 'QPSK', 'bcstd': 'DVB-S2'}), 'id': 'txp', 'freq': 1074000000.0, 'scramb': 0, 'pilots': True, 'symb': 20000000.0, 'roll': 20.0}),) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setTransponder(Transponder({'mode': Mode({'fec': '3/4', 'mod': 'QPSK', 'bcstd': 'DVB-S2'}), 'id': 'txp', 'freq': 1074000000.0, 'scramb': 0, 'pilots': True, 'symb': 20000000.0, 'roll': 20.0}),) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setTransponder(Transponder({'mode': Mode({'fec': '4/5', 'mod': 'QPSK', 'bcstd': 'DVB-S2'}), 'id': 'txp', 'freq': 1074000000.0, 'scramb': 0, 'pilots': True, 'symb': 20000000.0, 'roll': 20.0}),) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setTransponder(Transponder({'mode': Mode({'fec': '5/6', 'mod': 'QPSK', 'bcstd': 'DVB-S2'}), 'id': 'txp', 'freq': 1074000000.0, 'scramb': 0, 'pilots': True, 'symb': 20000000.0, 'roll': 20.0}),) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setTransponder(Transponder({'mode': Mode({'fec': '8/9', 'mod': 'QPSK', 'bcstd': 'DVB-S2'}), 'id': 'txp', 'freq': 1074000000.0, 'scramb': 0, 'pilots': True, 'symb': 20000000.0, 'roll': 20.0}),) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setTransponder(Transponder({'mode': Mode({'fec': '9/10', 'mod': 'QPSK', 'bcstd': 'DVB-S2'}), 'id': 'txp', 'freq': 1074000000.0, 'scramb': 0, 'pilots': True, 'symb': 20000000.0, 'roll': 20.0}),) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setTransponder(Transponder({'mode': Mode({'fec': '3/5', 'mod': '8PSK', 'bcstd': 'DVB-S2'}), 'id': 'txp', 'freq': 1074000000.0, 'scramb': 0, 'pilots': True, 'symb': 20000000.0, 'roll': 20.0}),) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setTransponder(Transponder({'mode': Mode({'fec': '2/3', 'mod': '8PSK', 'bcstd': 'DVB-S2'}), 'id': 'txp', 'freq': 1074000000.0, 'scramb': 0, 'pilots': True, 'symb': 20000000.0, 'roll': 20.0}),) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setTransponder(Transponder({'mode': Mode({'fec': '3/4', 'mod': '8PSK', 'bcstd': 'DVB-S2'}), 'id': 'txp', 'freq': 1074000000.0, 'scramb': 0, 'pilots': True, 'symb': 20000000.0, 'roll': 20.0}),) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setTransponder(Transponder({'mode': Mode({'fec': '5/6', 'mod': '8PSK', 'bcstd': 'DVB-S2'}), 'id': 'txp', 'freq': 1074000000.0, 'scramb': 0, 'pilots': True, 'symb': 20000000.0, 'roll': 20.0}),) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setTransponder(Transponder({'mode': Mode({'fec': '8/9', 'mod': '8PSK', 'bcstd': 'DVB-S2'}), 'id': 'txp', 'freq': 1074000000.0, 'scramb': 0, 'pilots': True, 'symb': 20000000.0, 'roll': 20.0}),) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setTransponder(Transponder({'mode': Mode({'fec': '9/10', 'mod': '8PSK', 'bcstd': 'DVB-S2'}), 'id': 'txp', 'freq': 1074000000.0, 'scramb': 0, 'pilots': True, 'symb': 20000000.0, 'roll': 20.0}),) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setTransponder(Transponder({'mode': Mode({'fec': '1/2', 'mod': 'QPSK', 'bcstd': 'DVBS'}), 'id': 'txp', 'freq': 1074000000.0, 'scramb': 0, 'pilots': True, 'symb': 20000000.0, 'roll': 20.0}),) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setTransponder(Transponder({'mode': Mode({'fec': '2/3', 'mod': 'QPSK', 'bcstd': 'DVBS'}), 'id': 'txp', 'freq': 1074000000.0, 'scramb': 0, 'pilots': True, 'symb': 20000000.0, 'roll': 20.0}),) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setTransponder(Transponder({'mode': Mode({'fec': '3/4', 'mod': 'QPSK', 'bcstd': 'DVBS'}), 'id': 'txp', 'freq': 1074000000.0, 'scramb': 0, 'pilots': True, 'symb': 20000000.0, 'roll': 20.0}),) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setTransponder(Transponder({'mode': Mode({'fec': '5/6', 'mod': 'QPSK', 'bcstd': 'DVBS'}), 'id': 'txp', 'freq': 1074000000.0, 'scramb': 0, 'pilots': True, 'symb': 20000000.0, 'roll': 20.0}),) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setTransponder(Transponder({'mode': Mode({'fec': '7/8', 'mod': 'QPSK', 'bcstd': 'DVBS'}), 'id': 'txp', 'freq': 1074000000.0, 'scramb': 0, 'pilots': True, 'symb': 20000000.0, 'roll': 20.0}),) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setTransponder(Transponder({'mode': Mode({'fec': '1/2', 'mod': 'QPSK', 'bcstd': 'DIRECTV'}), 'id': 'txp', 'freq': 1074000000.0, 'scramb': 0, 'pilots': True, 'symb': 20000000.0, 'roll': 20.0}),) ... ok
+
+======================================================================
+DEBUG: SCTA_repo.src.unittests.FSW_test.FSW_Test.test_sweepAverage(10,)
+----------------------------------------------------------------------
+-------------------- >> begin captured logging << --------------------
+SCTA_repo.src.unittests.FSW_test: DEBUG: avg = 10
+SCTA_repo.src.unittests.FSW_test: DEBUG:  measurement = phaseerror
+SCTA_repo.src.unittests.FSW_test: DEBUG:    mean = 2.985978
+SCTA_repo.src.unittests.FSW_test: DEBUG:    MOE = 0.182656
+SCTA_repo.src.unittests.FSW_test: DEBUG:  measurement = power
+SCTA_repo.src.unittests.FSW_test: DEBUG:    mean = -68.518211
+SCTA_repo.src.unittests.FSW_test: DEBUG:    MOE = 0.044262
+SCTA_repo.src.unittests.FSW_test: DEBUG:  measurement = carrierfreqerror
+SCTA_repo.src.unittests.FSW_test: DEBUG:    mean = 147.090699
+SCTA_repo.src.unittests.FSW_test: DEBUG:    MOE = 1080.256180
+SCTA_repo.src.unittests.FSW_test: DEBUG:  measurement = mer
+SCTA_repo.src.unittests.FSW_test: DEBUG:    mean = 23.596400
+SCTA_repo.src.unittests.FSW_test: DEBUG:    MOE = 0.366047
+--------------------- >> end captured logging << ---------------------
+
+======================================================================
+DEBUG: SCTA_repo.src.unittests.FSW_test.FSW_Test.test_sweepAverage(100,)
+----------------------------------------------------------------------
+-------------------- >> begin captured logging << --------------------
+SCTA_repo.src.unittests.FSW_test: DEBUG: avg = 100
+SCTA_repo.src.unittests.FSW_test: DEBUG:  measurement = phaseerror
+SCTA_repo.src.unittests.FSW_test: DEBUG:    mean = 3.027683
+SCTA_repo.src.unittests.FSW_test: DEBUG:    MOE = 0.137161
+SCTA_repo.src.unittests.FSW_test: DEBUG:  measurement = power
+SCTA_repo.src.unittests.FSW_test: DEBUG:    mean = -68.523982
+SCTA_repo.src.unittests.FSW_test: DEBUG:    MOE = 0.017118
+SCTA_repo.src.unittests.FSW_test: DEBUG:  measurement = carrierfreqerror
+SCTA_repo.src.unittests.FSW_test: DEBUG:    mean = 193.020484
+SCTA_repo.src.unittests.FSW_test: DEBUG:    MOE = 535.197915
+SCTA_repo.src.unittests.FSW_test: DEBUG:  measurement = mer
+SCTA_repo.src.unittests.FSW_test: DEBUG:    mean = 23.508729
+SCTA_repo.src.unittests.FSW_test: DEBUG:    MOE = 0.261643
+--------------------- >> end captured logging << ---------------------
+
+======================================================================
+DEBUG: SCTA_repo.src.unittests.FSW_test.FSW_Test.test_sweepAverage(1000,)
+----------------------------------------------------------------------
+-------------------- >> begin captured logging << --------------------
+SCTA_repo.src.unittests.FSW_test: DEBUG: avg = 1000
+SCTA_repo.src.unittests.FSW_test: DEBUG:  measurement = phaseerror
+SCTA_repo.src.unittests.FSW_test: DEBUG:    mean = 3.032659
+SCTA_repo.src.unittests.FSW_test: DEBUG:    MOE = 0.033452
+SCTA_repo.src.unittests.FSW_test: DEBUG:  measurement = power
+SCTA_repo.src.unittests.FSW_test: DEBUG:    mean = -68.522157
+SCTA_repo.src.unittests.FSW_test: DEBUG:    MOE = 0.013041
+SCTA_repo.src.unittests.FSW_test: DEBUG:  measurement = carrierfreqerror
+SCTA_repo.src.unittests.FSW_test: DEBUG:    mean = 186.431969
+SCTA_repo.src.unittests.FSW_test: DEBUG:    MOE = 96.521769
+SCTA_repo.src.unittests.FSW_test: DEBUG:  measurement = mer
+SCTA_repo.src.unittests.FSW_test: DEBUG:    mean = 23.500084
+SCTA_repo.src.unittests.FSW_test: DEBUG:    MOE = 0.058387
+--------------------- >> end captured logging << ---------------------
+
+======================================================================
+DEBUG: SCTA_repo.src.unittests.FSW_test.FSW_Test.test_getSpectrumChannelPower
+----------------------------------------------------------------------
+-------------------- >> begin captured logging << --------------------
+SCTA_repo.src.unittests.FSW_test: DEBUG: Spectrum Channel Power = -58.754326
+--------------------- >> end captured logging << ---------------------
+
+======================================================================
+DEBUG: SCTA_repo.src.unittests.FSW_test.FSW_Test.test_getAllMeasurements
+----------------------------------------------------------------------
+-------------------- >> begin captured logging << --------------------
+SCTA_repo.src.unittests.FSW_test: DEBUG: all measurements are: {'phaseerror': 3.05517339706, 'power': -68.5119400024, 'carrierfreqerror': 350.996429443, 'mer': 23.4564037323}
+--------------------- >> end captured logging << ---------------------
+
+======================================================================
+DEBUG: SCTA_repo.src.unittests.FSW_test.FSW_Test.test_getCarrierFrequencyError
+----------------------------------------------------------------------
+-------------------- >> begin captured logging << --------------------
+SCTA_repo.src.unittests.FSW_test: DEBUG: the frequency error only is: 129.314514
+--------------------- >> end captured logging << ---------------------
+
+======================================================================
+DEBUG: SCTA_repo.src.unittests.FSW_test.FSW_Test.test_getMER
+----------------------------------------------------------------------
+-------------------- >> begin captured logging << --------------------
+SCTA_repo.src.unittests.FSW_test: DEBUG: the mer only is: 23.491760
+--------------------- >> end captured logging << ---------------------
+
+======================================================================
+DEBUG: SCTA_repo.src.unittests.FSW_test.FSW_Test.test_getPhaseError
+----------------------------------------------------------------------
+-------------------- >> begin captured logging << --------------------
+SCTA_repo.src.unittests.FSW_test: DEBUG: the phase error only is: 3.029212
+--------------------- >> end captured logging << ---------------------
+
+======================================================================
+DEBUG: SCTA_repo.src.unittests.FSW_test.FSW_Test.test_getVSAChannelPower
+----------------------------------------------------------------------
+-------------------- >> begin captured logging << --------------------
+SCTA_repo.src.unittests.FSW_test: DEBUG: the VSA ch power only is: -68.513359
+--------------------- >> end captured logging << ---------------------
+
+----------------------------------------------------------------------
+Ran 82 tests in 152.384s
+
+FAILED (failures=5)

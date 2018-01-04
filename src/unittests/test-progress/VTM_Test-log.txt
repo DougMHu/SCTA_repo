@@ -1,0 +1,679 @@
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_rfEnable(True,) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_rfEnable(False,) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setAlpha(5.0, 1) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setAlpha(10.0, 1) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setAlpha(15.0, 1) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setAlpha(20.0, 1) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setAlpha(25.0, 1) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setAlpha(30.0, 1) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setAlpha(35.0, 1) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setAlpha(5.0, 2) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setAlpha(10.0, 2) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setAlpha(15.0, 2) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setAlpha(20.0, 2) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setAlpha(25.0, 2) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setAlpha(30.0, 2) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setAlpha(35.0, 2) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setAlpha(5.0, 3) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setAlpha(10.0, 3) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setAlpha(15.0, 3) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setAlpha(20.0, 3) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setAlpha(25.0, 3) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setAlpha(30.0, 3) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setAlpha(35.0, 3) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setAlpha(5.0, 4) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setAlpha(10.0, 4) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setAlpha(15.0, 4) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setAlpha(20.0, 4) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setAlpha(25.0, 4) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setAlpha(30.0, 4) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setAlpha(35.0, 4) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setAlpha(5.0, 5) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setAlpha(10.0, 5) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setAlpha(15.0, 5) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setAlpha(20.0, 5) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setAlpha(25.0, 5) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setAlpha(30.0, 5) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setAlpha(35.0, 5) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setBondedRate(20000000,) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setBondedRate(30000000,) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setBondedRate(15000000,) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setBondedRate(55000000,) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setBroadcastStandard('DVB-S2', 1) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setBroadcastStandard('DVB-S2', 2) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setBroadcastStandard('DVB-S2', 3) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setBroadcastStandard('DVB-S2', 4) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setBroadcastStandard('DVB-S2', 5) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setCW(True, 1) ... FAIL
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setCW(False, 1) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setCW(True, 2) ... FAIL
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setCW(False, 2) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setCW(True, 3) ... FAIL
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setCW(False, 3) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setCW(True, 4) ... FAIL
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setCW(False, 4) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setCW(True, 5) ... FAIL
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setCW(False, 5) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setChunkSize(10,) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setChunkSize(34,) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setChunkSize(24,) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setChunkSize(42,) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setCodeRate ... SKIP: Skipping code rate
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setConstellation ... SKIP: skipping setConstellation
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setConstellationCodeRate ... SKIP: Skipping setConstellationCodeRate
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setDataPID(3134,) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setDataPID(5238,) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setDataPID(1334,) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setDataSource('ETHERNET INPUT A',) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setDataSource('PN23 INSERT',) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setDataSource('PN23 INVERT',) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setDataSource('RAMP GENERATOR',) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setDataSource('PN15',) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setDataSource('PN23 BONDED',) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setDataSource('PN23 BONDED INVERT',) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setFrequency ... SKIP: Skipping setFrequency
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setMarkerPID(1313,) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setMarkerPID(3018,) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setMarkerPID(2334,) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setMode ... SKIP: Skipping setMode
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setPhaseNoise(10, -53.3) ... FAIL
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setPhaseNoise(100, -55.8) ... FAIL
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setPhaseNoise(1000, -78.3) ... FAIL
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setPhaseNoise(10000, -88.1) ... FAIL
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setPhaseNoise(100000, -92.1) ... FAIL
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setPhaseNoise(1000000.0, -95.3) ... FAIL
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setPhaseNoise(10000000.0, -96.8) ... FAIL
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setPhaseNoise(17000000.0, -115.8) ... FAIL
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setPilots(True, 1) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setPilots(False, 1) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setPilots(True, 2) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setPilots(False, 2) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setPilots(True, 3) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setPilots(False, 3) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setPilots(True, 4) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setPilots(False, 4) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setPilots(True, 5) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setPilots(False, 5) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setPower(-34.0, 1) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setPower(-29.0, 1) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setPower(-24.0, 1) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setPower(-19.0, 1) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setPower(-14.0, 1) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setPower(-9.0, 1) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setPower(-34.0, 2) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setPower(-29.0, 2) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setPower(-24.0, 2) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setPower(-19.0, 2) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setPower(-14.0, 2) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setPower(-9.0, 2) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setPower(-34.0, 3) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setPower(-29.0, 3) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setPower(-24.0, 3) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setPower(-19.0, 3) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setPower(-14.0, 3) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setPower(-9.0, 3) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setPower(-34.0, 4) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setPower(-29.0, 4) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setPower(-24.0, 4) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setPower(-19.0, 4) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setPower(-14.0, 4) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setPower(-9.0, 4) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setPower(-34.0, 5) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setPower(-29.0, 5) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setPower(-24.0, 5) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setPower(-19.0, 5) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setPower(-14.0, 5) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setPower(-9.0, 5) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setScramblingCode(0, 1) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setScramblingCode(1, 1) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setScramblingCode(2, 1) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setScramblingCode(3, 1) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setScramblingCode(4, 1) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setScramblingCode(5, 1) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setScramblingCode(6, 1) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setScramblingCode(7, 1) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setScramblingCode(8, 1) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setScramblingCode(9, 1) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setScramblingCode(10, 1) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setScramblingCode(0, 2) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setScramblingCode(1, 2) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setScramblingCode(2, 2) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setScramblingCode(3, 2) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setScramblingCode(4, 2) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setScramblingCode(5, 2) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setScramblingCode(6, 2) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setScramblingCode(7, 2) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setScramblingCode(8, 2) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setScramblingCode(9, 2) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setScramblingCode(10, 2) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setScramblingCode(0, 3) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setScramblingCode(1, 3) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setScramblingCode(2, 3) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setScramblingCode(3, 3) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setScramblingCode(4, 3) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setScramblingCode(5, 3) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setScramblingCode(6, 3) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setScramblingCode(7, 3) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setScramblingCode(8, 3) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setScramblingCode(9, 3) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setScramblingCode(10, 3) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setScramblingCode(0, 4) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setScramblingCode(1, 4) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setScramblingCode(2, 4) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setScramblingCode(3, 4) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setScramblingCode(4, 4) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setScramblingCode(5, 4) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setScramblingCode(6, 4) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setScramblingCode(7, 4) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setScramblingCode(8, 4) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setScramblingCode(9, 4) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setScramblingCode(10, 4) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setScramblingCode(0, 5) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setScramblingCode(1, 5) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setScramblingCode(2, 5) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setScramblingCode(3, 5) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setScramblingCode(4, 5) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setScramblingCode(5, 5) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setScramblingCode(6, 5) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setScramblingCode(7, 5) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setScramblingCode(8, 5) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setScramblingCode(9, 5) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setScramblingCode(10, 5) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setSkew(10, 1) ... FAIL
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setSkew(5000, 1) ... FAIL
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setSkew(40000, 1) ... FAIL
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setSkew(10, 2) ... FAIL
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setSkew(5000, 2) ... FAIL
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setSkew(40000, 2) ... FAIL
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setSkew(10, 3) ... FAIL
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setSkew(5000, 3) ... FAIL
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setSkew(40000, 3) ... FAIL
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setSkew(10, 4) ... FAIL
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setSkew(5000, 4) ... FAIL
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setSkew(40000, 4) ... FAIL
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setSkew(10, 5) ... FAIL
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setSkew(5000, 5) ... FAIL
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setSkew(40000, 5) ... FAIL
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setSymbolRate(20000000.0, 1) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setSymbolRate(30000000.0, 1) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setSymbolRate(20000000.0, 2) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setSymbolRate(30000000.0, 2) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setSymbolRate(20000000.0, 3) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setSymbolRate(30000000.0, 3) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setSymbolRate(20000000.0, 4) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setSymbolRate(30000000.0, 4) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setSymbolRate(20000000.0, 5) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setSymbolRate(30000000.0, 5) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setTransponder ... SKIP: Skipping setTransponder
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setVTMMode('CCM',) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setVTMMode('LAB',) ... ok
+SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setVTMMode('VTM',) ... ok
+
+======================================================================
+FAIL: SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setCW(True, 1)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\labuser\Anaconda3\envs\scta-dev\lib\site-packages\nose\case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "C:\Users\labuser\Documents\SCTA_repo\src\unittests\VTM_Test.py", line 228, in check_setCW
+    assert (test_carrier == actual_carrier)
+AssertionError: 
+-------------------- >> begin captured logging << --------------------
+SCTA.Instrumentation.SNMPComm: INFO: command sent is: 'C:\\SnmpSet.exe -r:10.23.120.151 -v:2 -o:.1.3.6.1.4.1.9633.24.1.3.1.4.1.4.1 -val:1'
+SCTA.Instrumentation.SNMPComm: INFO: output is: b'SnmpSet v1.01 - Copyright (C) 2009 SnmpSoft Company\r\n[ More useful network tools on http://www.snmpsoft.com ]\r\n\r\n%Failed to set value to SNMP variable. Commit Failed (commitFailed(14))\r\n'
+SCTA.Instrumentation.VTM: INFO: Set Carrier Wave Enabled state: True
+SCTA.Instrumentation.VTM: INFO: Got Carrier Wave Enabled state: False
+--------------------- >> end captured logging << ---------------------
+
+======================================================================
+FAIL: SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setCW(True, 2)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\labuser\Anaconda3\envs\scta-dev\lib\site-packages\nose\case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "C:\Users\labuser\Documents\SCTA_repo\src\unittests\VTM_Test.py", line 228, in check_setCW
+    assert (test_carrier == actual_carrier)
+AssertionError: 
+-------------------- >> begin captured logging << --------------------
+SCTA.Instrumentation.SNMPComm: INFO: command sent is: 'C:\\SnmpSet.exe -r:10.23.120.151 -v:2 -o:.1.3.6.1.4.1.9633.24.1.3.1.4.1.4.1 -val:1'
+SCTA.Instrumentation.SNMPComm: INFO: output is: b'SnmpSet v1.01 - Copyright (C) 2009 SnmpSoft Company\r\n[ More useful network tools on http://www.snmpsoft.com ]\r\n\r\n%Failed to set value to SNMP variable. Commit Failed (commitFailed(14))\r\n'
+SCTA.Instrumentation.VTM: INFO: Set Carrier Wave Enabled state: True
+SCTA.Instrumentation.VTM: INFO: Got Carrier Wave Enabled state: False
+--------------------- >> end captured logging << ---------------------
+
+======================================================================
+FAIL: SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setCW(True, 3)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\labuser\Anaconda3\envs\scta-dev\lib\site-packages\nose\case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "C:\Users\labuser\Documents\SCTA_repo\src\unittests\VTM_Test.py", line 228, in check_setCW
+    assert (test_carrier == actual_carrier)
+AssertionError: 
+-------------------- >> begin captured logging << --------------------
+SCTA.Instrumentation.SNMPComm: INFO: command sent is: 'C:\\SnmpSet.exe -r:10.23.120.151 -v:2 -o:.1.3.6.1.4.1.9633.24.1.3.1.4.1.4.1 -val:1'
+SCTA.Instrumentation.SNMPComm: INFO: output is: b'SnmpSet v1.01 - Copyright (C) 2009 SnmpSoft Company\r\n[ More useful network tools on http://www.snmpsoft.com ]\r\n\r\n%Failed to set value to SNMP variable. Commit Failed (commitFailed(14))\r\n'
+SCTA.Instrumentation.VTM: INFO: Set Carrier Wave Enabled state: True
+SCTA.Instrumentation.VTM: INFO: Got Carrier Wave Enabled state: False
+--------------------- >> end captured logging << ---------------------
+
+======================================================================
+FAIL: SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setCW(True, 4)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\labuser\Anaconda3\envs\scta-dev\lib\site-packages\nose\case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "C:\Users\labuser\Documents\SCTA_repo\src\unittests\VTM_Test.py", line 228, in check_setCW
+    assert (test_carrier == actual_carrier)
+AssertionError: 
+-------------------- >> begin captured logging << --------------------
+SCTA.Instrumentation.SNMPComm: INFO: command sent is: 'C:\\SnmpSet.exe -r:10.23.120.151 -v:2 -o:.1.3.6.1.4.1.9633.24.1.3.1.4.1.4.1 -val:1'
+SCTA.Instrumentation.SNMPComm: INFO: output is: b'SnmpSet v1.01 - Copyright (C) 2009 SnmpSoft Company\r\n[ More useful network tools on http://www.snmpsoft.com ]\r\n\r\n%Failed to set value to SNMP variable. Commit Failed (commitFailed(14))\r\n'
+SCTA.Instrumentation.VTM: INFO: Set Carrier Wave Enabled state: True
+SCTA.Instrumentation.VTM: INFO: Got Carrier Wave Enabled state: False
+--------------------- >> end captured logging << ---------------------
+
+======================================================================
+FAIL: SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setCW(True, 5)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\labuser\Anaconda3\envs\scta-dev\lib\site-packages\nose\case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "C:\Users\labuser\Documents\SCTA_repo\src\unittests\VTM_Test.py", line 228, in check_setCW
+    assert (test_carrier == actual_carrier)
+AssertionError: 
+-------------------- >> begin captured logging << --------------------
+SCTA.Instrumentation.SNMPComm: INFO: command sent is: 'C:\\SnmpSet.exe -r:10.23.120.151 -v:2 -o:.1.3.6.1.4.1.9633.24.1.3.1.4.1.4.1 -val:1'
+SCTA.Instrumentation.SNMPComm: INFO: output is: b'SnmpSet v1.01 - Copyright (C) 2009 SnmpSoft Company\r\n[ More useful network tools on http://www.snmpsoft.com ]\r\n\r\n%Failed to set value to SNMP variable. Commit Failed (commitFailed(14))\r\n'
+SCTA.Instrumentation.VTM: INFO: Set Carrier Wave Enabled state: True
+SCTA.Instrumentation.VTM: INFO: Got Carrier Wave Enabled state: False
+--------------------- >> end captured logging << ---------------------
+
+======================================================================
+FAIL: SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setPhaseNoise(10, -53.3)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\labuser\Anaconda3\envs\scta-dev\lib\site-packages\nose\case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "C:\Users\labuser\Documents\SCTA_repo\src\unittests\VTM_Test.py", line 329, in check_setPhaseNoise
+    assert (test_phase == actual_phase)
+AssertionError: 
+-------------------- >> begin captured logging << --------------------
+SCTA.Instrumentation.VTM: INFO: string sent is: '.1.3.6.1.4.1.9633.24.1.3.1.1.21.1.2.1 -val:-533.0'
+SCTA.Instrumentation.SNMPComm: INFO: command sent is: 'C:\\SnmpSet.exe -r:10.23.120.151 -v:2 -o:.1.3.6.1.4.1.9633.24.1.3.1.1.21.1.2.1 -val:-533.0'
+SCTA.Instrumentation.SNMPComm: INFO: output is: b'SnmpSet v1.01 - Copyright (C) 2009 SnmpSoft Company\r\n[ More useful network tools on http://www.snmpsoft.com ]\r\n\r\nOK\r\n'
+SCTA.Instrumentation.VTM: INFO: string sent is: '.1.3.6.1.4.1.9633.24.1.3.1.1.21.1.2.1'
+SCTA_repo.src.unittests.VTM_Test: INFO: test skew is -53.3
+SCTA_repo.src.unittests.VTM_Test: INFO: actual skew is -999.0
+--------------------- >> end captured logging << ---------------------
+
+======================================================================
+FAIL: SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setPhaseNoise(100, -55.8)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\labuser\Anaconda3\envs\scta-dev\lib\site-packages\nose\case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "C:\Users\labuser\Documents\SCTA_repo\src\unittests\VTM_Test.py", line 329, in check_setPhaseNoise
+    assert (test_phase == actual_phase)
+AssertionError: 
+-------------------- >> begin captured logging << --------------------
+SCTA.Instrumentation.VTM: INFO: string sent is: '.1.3.6.1.4.1.9633.24.1.3.1.1.21.1.2.2 -val:-558.0'
+SCTA.Instrumentation.SNMPComm: INFO: command sent is: 'C:\\SnmpSet.exe -r:10.23.120.151 -v:2 -o:.1.3.6.1.4.1.9633.24.1.3.1.1.21.1.2.2 -val:-558.0'
+SCTA.Instrumentation.SNMPComm: INFO: output is: b'SnmpSet v1.01 - Copyright (C) 2009 SnmpSoft Company\r\n[ More useful network tools on http://www.snmpsoft.com ]\r\n\r\nOK\r\n'
+SCTA.Instrumentation.VTM: INFO: string sent is: '.1.3.6.1.4.1.9633.24.1.3.1.1.21.1.2.2'
+SCTA_repo.src.unittests.VTM_Test: INFO: test skew is -55.8
+SCTA_repo.src.unittests.VTM_Test: INFO: actual skew is -999.0
+--------------------- >> end captured logging << ---------------------
+
+======================================================================
+FAIL: SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setPhaseNoise(1000, -78.3)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\labuser\Anaconda3\envs\scta-dev\lib\site-packages\nose\case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "C:\Users\labuser\Documents\SCTA_repo\src\unittests\VTM_Test.py", line 329, in check_setPhaseNoise
+    assert (test_phase == actual_phase)
+AssertionError: 
+-------------------- >> begin captured logging << --------------------
+SCTA.Instrumentation.VTM: INFO: string sent is: '.1.3.6.1.4.1.9633.24.1.3.1.1.21.1.2.2 -val:-783.0'
+SCTA.Instrumentation.SNMPComm: INFO: command sent is: 'C:\\SnmpSet.exe -r:10.23.120.151 -v:2 -o:.1.3.6.1.4.1.9633.24.1.3.1.1.21.1.2.2 -val:-783.0'
+SCTA.Instrumentation.SNMPComm: INFO: output is: b'SnmpSet v1.01 - Copyright (C) 2009 SnmpSoft Company\r\n[ More useful network tools on http://www.snmpsoft.com ]\r\n\r\nOK\r\n'
+SCTA.Instrumentation.VTM: INFO: string sent is: '.1.3.6.1.4.1.9633.24.1.3.1.1.21.1.2.2'
+SCTA_repo.src.unittests.VTM_Test: INFO: test skew is -78.3
+SCTA_repo.src.unittests.VTM_Test: INFO: actual skew is -999.0
+--------------------- >> end captured logging << ---------------------
+
+======================================================================
+FAIL: SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setPhaseNoise(10000, -88.1)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\labuser\Anaconda3\envs\scta-dev\lib\site-packages\nose\case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "C:\Users\labuser\Documents\SCTA_repo\src\unittests\VTM_Test.py", line 329, in check_setPhaseNoise
+    assert (test_phase == actual_phase)
+AssertionError: 
+-------------------- >> begin captured logging << --------------------
+SCTA.Instrumentation.VTM: INFO: string sent is: '.1.3.6.1.4.1.9633.24.1.3.1.1.21.1.2.4 -val:-881.0'
+SCTA.Instrumentation.SNMPComm: INFO: command sent is: 'C:\\SnmpSet.exe -r:10.23.120.151 -v:2 -o:.1.3.6.1.4.1.9633.24.1.3.1.1.21.1.2.4 -val:-881.0'
+SCTA.Instrumentation.SNMPComm: INFO: output is: b'SnmpSet v1.01 - Copyright (C) 2009 SnmpSoft Company\r\n[ More useful network tools on http://www.snmpsoft.com ]\r\n\r\nOK\r\n'
+SCTA.Instrumentation.VTM: INFO: string sent is: '.1.3.6.1.4.1.9633.24.1.3.1.1.21.1.2.4'
+SCTA_repo.src.unittests.VTM_Test: INFO: test skew is -88.1
+SCTA_repo.src.unittests.VTM_Test: INFO: actual skew is -999.0
+--------------------- >> end captured logging << ---------------------
+
+======================================================================
+FAIL: SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setPhaseNoise(100000, -92.1)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\labuser\Anaconda3\envs\scta-dev\lib\site-packages\nose\case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "C:\Users\labuser\Documents\SCTA_repo\src\unittests\VTM_Test.py", line 329, in check_setPhaseNoise
+    assert (test_phase == actual_phase)
+AssertionError: 
+-------------------- >> begin captured logging << --------------------
+SCTA.Instrumentation.VTM: INFO: string sent is: '.1.3.6.1.4.1.9633.24.1.3.1.1.21.1.2.5 -val:-921.0'
+SCTA.Instrumentation.SNMPComm: INFO: command sent is: 'C:\\SnmpSet.exe -r:10.23.120.151 -v:2 -o:.1.3.6.1.4.1.9633.24.1.3.1.1.21.1.2.5 -val:-921.0'
+SCTA.Instrumentation.SNMPComm: INFO: output is: b'SnmpSet v1.01 - Copyright (C) 2009 SnmpSoft Company\r\n[ More useful network tools on http://www.snmpsoft.com ]\r\n\r\nOK\r\n'
+SCTA.Instrumentation.VTM: INFO: string sent is: '.1.3.6.1.4.1.9633.24.1.3.1.1.21.1.2.5'
+SCTA_repo.src.unittests.VTM_Test: INFO: test skew is -92.1
+SCTA_repo.src.unittests.VTM_Test: INFO: actual skew is -999.0
+--------------------- >> end captured logging << ---------------------
+
+======================================================================
+FAIL: SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setPhaseNoise(1000000.0, -95.3)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\labuser\Anaconda3\envs\scta-dev\lib\site-packages\nose\case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "C:\Users\labuser\Documents\SCTA_repo\src\unittests\VTM_Test.py", line 329, in check_setPhaseNoise
+    assert (test_phase == actual_phase)
+AssertionError: 
+-------------------- >> begin captured logging << --------------------
+SCTA.Instrumentation.VTM: INFO: string sent is: '.1.3.6.1.4.1.9633.24.1.3.1.1.21.1.2.5 -val:-953.0'
+SCTA.Instrumentation.SNMPComm: INFO: command sent is: 'C:\\SnmpSet.exe -r:10.23.120.151 -v:2 -o:.1.3.6.1.4.1.9633.24.1.3.1.1.21.1.2.5 -val:-953.0'
+SCTA.Instrumentation.SNMPComm: INFO: output is: b'SnmpSet v1.01 - Copyright (C) 2009 SnmpSoft Company\r\n[ More useful network tools on http://www.snmpsoft.com ]\r\n\r\nOK\r\n'
+SCTA.Instrumentation.VTM: INFO: string sent is: '.1.3.6.1.4.1.9633.24.1.3.1.1.21.1.2.5'
+SCTA_repo.src.unittests.VTM_Test: INFO: test skew is -95.3
+SCTA_repo.src.unittests.VTM_Test: INFO: actual skew is -999.0
+--------------------- >> end captured logging << ---------------------
+
+======================================================================
+FAIL: SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setPhaseNoise(10000000.0, -96.8)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\labuser\Anaconda3\envs\scta-dev\lib\site-packages\nose\case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "C:\Users\labuser\Documents\SCTA_repo\src\unittests\VTM_Test.py", line 329, in check_setPhaseNoise
+    assert (test_phase == actual_phase)
+AssertionError: 
+-------------------- >> begin captured logging << --------------------
+SCTA.Instrumentation.VTM: INFO: string sent is: '.1.3.6.1.4.1.9633.24.1.3.1.1.21.1.2.7 -val:-968.0'
+SCTA.Instrumentation.SNMPComm: INFO: command sent is: 'C:\\SnmpSet.exe -r:10.23.120.151 -v:2 -o:.1.3.6.1.4.1.9633.24.1.3.1.1.21.1.2.7 -val:-968.0'
+SCTA.Instrumentation.SNMPComm: INFO: output is: b'SnmpSet v1.01 - Copyright (C) 2009 SnmpSoft Company\r\n[ More useful network tools on http://www.snmpsoft.com ]\r\n\r\nOK\r\n'
+SCTA.Instrumentation.VTM: INFO: string sent is: '.1.3.6.1.4.1.9633.24.1.3.1.1.21.1.2.7'
+SCTA_repo.src.unittests.VTM_Test: INFO: test skew is -96.8
+SCTA_repo.src.unittests.VTM_Test: INFO: actual skew is -999.0
+--------------------- >> end captured logging << ---------------------
+
+======================================================================
+FAIL: SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setPhaseNoise(17000000.0, -115.8)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\labuser\Anaconda3\envs\scta-dev\lib\site-packages\nose\case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "C:\Users\labuser\Documents\SCTA_repo\src\unittests\VTM_Test.py", line 329, in check_setPhaseNoise
+    assert (test_phase == actual_phase)
+AssertionError: 
+-------------------- >> begin captured logging << --------------------
+SCTA.Instrumentation.VTM: INFO: string sent is: '.1.3.6.1.4.1.9633.24.1.3.1.1.21.1.2.8 -val:-1158.0'
+SCTA.Instrumentation.SNMPComm: INFO: command sent is: 'C:\\SnmpSet.exe -r:10.23.120.151 -v:2 -o:.1.3.6.1.4.1.9633.24.1.3.1.1.21.1.2.8 -val:-1158.0'
+SCTA.Instrumentation.SNMPComm: INFO: output is: b'SnmpSet v1.01 - Copyright (C) 2009 SnmpSoft Company\r\n[ More useful network tools on http://www.snmpsoft.com ]\r\n\r\nOK\r\n'
+SCTA.Instrumentation.VTM: INFO: string sent is: '.1.3.6.1.4.1.9633.24.1.3.1.1.21.1.2.8'
+SCTA_repo.src.unittests.VTM_Test: INFO: test skew is -115.8
+SCTA_repo.src.unittests.VTM_Test: INFO: actual skew is -999.0
+--------------------- >> end captured logging << ---------------------
+
+======================================================================
+FAIL: SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setSkew(10, 1)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\labuser\Anaconda3\envs\scta-dev\lib\site-packages\nose\case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "C:\Users\labuser\Documents\SCTA_repo\src\unittests\VTM_Test.py", line 318, in check_setSkew
+    assert (test_skew == actual_skew)
+AssertionError: 
+-------------------- >> begin captured logging << --------------------
+SCTA.Instrumentation.SNMPComm: INFO: command sent is: 'C:\\SnmpSet.exe -r:10.23.120.151 -v:2 -o:.1.3.6.1.4.1.9633.24.1.3.1.1.19.1.2.1 -val:10'
+SCTA.Instrumentation.SNMPComm: INFO: output is: b'SnmpSet v1.01 - Copyright (C) 2009 SnmpSoft Company\r\n[ More useful network tools on http://www.snmpsoft.com ]\r\n\r\nOK\r\n'
+SCTA_repo.src.unittests.VTM_Test: INFO: test skew is 10
+SCTA_repo.src.unittests.VTM_Test: INFO: actual skew is -1
+--------------------- >> end captured logging << ---------------------
+
+======================================================================
+FAIL: SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setSkew(5000, 1)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\labuser\Anaconda3\envs\scta-dev\lib\site-packages\nose\case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "C:\Users\labuser\Documents\SCTA_repo\src\unittests\VTM_Test.py", line 318, in check_setSkew
+    assert (test_skew == actual_skew)
+AssertionError: 
+-------------------- >> begin captured logging << --------------------
+SCTA.Instrumentation.SNMPComm: INFO: command sent is: 'C:\\SnmpSet.exe -r:10.23.120.151 -v:2 -o:.1.3.6.1.4.1.9633.24.1.3.1.1.19.1.2.1 -val:5000'
+SCTA.Instrumentation.SNMPComm: INFO: output is: b'SnmpSet v1.01 - Copyright (C) 2009 SnmpSoft Company\r\n[ More useful network tools on http://www.snmpsoft.com ]\r\n\r\nOK\r\n'
+SCTA_repo.src.unittests.VTM_Test: INFO: test skew is 5000
+SCTA_repo.src.unittests.VTM_Test: INFO: actual skew is -1
+--------------------- >> end captured logging << ---------------------
+
+======================================================================
+FAIL: SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setSkew(40000, 1)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\labuser\Anaconda3\envs\scta-dev\lib\site-packages\nose\case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "C:\Users\labuser\Documents\SCTA_repo\src\unittests\VTM_Test.py", line 318, in check_setSkew
+    assert (test_skew == actual_skew)
+AssertionError: 
+-------------------- >> begin captured logging << --------------------
+SCTA.Instrumentation.SNMPComm: INFO: command sent is: 'C:\\SnmpSet.exe -r:10.23.120.151 -v:2 -o:.1.3.6.1.4.1.9633.24.1.3.1.1.19.1.2.1 -val:40000'
+SCTA.Instrumentation.SNMPComm: INFO: output is: b'SnmpSet v1.01 - Copyright (C) 2009 SnmpSoft Company\r\n[ More useful network tools on http://www.snmpsoft.com ]\r\n\r\nOK\r\n'
+SCTA_repo.src.unittests.VTM_Test: INFO: test skew is 40000
+SCTA_repo.src.unittests.VTM_Test: INFO: actual skew is -1
+--------------------- >> end captured logging << ---------------------
+
+======================================================================
+FAIL: SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setSkew(10, 2)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\labuser\Anaconda3\envs\scta-dev\lib\site-packages\nose\case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "C:\Users\labuser\Documents\SCTA_repo\src\unittests\VTM_Test.py", line 318, in check_setSkew
+    assert (test_skew == actual_skew)
+AssertionError: 
+-------------------- >> begin captured logging << --------------------
+SCTA.Instrumentation.SNMPComm: INFO: command sent is: 'C:\\SnmpSet.exe -r:10.23.120.151 -v:2 -o:.1.3.6.1.4.1.9633.24.1.3.1.1.19.1.2.2 -val:10'
+SCTA.Instrumentation.SNMPComm: INFO: output is: b'SnmpSet v1.01 - Copyright (C) 2009 SnmpSoft Company\r\n[ More useful network tools on http://www.snmpsoft.com ]\r\n\r\nOK\r\n'
+SCTA_repo.src.unittests.VTM_Test: INFO: test skew is 10
+SCTA_repo.src.unittests.VTM_Test: INFO: actual skew is -1
+--------------------- >> end captured logging << ---------------------
+
+======================================================================
+FAIL: SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setSkew(5000, 2)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\labuser\Anaconda3\envs\scta-dev\lib\site-packages\nose\case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "C:\Users\labuser\Documents\SCTA_repo\src\unittests\VTM_Test.py", line 318, in check_setSkew
+    assert (test_skew == actual_skew)
+AssertionError: 
+-------------------- >> begin captured logging << --------------------
+SCTA.Instrumentation.SNMPComm: INFO: command sent is: 'C:\\SnmpSet.exe -r:10.23.120.151 -v:2 -o:.1.3.6.1.4.1.9633.24.1.3.1.1.19.1.2.2 -val:5000'
+SCTA.Instrumentation.SNMPComm: INFO: output is: b'SnmpSet v1.01 - Copyright (C) 2009 SnmpSoft Company\r\n[ More useful network tools on http://www.snmpsoft.com ]\r\n\r\nOK\r\n'
+SCTA_repo.src.unittests.VTM_Test: INFO: test skew is 5000
+SCTA_repo.src.unittests.VTM_Test: INFO: actual skew is -1
+--------------------- >> end captured logging << ---------------------
+
+======================================================================
+FAIL: SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setSkew(40000, 2)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\labuser\Anaconda3\envs\scta-dev\lib\site-packages\nose\case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "C:\Users\labuser\Documents\SCTA_repo\src\unittests\VTM_Test.py", line 318, in check_setSkew
+    assert (test_skew == actual_skew)
+AssertionError: 
+-------------------- >> begin captured logging << --------------------
+SCTA.Instrumentation.SNMPComm: INFO: command sent is: 'C:\\SnmpSet.exe -r:10.23.120.151 -v:2 -o:.1.3.6.1.4.1.9633.24.1.3.1.1.19.1.2.2 -val:40000'
+SCTA.Instrumentation.SNMPComm: INFO: output is: b'SnmpSet v1.01 - Copyright (C) 2009 SnmpSoft Company\r\n[ More useful network tools on http://www.snmpsoft.com ]\r\n\r\nOK\r\n'
+SCTA_repo.src.unittests.VTM_Test: INFO: test skew is 40000
+SCTA_repo.src.unittests.VTM_Test: INFO: actual skew is -1
+--------------------- >> end captured logging << ---------------------
+
+======================================================================
+FAIL: SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setSkew(10, 3)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\labuser\Anaconda3\envs\scta-dev\lib\site-packages\nose\case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "C:\Users\labuser\Documents\SCTA_repo\src\unittests\VTM_Test.py", line 318, in check_setSkew
+    assert (test_skew == actual_skew)
+AssertionError: 
+-------------------- >> begin captured logging << --------------------
+SCTA.Instrumentation.SNMPComm: INFO: command sent is: 'C:\\SnmpSet.exe -r:10.23.120.151 -v:2 -o:.1.3.6.1.4.1.9633.24.1.3.1.1.19.1.2.3 -val:10'
+SCTA.Instrumentation.SNMPComm: INFO: output is: b'SnmpSet v1.01 - Copyright (C) 2009 SnmpSoft Company\r\n[ More useful network tools on http://www.snmpsoft.com ]\r\n\r\nOK\r\n'
+SCTA_repo.src.unittests.VTM_Test: INFO: test skew is 10
+SCTA_repo.src.unittests.VTM_Test: INFO: actual skew is -1
+--------------------- >> end captured logging << ---------------------
+
+======================================================================
+FAIL: SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setSkew(5000, 3)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\labuser\Anaconda3\envs\scta-dev\lib\site-packages\nose\case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "C:\Users\labuser\Documents\SCTA_repo\src\unittests\VTM_Test.py", line 318, in check_setSkew
+    assert (test_skew == actual_skew)
+AssertionError: 
+-------------------- >> begin captured logging << --------------------
+SCTA.Instrumentation.SNMPComm: INFO: command sent is: 'C:\\SnmpSet.exe -r:10.23.120.151 -v:2 -o:.1.3.6.1.4.1.9633.24.1.3.1.1.19.1.2.3 -val:5000'
+SCTA.Instrumentation.SNMPComm: INFO: output is: b'SnmpSet v1.01 - Copyright (C) 2009 SnmpSoft Company\r\n[ More useful network tools on http://www.snmpsoft.com ]\r\n\r\nOK\r\n'
+SCTA_repo.src.unittests.VTM_Test: INFO: test skew is 5000
+SCTA_repo.src.unittests.VTM_Test: INFO: actual skew is -1
+--------------------- >> end captured logging << ---------------------
+
+======================================================================
+FAIL: SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setSkew(40000, 3)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\labuser\Anaconda3\envs\scta-dev\lib\site-packages\nose\case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "C:\Users\labuser\Documents\SCTA_repo\src\unittests\VTM_Test.py", line 318, in check_setSkew
+    assert (test_skew == actual_skew)
+AssertionError: 
+-------------------- >> begin captured logging << --------------------
+SCTA.Instrumentation.SNMPComm: INFO: command sent is: 'C:\\SnmpSet.exe -r:10.23.120.151 -v:2 -o:.1.3.6.1.4.1.9633.24.1.3.1.1.19.1.2.3 -val:40000'
+SCTA.Instrumentation.SNMPComm: INFO: output is: b'SnmpSet v1.01 - Copyright (C) 2009 SnmpSoft Company\r\n[ More useful network tools on http://www.snmpsoft.com ]\r\n\r\nOK\r\n'
+SCTA_repo.src.unittests.VTM_Test: INFO: test skew is 40000
+SCTA_repo.src.unittests.VTM_Test: INFO: actual skew is -1
+--------------------- >> end captured logging << ---------------------
+
+======================================================================
+FAIL: SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setSkew(10, 4)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\labuser\Anaconda3\envs\scta-dev\lib\site-packages\nose\case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "C:\Users\labuser\Documents\SCTA_repo\src\unittests\VTM_Test.py", line 318, in check_setSkew
+    assert (test_skew == actual_skew)
+AssertionError: 
+-------------------- >> begin captured logging << --------------------
+SCTA.Instrumentation.SNMPComm: INFO: command sent is: 'C:\\SnmpSet.exe -r:10.23.120.151 -v:2 -o:.1.3.6.1.4.1.9633.24.1.3.1.1.19.1.2.4 -val:10'
+SCTA.Instrumentation.SNMPComm: INFO: output is: b'SnmpSet v1.01 - Copyright (C) 2009 SnmpSoft Company\r\n[ More useful network tools on http://www.snmpsoft.com ]\r\n\r\nOK\r\n'
+SCTA_repo.src.unittests.VTM_Test: INFO: test skew is 10
+SCTA_repo.src.unittests.VTM_Test: INFO: actual skew is -1
+--------------------- >> end captured logging << ---------------------
+
+======================================================================
+FAIL: SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setSkew(5000, 4)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\labuser\Anaconda3\envs\scta-dev\lib\site-packages\nose\case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "C:\Users\labuser\Documents\SCTA_repo\src\unittests\VTM_Test.py", line 318, in check_setSkew
+    assert (test_skew == actual_skew)
+AssertionError: 
+-------------------- >> begin captured logging << --------------------
+SCTA.Instrumentation.SNMPComm: INFO: command sent is: 'C:\\SnmpSet.exe -r:10.23.120.151 -v:2 -o:.1.3.6.1.4.1.9633.24.1.3.1.1.19.1.2.4 -val:5000'
+SCTA.Instrumentation.SNMPComm: INFO: output is: b'SnmpSet v1.01 - Copyright (C) 2009 SnmpSoft Company\r\n[ More useful network tools on http://www.snmpsoft.com ]\r\n\r\nOK\r\n'
+SCTA_repo.src.unittests.VTM_Test: INFO: test skew is 5000
+SCTA_repo.src.unittests.VTM_Test: INFO: actual skew is -1
+--------------------- >> end captured logging << ---------------------
+
+======================================================================
+FAIL: SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setSkew(40000, 4)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\labuser\Anaconda3\envs\scta-dev\lib\site-packages\nose\case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "C:\Users\labuser\Documents\SCTA_repo\src\unittests\VTM_Test.py", line 318, in check_setSkew
+    assert (test_skew == actual_skew)
+AssertionError: 
+-------------------- >> begin captured logging << --------------------
+SCTA.Instrumentation.SNMPComm: INFO: command sent is: 'C:\\SnmpSet.exe -r:10.23.120.151 -v:2 -o:.1.3.6.1.4.1.9633.24.1.3.1.1.19.1.2.4 -val:40000'
+SCTA.Instrumentation.SNMPComm: INFO: output is: b'SnmpSet v1.01 - Copyright (C) 2009 SnmpSoft Company\r\n[ More useful network tools on http://www.snmpsoft.com ]\r\n\r\nOK\r\n'
+SCTA_repo.src.unittests.VTM_Test: INFO: test skew is 40000
+SCTA_repo.src.unittests.VTM_Test: INFO: actual skew is -1
+--------------------- >> end captured logging << ---------------------
+
+======================================================================
+FAIL: SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setSkew(10, 5)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\labuser\Anaconda3\envs\scta-dev\lib\site-packages\nose\case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "C:\Users\labuser\Documents\SCTA_repo\src\unittests\VTM_Test.py", line 318, in check_setSkew
+    assert (test_skew == actual_skew)
+AssertionError: 
+-------------------- >> begin captured logging << --------------------
+SCTA.Instrumentation.SNMPComm: INFO: command sent is: 'C:\\SnmpSet.exe -r:10.23.120.151 -v:2 -o:.1.3.6.1.4.1.9633.24.1.3.1.1.19.1.2.5 -val:10'
+SCTA.Instrumentation.SNMPComm: INFO: output is: b'SnmpSet v1.01 - Copyright (C) 2009 SnmpSoft Company\r\n[ More useful network tools on http://www.snmpsoft.com ]\r\n\r\nOK\r\n'
+SCTA_repo.src.unittests.VTM_Test: INFO: test skew is 10
+SCTA_repo.src.unittests.VTM_Test: INFO: actual skew is -1
+--------------------- >> end captured logging << ---------------------
+
+======================================================================
+FAIL: SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setSkew(5000, 5)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\labuser\Anaconda3\envs\scta-dev\lib\site-packages\nose\case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "C:\Users\labuser\Documents\SCTA_repo\src\unittests\VTM_Test.py", line 318, in check_setSkew
+    assert (test_skew == actual_skew)
+AssertionError: 
+-------------------- >> begin captured logging << --------------------
+SCTA.Instrumentation.SNMPComm: INFO: command sent is: 'C:\\SnmpSet.exe -r:10.23.120.151 -v:2 -o:.1.3.6.1.4.1.9633.24.1.3.1.1.19.1.2.5 -val:5000'
+SCTA.Instrumentation.SNMPComm: INFO: output is: b'SnmpSet v1.01 - Copyright (C) 2009 SnmpSoft Company\r\n[ More useful network tools on http://www.snmpsoft.com ]\r\n\r\nOK\r\n'
+SCTA_repo.src.unittests.VTM_Test: INFO: test skew is 5000
+SCTA_repo.src.unittests.VTM_Test: INFO: actual skew is -1
+--------------------- >> end captured logging << ---------------------
+
+======================================================================
+FAIL: SCTA_repo.src.unittests.VTM_Test.VTM_Test.test_setSkew(40000, 5)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\labuser\Anaconda3\envs\scta-dev\lib\site-packages\nose\case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "C:\Users\labuser\Documents\SCTA_repo\src\unittests\VTM_Test.py", line 318, in check_setSkew
+    assert (test_skew == actual_skew)
+AssertionError: 
+-------------------- >> begin captured logging << --------------------
+SCTA.Instrumentation.SNMPComm: INFO: command sent is: 'C:\\SnmpSet.exe -r:10.23.120.151 -v:2 -o:.1.3.6.1.4.1.9633.24.1.3.1.1.19.1.2.5 -val:40000'
+SCTA.Instrumentation.SNMPComm: INFO: output is: b'SnmpSet v1.01 - Copyright (C) 2009 SnmpSoft Company\r\n[ More useful network tools on http://www.snmpsoft.com ]\r\n\r\nOK\r\n'
+SCTA_repo.src.unittests.VTM_Test: INFO: test skew is 40000
+SCTA_repo.src.unittests.VTM_Test: INFO: actual skew is -1
+--------------------- >> end captured logging << ---------------------
+
+----------------------------------------------------------------------
+Ran 210 tests in 514.383s
+
+FAILED (SKIP=6, failures=28)

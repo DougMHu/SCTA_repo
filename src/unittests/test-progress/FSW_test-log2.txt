@@ -1,0 +1,439 @@
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_getAllMeasurements ... FAIL
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_getCarrierFrequencyError ... FAIL
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_getMER ... FAIL
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_getPhaseError ... FAIL
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_getSpectrumChannelPower ... FAIL
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_getVSAChannelPower ... FAIL
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setAlpha(20.0,) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setAlpha(35.0,) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setBroadcastStandard('DIRECTV',) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setBroadcastStandard('DVBS',) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setBroadcastStandard('DVB-S2',) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setCodeRate('1/2',) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setCodeRate('3/5',) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setCodeRate('2/3',) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setCodeRate('3/4',) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setCodeRate('4/5',) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setCodeRate('5/6',) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setCodeRate('6/7',) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setCodeRate('7/8',) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setCodeRate('8/9',) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setCodeRate('9/10',) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setConstellation('8PSK',) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setConstellation('QPSK',) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setFrequency(250000000.0,) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setFrequency(350000000.0,) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setFrequency(450000000.0,) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setFrequency(550000000.0,) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setFrequency(650000000.0,) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setFrequency(750000000.0,) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setFrequency(850000000.0,) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setFrequency(950000000.0,) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setFrequency(1050000000.0,) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setFrequency(1150000000.0,) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setFrequency(1250000000.0,) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setFrequency(1350000000.0,) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setFrequency(1450000000.0,) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setFrequency(1550000000.0,) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setFrequency(1650000000.0,) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setFrequency(1750000000.0,) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setFrequency(1850000000.0,) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setFrequency(1950000000.0,) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setFrequency(2050000000.0,) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setFrequency(2150000000.0,) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setPilots(True,) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setPilots(False,) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setScramblingCode(0,) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setScramblingCode(1,) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setScramblingCode(2,) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setScramblingCode(3,) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setScramblingCode(4,) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setScramblingCode(5,) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setScramblingCode(6,) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setScramblingCode(7,) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setScramblingCode(8,) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setScramblingCode(9,) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setScramblingCode(10,) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setSpan ... FAIL
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setSweepTime ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setSymbolRate(20000000.0,) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setSymbolRate(30000000.0,) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setTransponder(Transponder({'id': 'txp', 'mode': Mode({'bcstd': 'DIRECTV', 'mod': 'QPSK', 'fec': '2/3'}), 'scramb': 0, 'freq': 1074000000.0, 'roll': 20.0, 'symb': 20000000.0, 'pilots': True}),) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setTransponder(Transponder({'id': 'txp', 'mode': Mode({'bcstd': 'DIRECTV', 'mod': 'QPSK', 'fec': '6/7'}), 'scramb': 0, 'freq': 1074000000.0, 'roll': 20.0, 'symb': 20000000.0, 'pilots': True}),) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setTransponder(Transponder({'id': 'txp', 'mode': Mode({'bcstd': 'DVB-S2', 'mod': 'QPSK', 'fec': '1/2'}), 'scramb': 0, 'freq': 1074000000.0, 'roll': 20.0, 'symb': 20000000.0, 'pilots': True}),) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setTransponder(Transponder({'id': 'txp', 'mode': Mode({'bcstd': 'DVB-S2', 'mod': 'QPSK', 'fec': '3/5'}), 'scramb': 0, 'freq': 1074000000.0, 'roll': 20.0, 'symb': 20000000.0, 'pilots': True}),) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setTransponder(Transponder({'id': 'txp', 'mode': Mode({'bcstd': 'DVB-S2', 'mod': 'QPSK', 'fec': '2/3'}), 'scramb': 0, 'freq': 1074000000.0, 'roll': 20.0, 'symb': 20000000.0, 'pilots': True}),) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setTransponder(Transponder({'id': 'txp', 'mode': Mode({'bcstd': 'DVB-S2', 'mod': 'QPSK', 'fec': '3/4'}), 'scramb': 0, 'freq': 1074000000.0, 'roll': 20.0, 'symb': 20000000.0, 'pilots': True}),) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setTransponder(Transponder({'id': 'txp', 'mode': Mode({'bcstd': 'DVB-S2', 'mod': 'QPSK', 'fec': '4/5'}), 'scramb': 0, 'freq': 1074000000.0, 'roll': 20.0, 'symb': 20000000.0, 'pilots': True}),) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setTransponder(Transponder({'id': 'txp', 'mode': Mode({'bcstd': 'DVB-S2', 'mod': 'QPSK', 'fec': '5/6'}), 'scramb': 0, 'freq': 1074000000.0, 'roll': 20.0, 'symb': 20000000.0, 'pilots': True}),) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setTransponder(Transponder({'id': 'txp', 'mode': Mode({'bcstd': 'DVB-S2', 'mod': 'QPSK', 'fec': '8/9'}), 'scramb': 0, 'freq': 1074000000.0, 'roll': 20.0, 'symb': 20000000.0, 'pilots': True}),) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setTransponder(Transponder({'id': 'txp', 'mode': Mode({'bcstd': 'DVB-S2', 'mod': 'QPSK', 'fec': '9/10'}), 'scramb': 0, 'freq': 1074000000.0, 'roll': 20.0, 'symb': 20000000.0, 'pilots': True}),) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setTransponder(Transponder({'id': 'txp', 'mode': Mode({'bcstd': 'DVB-S2', 'mod': '8PSK', 'fec': '3/5'}), 'scramb': 0, 'freq': 1074000000.0, 'roll': 20.0, 'symb': 20000000.0, 'pilots': True}),) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setTransponder(Transponder({'id': 'txp', 'mode': Mode({'bcstd': 'DVB-S2', 'mod': '8PSK', 'fec': '2/3'}), 'scramb': 0, 'freq': 1074000000.0, 'roll': 20.0, 'symb': 20000000.0, 'pilots': True}),) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setTransponder(Transponder({'id': 'txp', 'mode': Mode({'bcstd': 'DVB-S2', 'mod': '8PSK', 'fec': '3/4'}), 'scramb': 0, 'freq': 1074000000.0, 'roll': 20.0, 'symb': 20000000.0, 'pilots': True}),) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setTransponder(Transponder({'id': 'txp', 'mode': Mode({'bcstd': 'DVB-S2', 'mod': '8PSK', 'fec': '5/6'}), 'scramb': 0, 'freq': 1074000000.0, 'roll': 20.0, 'symb': 20000000.0, 'pilots': True}),) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setTransponder(Transponder({'id': 'txp', 'mode': Mode({'bcstd': 'DVB-S2', 'mod': '8PSK', 'fec': '8/9'}), 'scramb': 0, 'freq': 1074000000.0, 'roll': 20.0, 'symb': 20000000.0, 'pilots': True}),) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setTransponder(Transponder({'id': 'txp', 'mode': Mode({'bcstd': 'DVB-S2', 'mod': '8PSK', 'fec': '9/10'}), 'scramb': 0, 'freq': 1074000000.0, 'roll': 20.0, 'symb': 20000000.0, 'pilots': True}),) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setTransponder(Transponder({'id': 'txp', 'mode': Mode({'bcstd': 'DVBS', 'mod': 'QPSK', 'fec': '1/2'}), 'scramb': 0, 'freq': 1074000000.0, 'roll': 20.0, 'symb': 20000000.0, 'pilots': True}),) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setTransponder(Transponder({'id': 'txp', 'mode': Mode({'bcstd': 'DVBS', 'mod': 'QPSK', 'fec': '2/3'}), 'scramb': 0, 'freq': 1074000000.0, 'roll': 20.0, 'symb': 20000000.0, 'pilots': True}),) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setTransponder(Transponder({'id': 'txp', 'mode': Mode({'bcstd': 'DVBS', 'mod': 'QPSK', 'fec': '3/4'}), 'scramb': 0, 'freq': 1074000000.0, 'roll': 20.0, 'symb': 20000000.0, 'pilots': True}),) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setTransponder(Transponder({'id': 'txp', 'mode': Mode({'bcstd': 'DVBS', 'mod': 'QPSK', 'fec': '5/6'}), 'scramb': 0, 'freq': 1074000000.0, 'roll': 20.0, 'symb': 20000000.0, 'pilots': True}),) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setTransponder(Transponder({'id': 'txp', 'mode': Mode({'bcstd': 'DVBS', 'mod': 'QPSK', 'fec': '7/8'}), 'scramb': 0, 'freq': 1074000000.0, 'roll': 20.0, 'symb': 20000000.0, 'pilots': True}),) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setTransponder(Transponder({'id': 'txp', 'mode': Mode({'bcstd': 'DIRECTV', 'mod': 'QPSK', 'fec': '1/2'}), 'scramb': 0, 'freq': 1074000000.0, 'roll': 20.0, 'symb': 20000000.0, 'pilots': True}),) ... ok
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_sweepAverage(10,) ... FAIL
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_sweepAverage(100,) ... FAIL
+SCTA_repo.src.unittests.FSW_test.FSW_Test.test_sweepAverage(1000,) ... FAIL
+
+======================================================================
+FAIL: SCTA_repo.src.unittests.FSW_test.FSW_Test.test_getAllMeasurements
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\labuser\Anaconda3\envs\SCTA\lib\site-packages\nose\case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "C:\Users\labuser\Documents\SCTA_repo\src\unittests\FSW_test.py", line 68, in test_getAllMeasurements
+    assert False
+AssertionError: 
+-------------------- >> begin captured logging << --------------------
+SCTA.Instrumentation.FSW: INFO: Got frequency: 974.00 MHz
+SCTA.Instrumentation.FSW: INFO: Set frequency: 1074.00 MHz
+SCTA.Instrumentation.FSW: INFO: FSW device ID: Rohde&Schwarz,FSW-26,1312.8000K26/101832,2.10 SP1
+SCTA.Instrumentation.FSW: INFO: FSW configuration complete
+SCTA.Instrumentation.FSW: INFO: Set constellation: QPSK
+SCTA.Instrumentation.FSW: INFO: Got frequency: 13250.00 MHz
+SCTA.Instrumentation.FSW: INFO: Set frequency: 974.00 MHz
+SCTA.Instrumentation.FSW: INFO: Got symbol rate: 3.84 MBaud
+SCTA.Instrumentation.FSW: INFO: Set symbol rate: 20.00 MBaud
+SCTA.Instrumentation.FSW: INFO: Got roll-off factor: 22.00
+SCTA.Instrumentation.FSW: INFO: Set roll-off factor: 20.00
+SCTA.Instrumentation.FSW: INFO: Got symbol rate: 20.00 MBaud
+SCTA.Instrumentation.FSW: INFO: symb = 20000000.00
+SCTA.Instrumentation.FSW: DEBUG: Got All VSA measurements: {'mer': 38.3112716675, 'power': -32.752407074, 'carrierfreqerror': -2259.89770508, 'phaseerror': 0.49293127656}
+SCTA_repo.src.unittests.FSW_test: DEBUG: all measurements are: {'mer': 38.3112716675, 'power': -32.752407074, 'carrierfreqerror': -2259.89770508, 'phaseerror': 0.49293127656}
+--------------------- >> end captured logging << ---------------------
+
+======================================================================
+FAIL: SCTA_repo.src.unittests.FSW_test.FSW_Test.test_getCarrierFrequencyError
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\labuser\Anaconda3\envs\SCTA\lib\site-packages\nose\case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "C:\Users\labuser\Documents\SCTA_repo\src\unittests\FSW_test.py", line 100, in test_getCarrierFrequencyError
+    assert False
+AssertionError: 
+-------------------- >> begin captured logging << --------------------
+SCTA.Instrumentation.FSW: INFO: FSW device ID: Rohde&Schwarz,FSW-26,1312.8000K26/101832,2.10 SP1
+SCTA.Instrumentation.FSW: INFO: FSW configuration complete
+SCTA.Instrumentation.FSW: INFO: Set constellation: QPSK
+SCTA.Instrumentation.FSW: INFO: Got frequency: 13250.00 MHz
+SCTA.Instrumentation.FSW: INFO: Set frequency: 974.00 MHz
+SCTA.Instrumentation.FSW: INFO: Got symbol rate: 3.84 MBaud
+SCTA.Instrumentation.FSW: INFO: Set symbol rate: 20.00 MBaud
+SCTA.Instrumentation.FSW: INFO: Got roll-off factor: 22.00
+SCTA.Instrumentation.FSW: INFO: Set roll-off factor: 20.00
+SCTA.Instrumentation.FSW: INFO: Got symbol rate: 20.00 MBaud
+SCTA.Instrumentation.FSW: INFO: symb = 20000000.00
+SCTA.Instrumentation.FSW: DEBUG: Got All VSA measurements: {'mer': 38.3212814331, 'power': -32.7604598999, 'carrierfreqerror': -2258.53100586, 'phaseerror': 0.49244633317}
+SCTA.Instrumentation.FSW: INFO: Got VSA Power: -0.00 MHz
+SCTA_repo.src.unittests.FSW_test: DEBUG: the frequency error only is: -2258.531006
+--------------------- >> end captured logging << ---------------------
+
+======================================================================
+FAIL: SCTA_repo.src.unittests.FSW_test.FSW_Test.test_getMER
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\labuser\Anaconda3\envs\SCTA\lib\site-packages\nose\case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "C:\Users\labuser\Documents\SCTA_repo\src\unittests\FSW_test.py", line 84, in test_getMER
+    assert False
+AssertionError: 
+-------------------- >> begin captured logging << --------------------
+SCTA.Instrumentation.FSW: INFO: FSW device ID: Rohde&Schwarz,FSW-26,1312.8000K26/101832,2.10 SP1
+SCTA.Instrumentation.FSW: INFO: FSW configuration complete
+SCTA.Instrumentation.FSW: INFO: Set constellation: QPSK
+SCTA.Instrumentation.FSW: INFO: Got frequency: 13250.00 MHz
+SCTA.Instrumentation.FSW: INFO: Set frequency: 974.00 MHz
+SCTA.Instrumentation.FSW: INFO: Got symbol rate: 3.84 MBaud
+SCTA.Instrumentation.FSW: INFO: Set symbol rate: 20.00 MBaud
+SCTA.Instrumentation.FSW: INFO: Got roll-off factor: 22.00
+SCTA.Instrumentation.FSW: INFO: Set roll-off factor: 20.00
+SCTA.Instrumentation.FSW: INFO: Got symbol rate: 20.00 MBaud
+SCTA.Instrumentation.FSW: INFO: symb = 20000000.00
+SCTA.Instrumentation.FSW: DEBUG: Got All VSA measurements: {'mer': 38.6638336182, 'power': -32.7887115479, 'carrierfreqerror': -2259.40917969, 'phaseerror': 0.47298121452}
+SCTA.Instrumentation.FSW: INFO: Got VSA MER: 38.66 dB
+SCTA_repo.src.unittests.FSW_test: DEBUG: the mer only is: 38.663834
+--------------------- >> end captured logging << ---------------------
+
+======================================================================
+FAIL: SCTA_repo.src.unittests.FSW_test.FSW_Test.test_getPhaseError
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\labuser\Anaconda3\envs\SCTA\lib\site-packages\nose\case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "C:\Users\labuser\Documents\SCTA_repo\src\unittests\FSW_test.py", line 92, in test_getPhaseError
+    assert False
+AssertionError: 
+-------------------- >> begin captured logging << --------------------
+SCTA.Instrumentation.FSW: INFO: FSW device ID: Rohde&Schwarz,FSW-26,1312.8000K26/101832,2.10 SP1
+SCTA.Instrumentation.FSW: INFO: FSW configuration complete
+SCTA.Instrumentation.FSW: INFO: Set constellation: QPSK
+SCTA.Instrumentation.FSW: INFO: Got frequency: 13250.00 MHz
+SCTA.Instrumentation.FSW: INFO: Set frequency: 974.00 MHz
+SCTA.Instrumentation.FSW: INFO: Got symbol rate: 3.84 MBaud
+SCTA.Instrumentation.FSW: INFO: Set symbol rate: 20.00 MBaud
+SCTA.Instrumentation.FSW: INFO: Got roll-off factor: 22.00
+SCTA.Instrumentation.FSW: INFO: Set roll-off factor: 20.00
+SCTA.Instrumentation.FSW: INFO: Got symbol rate: 20.00 MBaud
+SCTA.Instrumentation.FSW: INFO: symb = 20000000.00
+SCTA.Instrumentation.FSW: DEBUG: Got All VSA measurements: {'mer': 38.6760063171, 'power': -32.7926712036, 'carrierfreqerror': -2260.51904297, 'phaseerror': 0.47292006016}
+SCTA.Instrumentation.FSW: INFO: Got VSA Power: 0.47 degrees
+SCTA_repo.src.unittests.FSW_test: DEBUG: the phase error only is: 0.472920
+--------------------- >> end captured logging << ---------------------
+
+======================================================================
+FAIL: SCTA_repo.src.unittests.FSW_test.FSW_Test.test_getSpectrumChannelPower
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\labuser\Anaconda3\envs\SCTA\lib\site-packages\nose\case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "C:\Users\labuser\Documents\SCTA_repo\src\unittests\FSW_test.py", line 60, in test_getSpectrumChannelPower
+    assert False
+AssertionError: 
+-------------------- >> begin captured logging << --------------------
+SCTA.Instrumentation.FSW: INFO: FSW device ID: Rohde&Schwarz,FSW-26,1312.8000K26/101832,2.10 SP1
+SCTA.Instrumentation.FSW: INFO: FSW configuration complete
+SCTA.Instrumentation.FSW: INFO: Got frequency: 13250.00 MHz
+SCTA.Instrumentation.FSW: INFO: Set frequency: 974.00 MHz
+SCTA.Instrumentation.FSW: DEBUG: span= 60000000.00
+SCTA.Instrumentation.FSW: INFO: Got Spectrum Channel Power: -32.66 dBm
+SCTA_repo.src.unittests.FSW_test: DEBUG: Spectrum Channel Power = -32.655037
+--------------------- >> end captured logging << ---------------------
+
+======================================================================
+FAIL: SCTA_repo.src.unittests.FSW_test.FSW_Test.test_getVSAChannelPower
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\labuser\Anaconda3\envs\SCTA\lib\site-packages\nose\case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "C:\Users\labuser\Documents\SCTA_repo\src\unittests\FSW_test.py", line 76, in test_getVSAChannelPower
+    assert False
+AssertionError: 
+-------------------- >> begin captured logging << --------------------
+SCTA.Instrumentation.FSW: INFO: FSW device ID: Rohde&Schwarz,FSW-26,1312.8000K26/101832,2.10 SP1
+SCTA.Instrumentation.FSW: INFO: FSW configuration complete
+SCTA.Instrumentation.FSW: INFO: Set constellation: QPSK
+SCTA.Instrumentation.FSW: INFO: Got frequency: 13250.00 MHz
+SCTA.Instrumentation.FSW: INFO: Set frequency: 974.00 MHz
+SCTA.Instrumentation.FSW: INFO: Got symbol rate: 3.84 MBaud
+SCTA.Instrumentation.FSW: INFO: Set symbol rate: 20.00 MBaud
+SCTA.Instrumentation.FSW: INFO: Got roll-off factor: 22.00
+SCTA.Instrumentation.FSW: INFO: Set roll-off factor: 20.00
+SCTA.Instrumentation.FSW: INFO: Got symbol rate: 20.00 MBaud
+SCTA.Instrumentation.FSW: INFO: symb = 20000000.00
+SCTA.Instrumentation.FSW: DEBUG: Got All VSA measurements: {'mer': 38.3150138855, 'power': -32.7667045593, 'carrierfreqerror': -2259.73803711, 'phaseerror': 0.49178418517}
+SCTA.Instrumentation.FSW: INFO: Got VSA Power: -32.77 dBm
+SCTA_repo.src.unittests.FSW_test: DEBUG: the VSA ch power only is: -32.766705
+--------------------- >> end captured logging << ---------------------
+
+======================================================================
+FAIL: SCTA_repo.src.unittests.FSW_test.FSW_Test.test_setSpan
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\labuser\Anaconda3\envs\SCTA\lib\site-packages\nose\case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "C:\Users\labuser\Documents\SCTA_repo\src\unittests\FSW_test.py", line 138, in test_setSpan
+    assert ((self.TEST_SYMB*3) == actual_symb)
+AssertionError: 
+-------------------- >> begin captured logging << --------------------
+SCTA.Instrumentation.FSW: INFO: FSW device ID: Rohde&Schwarz,FSW-26,1312.8000K26/101832,2.10 SP1
+SCTA.Instrumentation.FSW: INFO: FSW configuration complete
+SCTA.Instrumentation.FSW: DEBUG: span= 30000000.00
+--------------------- >> end captured logging << ---------------------
+
+======================================================================
+FAIL: SCTA_repo.src.unittests.FSW_test.FSW_Test.test_sweepAverage(10,)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\labuser\Anaconda3\envs\SCTA\lib\site-packages\nose\case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "C:\Users\labuser\Documents\SCTA_repo\src\unittests\FSW_test.py", line 132, in check_sweepAverage
+    assert False
+AssertionError: 
+-------------------- >> begin captured logging << --------------------
+SCTA.Instrumentation.FSW: INFO: FSW device ID: Rohde&Schwarz,FSW-26,1312.8000K26/101832,2.10 SP1
+SCTA.Instrumentation.FSW: INFO: FSW configuration complete
+SCTA.Instrumentation.FSW: INFO: Set constellation: QPSK
+SCTA.Instrumentation.FSW: INFO: Got frequency: 13250.00 MHz
+SCTA.Instrumentation.FSW: INFO: Set frequency: 974.00 MHz
+SCTA.Instrumentation.FSW: INFO: Got symbol rate: 3.84 MBaud
+SCTA.Instrumentation.FSW: INFO: Set symbol rate: 20.00 MBaud
+SCTA.Instrumentation.FSW: INFO: Got roll-off factor: 22.00
+SCTA.Instrumentation.FSW: INFO: Set roll-off factor: 20.00
+SCTA.Instrumentation.FSW: INFO: Got symbol rate: 20.00 MBaud
+SCTA.Instrumentation.FSW: INFO: symb = 20000000.00
+SCTA.Instrumentation.FSW: DEBUG: Got All VSA measurements: {'mer': 38.3723716736, 'power': -32.769405365, 'carrierfreqerror': -2261.79858398, 'phaseerror': 0.49057155848}
+SCTA.Instrumentation.FSW: INFO: Got symbol rate: 20.00 MBaud
+SCTA.Instrumentation.FSW: INFO: symb = 20000000.00
+SCTA.Instrumentation.FSW: DEBUG: Got All VSA measurements: {'mer': 38.36378479, 'power': -32.7695541382, 'carrierfreqerror': -2260.0390625, 'phaseerror': 0.48321908712}
+SCTA.Instrumentation.FSW: INFO: Got symbol rate: 20.00 MBaud
+SCTA.Instrumentation.FSW: INFO: symb = 20000000.00
+SCTA.Instrumentation.FSW: DEBUG: Got All VSA measurements: {'mer': 38.3307800293, 'power': -32.7720146179, 'carrierfreqerror': -2262.15649414, 'phaseerror': 0.49638053775}
+SCTA.Instrumentation.FSW: INFO: Got symbol rate: 20.00 MBaud
+SCTA.Instrumentation.FSW: INFO: symb = 20000000.00
+SCTA.Instrumentation.FSW: DEBUG: Got All VSA measurements: {'mer': 38.407585144, 'power': -32.7746772766, 'carrierfreqerror': -2259.71362305, 'phaseerror': 0.48664739728}
+SCTA.Instrumentation.FSW: INFO: Got symbol rate: 20.00 MBaud
+SCTA.Instrumentation.FSW: INFO: symb = 20000000.00
+SCTA.Instrumentation.FSW: DEBUG: Got All VSA measurements: {'mer': 38.3391265869, 'power': -32.774772644, 'carrierfreqerror': -2258.45629883, 'phaseerror': 0.49189662933}
+SCTA.Instrumentation.FSW: INFO: Got symbol rate: 20.00 MBaud
+SCTA.Instrumentation.FSW: INFO: symb = 20000000.00
+SCTA.Instrumentation.FSW: DEBUG: Got All VSA measurements: {'mer': 38.2591781616, 'power': -32.7802238464, 'carrierfreqerror': -2260.53857422, 'phaseerror': 0.49963408709}
+SCTA.Instrumentation.FSW: INFO: Got symbol rate: 20.00 MBaud
+SCTA.Instrumentation.FSW: INFO: symb = 20000000.00
+SCTA.Instrumentation.FSW: DEBUG: Got All VSA measurements: {'mer': 38.4001617432, 'power': -32.7780342102, 'carrierfreqerror': -2263.79589844, 'phaseerror': 0.48651346564}
+SCTA.Instrumentation.FSW: INFO: Got symbol rate: 20.00 MBaud
+SCTA.Instrumentation.FSW: INFO: symb = 20000000.00
+SCTA.Instrumentation.FSW: DEBUG: Got All VSA measurements: {'mer': 38.2422599792, 'power': -32.7793769836, 'carrierfreqerror': -2258.64404297, 'phaseerror': 0.49778866768}
+SCTA.Instrumentation.FSW: INFO: Got symbol rate: 20.00 MBaud
+SCTA.Instrumentation.FSW: INFO: symb = 20000000.00
+SCTA.Instrumentation.FSW: DEBUG: Got All VSA measurements: {'mer': 38.3343276978, 'power': -32.7792663574, 'carrierfreqerror': -2256.51953125, 'phaseerror': 0.48624613881}
+SCTA.Instrumentation.FSW: INFO: Got symbol rate: 20.00 MBaud
+SCTA.Instrumentation.FSW: INFO: symb = 20000000.00
+SCTA.Instrumentation.FSW: DEBUG: Got All VSA measurements: {'mer': 38.3682785034, 'power': -32.7781219482, 'carrierfreqerror': -2261.23046875, 'phaseerror': 0.49124571681}
+SCTA_repo.src.unittests.FSW_test: DEBUG: avg = 10
+SCTA_repo.src.unittests.FSW_test: DEBUG: 	measurement = mer
+SCTA_repo.src.unittests.FSW_test: DEBUG: 		mean = 38.341785
+SCTA_repo.src.unittests.FSW_test: DEBUG: 		MOE = 0.270840
+SCTA_repo.src.unittests.FSW_test: DEBUG: 	measurement = power
+SCTA_repo.src.unittests.FSW_test: DEBUG: 		mean = -32.775545
+SCTA_repo.src.unittests.FSW_test: DEBUG: 		MOE = 0.020318
+SCTA_repo.src.unittests.FSW_test: DEBUG: 	measurement = carrierfreqerror
+SCTA_repo.src.unittests.FSW_test: DEBUG: 		mean = -2260.289258
+SCTA_repo.src.unittests.FSW_test: DEBUG: 		MOE = 10.427053
+SCTA_repo.src.unittests.FSW_test: DEBUG: 	measurement = phaseerror
+SCTA_repo.src.unittests.FSW_test: DEBUG: 		mean = 0.491014
+SCTA_repo.src.unittests.FSW_test: DEBUG: 		MOE = 0.027342
+--------------------- >> end captured logging << ---------------------
+
+======================================================================
+FAIL: SCTA_repo.src.unittests.FSW_test.FSW_Test.test_sweepAverage(100,)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\labuser\Anaconda3\envs\SCTA\lib\site-packages\nose\case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "C:\Users\labuser\Documents\SCTA_repo\src\unittests\FSW_test.py", line 132, in check_sweepAverage
+    assert False
+AssertionError: 
+-------------------- >> begin captured logging << --------------------
+SCTA.Instrumentation.FSW: INFO: Got symbol rate: 20.00 MBaud
+SCTA.Instrumentation.FSW: INFO: symb = 20000000.00
+SCTA.Instrumentation.FSW: DEBUG: Got All VSA measurements: {'mer': 38.3148651123, 'power': -32.7809753418, 'carrierfreqerror': -2260.72265625, 'phaseerror': 0.49160632491}
+SCTA.Instrumentation.FSW: INFO: Got symbol rate: 20.00 MBaud
+SCTA.Instrumentation.FSW: INFO: symb = 20000000.00
+SCTA.Instrumentation.FSW: DEBUG: Got All VSA measurements: {'mer': 38.3229789734, 'power': -32.7798843384, 'carrierfreqerror': -2261.04003906, 'phaseerror': 0.49134865403}
+SCTA.Instrumentation.FSW: INFO: Got symbol rate: 20.00 MBaud
+SCTA.Instrumentation.FSW: INFO: symb = 20000000.00
+SCTA.Instrumentation.FSW: DEBUG: Got All VSA measurements: {'mer': 38.3099327087, 'power': -32.7831344604, 'carrierfreqerror': -2261.88598633, 'phaseerror': 0.49282076955}
+SCTA.Instrumentation.FSW: INFO: Got symbol rate: 20.00 MBaud
+SCTA.Instrumentation.FSW: INFO: symb = 20000000.00
+SCTA.Instrumentation.FSW: DEBUG: Got All VSA measurements: {'mer': 38.330696106, 'power': -32.7824516296, 'carrierfreqerror': -2259.51513672, 'phaseerror': 0.49226620793}
+SCTA.Instrumentation.FSW: INFO: Got symbol rate: 20.00 MBaud
+SCTA.Instrumentation.FSW: INFO: symb = 20000000.00
+SCTA.Instrumentation.FSW: DEBUG: Got All VSA measurements: {'mer': 38.3188705444, 'power': -32.7829627991, 'carrierfreqerror': -2260.51782227, 'phaseerror': 0.49368974566}
+SCTA.Instrumentation.FSW: INFO: Got symbol rate: 20.00 MBaud
+SCTA.Instrumentation.FSW: INFO: symb = 20000000.00
+SCTA.Instrumentation.FSW: DEBUG: Got All VSA measurements: {'mer': 38.3012313843, 'power': -32.7858734131, 'carrierfreqerror': -2261.3359375, 'phaseerror': 0.49322465062}
+SCTA.Instrumentation.FSW: INFO: Got symbol rate: 20.00 MBaud
+SCTA.Instrumentation.FSW: INFO: symb = 20000000.00
+SCTA.Instrumentation.FSW: DEBUG: Got All VSA measurements: {'mer': 38.3270568848, 'power': -32.7879257202, 'carrierfreqerror': -2259.92724609, 'phaseerror': 0.49127849936}
+SCTA.Instrumentation.FSW: INFO: Got symbol rate: 20.00 MBaud
+SCTA.Instrumentation.FSW: INFO: symb = 20000000.00
+SCTA.Instrumentation.FSW: DEBUG: Got All VSA measurements: {'mer': 38.3166122437, 'power': -32.7883987427, 'carrierfreqerror': -2261.16479492, 'phaseerror': 0.49198782444}
+SCTA.Instrumentation.FSW: INFO: Got symbol rate: 20.00 MBaud
+SCTA.Instrumentation.FSW: INFO: symb = 20000000.00
+SCTA.Instrumentation.FSW: DEBUG: Got All VSA measurements: {'mer': 38.36693573, 'power': -32.788608551, 'carrierfreqerror': -2258.24438477, 'phaseerror': 0.49064990878}
+SCTA.Instrumentation.FSW: INFO: Got symbol rate: 20.00 MBaud
+SCTA.Instrumentation.FSW: INFO: symb = 20000000.00
+SCTA.Instrumentation.FSW: DEBUG: Got All VSA measurements: {'mer': 38.2893333435, 'power': -32.7890090942, 'carrierfreqerror': -2260.4609375, 'phaseerror': 0.49392747879}
+SCTA_repo.src.unittests.FSW_test: DEBUG: avg = 100
+SCTA_repo.src.unittests.FSW_test: DEBUG: 	measurement = mer
+SCTA_repo.src.unittests.FSW_test: DEBUG: 		mean = 38.319851
+SCTA_repo.src.unittests.FSW_test: DEBUG: 		MOE = 0.102159
+SCTA_repo.src.unittests.FSW_test: DEBUG: 	measurement = power
+SCTA_repo.src.unittests.FSW_test: DEBUG: 		mean = -32.784922
+SCTA_repo.src.unittests.FSW_test: DEBUG: 		MOE = 0.017074
+SCTA_repo.src.unittests.FSW_test: DEBUG: 	measurement = carrierfreqerror
+SCTA_repo.src.unittests.FSW_test: DEBUG: 		mean = -2260.481494
+SCTA_repo.src.unittests.FSW_test: DEBUG: 		MOE = 5.178466
+SCTA_repo.src.unittests.FSW_test: DEBUG: 	measurement = phaseerror
+SCTA_repo.src.unittests.FSW_test: DEBUG: 		mean = 0.492280
+SCTA_repo.src.unittests.FSW_test: DEBUG: 		MOE = 0.005478
+--------------------- >> end captured logging << ---------------------
+
+======================================================================
+FAIL: SCTA_repo.src.unittests.FSW_test.FSW_Test.test_sweepAverage(1000,)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\labuser\Anaconda3\envs\SCTA\lib\site-packages\nose\case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "C:\Users\labuser\Documents\SCTA_repo\src\unittests\FSW_test.py", line 132, in check_sweepAverage
+    assert False
+AssertionError: 
+-------------------- >> begin captured logging << --------------------
+SCTA.Instrumentation.FSW: INFO: Got symbol rate: 20.00 MBaud
+SCTA.Instrumentation.FSW: INFO: symb = 20000000.00
+SCTA.Instrumentation.FSW: DEBUG: Got All VSA measurements: {'mer': 38.3091316223, 'power': -32.7900848389, 'carrierfreqerror': -2260.81958008, 'phaseerror': 0.49288865924}
+SCTA.Instrumentation.FSW: INFO: Got symbol rate: 20.00 MBaud
+SCTA.Instrumentation.FSW: INFO: symb = 20000000.00
+SCTA.Instrumentation.FSW: DEBUG: Got All VSA measurements: {'mer': 38.3155899048, 'power': -32.7937049866, 'carrierfreqerror': -2259.51391602, 'phaseerror': 0.49249485135}
+SCTA.Instrumentation.FSW: INFO: Got symbol rate: 20.00 MBaud
+SCTA.Instrumentation.FSW: INFO: symb = 20000000.00
+SCTA.Instrumentation.FSW: DEBUG: Got All VSA measurements: {'mer': 38.3056106567, 'power': -32.7955551147, 'carrierfreqerror': -2259.19750977, 'phaseerror': 0.49258968234}
+SCTA.Instrumentation.FSW: INFO: Got symbol rate: 20.00 MBaud
+SCTA.Instrumentation.FSW: INFO: symb = 20000000.00
+SCTA.Instrumentation.FSW: DEBUG: Got All VSA measurements: {'mer': 38.3242721558, 'power': -32.7946281433, 'carrierfreqerror': -2258.97875977, 'phaseerror': 0.49112191796}
+SCTA.Instrumentation.FSW: INFO: Got symbol rate: 20.00 MBaud
+SCTA.Instrumentation.FSW: INFO: symb = 20000000.00
+SCTA.Instrumentation.FSW: DEBUG: Got All VSA measurements: {'mer': 38.31042099, 'power': -32.7954483032, 'carrierfreqerror': -2259.66967773, 'phaseerror': 0.49277925491}
+SCTA.Instrumentation.FSW: INFO: Got symbol rate: 20.00 MBaud
+SCTA.Instrumentation.FSW: INFO: symb = 20000000.00
+SCTA.Instrumentation.FSW: DEBUG: Got All VSA measurements: {'mer': 38.3148269653, 'power': -32.7977218628, 'carrierfreqerror': -2260.5078125, 'phaseerror': 0.49221971631}
+SCTA.Instrumentation.FSW: INFO: Got symbol rate: 20.00 MBaud
+SCTA.Instrumentation.FSW: INFO: symb = 20000000.00
+SCTA.Instrumentation.FSW: DEBUG: Got All VSA measurements: {'mer': 38.3247032166, 'power': -32.7981872559, 'carrierfreqerror': -2260.09350586, 'phaseerror': 0.49181577563}
+SCTA.Instrumentation.FSW: INFO: Got symbol rate: 20.00 MBaud
+SCTA.Instrumentation.FSW: INFO: symb = 20000000.00
+SCTA.Instrumentation.FSW: DEBUG: Got All VSA measurements: {'mer': 38.3195915222, 'power': -32.7974510193, 'carrierfreqerror': -2259.49658203, 'phaseerror': 0.49234899879}
+SCTA.Instrumentation.FSW: INFO: Got symbol rate: 20.00 MBaud
+SCTA.Instrumentation.FSW: INFO: symb = 20000000.00
+SCTA.Instrumentation.FSW: DEBUG: Got All VSA measurements: {'mer': 38.3217048645, 'power': -32.7879753113, 'carrierfreqerror': -2259.99536133, 'phaseerror': 0.49194976687}
+SCTA.Instrumentation.FSW: INFO: Got symbol rate: 20.00 MBaud
+SCTA.Instrumentation.FSW: INFO: symb = 20000000.00
+SCTA.Instrumentation.FSW: DEBUG: Got All VSA measurements: {'mer': 38.3155860901, 'power': -32.7848396301, 'carrierfreqerror': -2259.35498047, 'phaseerror': 0.4923466146}
+SCTA_repo.src.unittests.FSW_test: DEBUG: avg = 1000
+SCTA_repo.src.unittests.FSW_test: DEBUG: 	measurement = mer
+SCTA_repo.src.unittests.FSW_test: DEBUG: 		mean = 38.316144
+SCTA_repo.src.unittests.FSW_test: DEBUG: 		MOE = 0.032155
+SCTA_repo.src.unittests.FSW_test: DEBUG: 	measurement = power
+SCTA_repo.src.unittests.FSW_test: DEBUG: 		mean = -32.793560
+SCTA_repo.src.unittests.FSW_test: DEBUG: 		MOE = 0.022324
+SCTA_repo.src.unittests.FSW_test: DEBUG: 	measurement = carrierfreqerror
+SCTA_repo.src.unittests.FSW_test: DEBUG: 		mean = -2259.762769
+SCTA_repo.src.unittests.FSW_test: DEBUG: 		MOE = 2.903768
+SCTA_repo.src.unittests.FSW_test: DEBUG: 	measurement = phaseerror
+SCTA_repo.src.unittests.FSW_test: DEBUG: 		mean = 0.492256
+SCTA_repo.src.unittests.FSW_test: DEBUG: 		MOE = 0.002583
+--------------------- >> end captured logging << ---------------------
+
+----------------------------------------------------------------------
+Ran 85 tests in 149.731s
+
+FAILED (failures=10)
+Exception ignored in: <object repr() failed>
+Traceback (most recent call last):
+  File "C:\Users\labuser\Anaconda3\envs\SCTA\lib\site-packages\pyvisa\resources\resource.py", line 108, in __del__
+  File "C:\Users\labuser\Anaconda3\envs\SCTA\lib\site-packages\pyvisa\resources\resource.py", line 237, in close
+  File "C:\Users\labuser\Anaconda3\envs\SCTA\lib\site-packages\pyvisa\resources\resource.py", line 229, in before_close
+  File "C:\Users\labuser\Anaconda3\envs\SCTA\lib\site-packages\pyvisa\resources\resource.py", line 246, in __switch_events_off
+  File "C:\Users\labuser\Anaconda3\envs\SCTA\lib\site-packages\pyvisa\resources\resource.py", line 301, in disable_event
+  File "C:\Users\labuser\Anaconda3\envs\SCTA\lib\site-packages\pyvisa\ctwrapper\functions.py", line 408, in disable_event
+  File "C:\Users\labuser\Anaconda3\envs\SCTA\lib\site-packages\pyvisa\ctwrapper\highlevel.py", line 188, in _return_handler
+pyvisa.errors.VisaIOError: VI_ERROR_INV_OBJECT (-1073807346): The given session or object reference is invalid.
