@@ -136,7 +136,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 ## Authors
 
 * **Douglas Hu** - *Initial work* - [DougMHu](https://github.com/DougMHu)
-* **Jose Luis Perez** - *Initial work* - [KennyJLP](https://github.com/KennyJLP)
+* **Jose Luis Perez** - *Initial work* - [joselperez](https://github.com/joselperez)
 
 ## License
 
