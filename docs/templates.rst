@@ -6,7 +6,7 @@ Frequency Sweep Test Template
 
 Imagine you want to measure the Power or SNR measurement accuracy of a satellite receiver compared to a vetted RF test instrument like the Rhode & Schwarz FSW. Perhaps your lab setup might look like this.
 
-.. figure:: _static/img/accuracy-setup.PNG
+.. figure:: _static/img/accuracy-setup.png
    :alt: RF front-end test block diagram
    :scale: 80 %
 
@@ -53,7 +53,7 @@ BER Test Template
 
 Imagine you want to test the frequency sensitivity of a satellite receiver to low power conditions near the specified QEF point. Perhaps your lab setup might look like this.
 
-.. figure:: _static/img/sensitivity-setup.PNG
+.. figure:: _static/img/sensitivity-setup.png
    :alt: RF front-end test block diagram
    :scale: 80 %
 
