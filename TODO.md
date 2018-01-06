@@ -18,3 +18,5 @@
 
 * [ ] Phase Noise Spec
 	- [ ] hardcode values into test template
+
+* [ ] Package and register SCTA with PyPA
