@@ -20,3 +20,4 @@
 	- [ ] hardcode values into test template
 
 * [ ] Package and register SCTA with PyPA
+* [ ] Docs: Screenshots / Images of the set-up (include schematic / wiring diagram)

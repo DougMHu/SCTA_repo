@@ -146,4 +146,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 * Jose Luis Perez, RF test automation guru
 * Charles Palaganas, for providing the vision and software architecture
+* Ofelia Quintero, for her contributions to instrument libraries
 * Sarah Trisorus, for her patient guidance in software development
